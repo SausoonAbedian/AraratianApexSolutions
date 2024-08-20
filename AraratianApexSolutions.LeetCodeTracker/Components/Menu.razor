@@ -1,10 +1,21 @@
-﻿<div class="vertical-navbar">
-    <NavLink href="/" class="nav-link" Match="NavLinkMatch.All">Questions</NavLink>
-    <NavLink href="/" class="nav-link" Match="NavLinkMatch.All">TBD</NavLink>
-    <NavLink href="/" class="nav-link" Match="NavLinkMatch.All">TBD</NavLink>
-    <NavLink href="/" class="nav-link" Match="NavLinkMatch.All">TBD</NavLink>
+﻿@inject NavigationManager Navigation
+
+<div class="navbar">
+    <NavLink href="/Questions" class="@GetClassName("Questions")" Match="NavLinkMatch.All">Questions</NavLink>
+    <NavLink href="/Groups" class="@GetClassName("Groups")")" Match="NavLinkMatch.All">Groups</NavLink>
+    <NavLink href="/Categories" class="@GetClassName("Categories")" Match="NavLinkMatch.All">Categories</NavLink>
 </div>
 
 @code {
-
+    string GetClassName(string linkName)
+    {
+        if (Navigation.Uri.Contains(linkName))
+        {
+            return "nav-link navbar-item-active";
+        }
+        else
+        {
+            return "nav-link navbar-item";
+        }
+    }
 }

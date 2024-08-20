@@ -1,45 +1,56 @@
 ﻿body {
-    margin: 0px;
+  margin: 0px;
 }
 
 .grid-container {
-    display: grid;
-    grid-template-columns: 200px 1fr;
-    grid-template-rows: 1fr;
-    height: 100vh;
-    width: 100vw;
-    overflow-y: auto;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  grid-template-rows: 1fr;
+  height: 100vh;
+  width: 100vw;
+  overflow-y: auto;
 }
 
 .grid-item-b {
-    grid-column: 2;
-    grid-row: 1;
-    background-color: #666;
-    padding: 16px;
+  grid-column: 2;
+  grid-row: 1;
+  background-color: rgb(255, 255, 255);
+  padding: 16px;
 }
 
-.vertical-navbar {
-    width: 200px;
-    background-color: #333;
-    overflow-x: hidden;
-    grid-column: 1;
-    grid-row: 1;
+.navbar {
+  width: 200px;
+  background-color: rgb(255, 255, 255);
+  overflow-x: hidden;
+  grid-column: 1;
+  grid-row: 1;
+  border-right: 1px solid rgb(35, 35, 35);
+  z-index: 1;
 }
 
-    .vertical-navbar a {
-        display: block;
-        color: white;
-        padding: 16px;
-        text-decoration: none;
-        transition: 0.3s;
-        font-size: 18px;
-    }
+.navbar-item {
+  display: block;
+  background-color: rgb(255, 255, 255);
+  color: rgb(35, 35, 35);
+  padding: 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  border-bottom: 1px solid rgb(35, 35, 35);
+}
 
-        .vertical-navbar a:hover {
-            background-color: #575757;
-            color: white;
-        }
+.navbar-item:hover {
+  background-color: rgb(240, 240, 240);
+  color: rgb(35, 35, 35);
+}
 
-        .vertical-navbar a:not(:last-child) {
-            border-bottom: 1px solid #444;
-        }
+.navbar-item-active {
+  display: block;
+  background-color: rgb(35, 35, 35);
+  color: rgb(255, 255, 255);
+  padding: 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  border-bottom: 1px solid rgb(35, 35, 35);
+}
