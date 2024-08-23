@@ -1,8 +1,28 @@
 ﻿@page "/"
 @page "/Questions"
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Questions</PageTitle>
 
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
+<div class="questions">
+    <table>
+        <thead>
+            <tr>
+                <th class="column1">Number</th>
+                <th class="column2">Title</th>
+                <th class="column3">Difficulty</th>
+                <th class="column4">New</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < 200; i++)
+            {
+                <tr>
+                    <td class="column1">Data 01</td>
+                    <td class="column2">Data 02</td>
+                    <td class="column3">Data 03</td>
+                    <td class="column4">Data 04</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -2,5 +2,21 @@
   {
     "outputFile": "wwwroot/style.css",
     "inputFile": "wwwroot/style.scss"
+  },
+  {
+    "outputFile": "wwwroot/main_layout.css",
+    "inputFile": "wwwroot/main_layout.scss"
+  },
+  {
+    "outputFile": "wwwroot/_colors.css",
+    "inputFile": "wwwroot/_colors.scss"
+  },
+  {
+    "outputFile": "wwwroot/navbar.css",
+    "inputFile": "wwwroot/navbar.scss"
+  },
+  {
+    "outputFile": "wwwroot/questions.css",
+    "inputFile": "wwwroot/questions.scss"
   }
 ]

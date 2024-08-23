@@ -1,0 +1,38 @@
+﻿.navbar {
+  width: 200px;
+  background-color: rgb(35, 35, 35);
+  overflow-x: hidden;
+  grid-column: 1;
+  grid-row: 1;
+  border-right: 1px solid rgb(60, 60, 60);
+  z-index: 1;
+  position: sticky;
+  top: 0;
+}
+
+.navbar-item {
+  display: block;
+  background-color: rgb(35, 35, 35);
+  color: rgb(255, 255, 255);
+  padding: 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  border-bottom: 1px solid rgb(60, 60, 60);
+}
+
+.navbar-item:hover {
+  background-color: rgb(15, 15, 15);
+  color: rgb(255, 255, 255);
+}
+
+.navbar-item-active {
+  display: block;
+  background-color: rgb(255, 255, 255);
+  color: rgb(35, 35, 35);
+  padding: 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 18px;
+  border-bottom: 1px solid rgb(60, 60, 60);
+}
