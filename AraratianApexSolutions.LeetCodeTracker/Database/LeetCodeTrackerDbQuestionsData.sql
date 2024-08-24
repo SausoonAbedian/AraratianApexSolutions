@@ -1,3265 +1,3283 @@
 INSERT INTO Questions ([Number], [Title], [Difficulty])
 VALUES
-(1, Two Sum, Easy
-(2, Add Two Numbers, Medium
-(3, Longest Substring Without Repeating Characters, Medium
-(4, Median of Two Sorted Arrays, Hard
-(5, Longest Palindromic Substring, Medium
-(6, Zigzag Conversion, Medium
-(7, Reverse Integer, Medium
-(8, String to Integer (atoi), Medium
-(9, Palindrome Number, Easy
-(10, Regular Expression Matching, Hard
-(11, Container With Most Water, Medium
-(12, Integer to Roman, Medium
-(13, Roman to Integer, Easy
-(14, Longest Common Prefix, Easy
-(15, 3Sum, Medium
-(16, 3Sum Closest, Medium
-(17, Letter Combinations of a Phone Number, Medium
-(18, 4Sum, Medium
-(19, Remove Nth Node From End of List, Medium
-(20, Valid Parentheses, Easy
-(21, Merge Two Sorted Lists, Easy
-(22, Generate Parentheses, Medium
-(23, Merge k Sorted Lists, Hard
-(24, Swap Nodes in Pairs, Medium
-(25, Reverse Nodes in k-Group, Hard
-(26, Remove Duplicates from Sorted Array, Easy
-(27, Remove Element, Easy
-(28, Find the Index of the First Occurrence in a String, Easy
-(29, Divide Two Integers, Medium
-(30, Substring with Concatenation of All Words, Hard
-(31, Next Permutation, Medium
-(32, Longest Valid Parentheses, Hard
-(33, Search in Rotated Sorted Array, Medium
-(34, Find First and Last Position of Element in Sorted Array, Medium
-(35, Search Insert Position, Easy
-(36, Valid Sudoku, Medium
-(37, Sudoku Solver, Hard
-(38, Count and Say, Medium
-(39, Combination Sum, Medium
-(40, Combination Sum II, Medium
-(41, First Missing Positive, Hard
-(42, Trapping Rain Water, Hard
-(43, Multiply Strings, Medium
-(44, Wildcard Matching, Hard
-(45, Jump Game II, Medium
-(46, Permutations, Medium
-(47, Permutations II, Medium
-(48, Rotate Image, Medium
-(49, Group Anagrams, Medium
-(50, Pow(x, n), Medium
-(51, N-Queens, Hard
-(52, N-Queens II, Hard
-(53, Maximum Subarray, Medium
-(54, Spiral Matrix, Medium
-(55, Jump Game, Medium
-(56, Merge Intervals, Medium
-(57, Insert Interval, Medium
-(58, Length of Last Word, Easy
-(59, Spiral Matrix II, Medium
-(60, Permutation Sequence, Hard
-(61, Rotate List, Medium
-(62, Unique Paths, Medium
-(63, Unique Paths II, Medium
-(64, Minimum Path Sum, Medium
-(65, Valid Number, Hard
-(66, Plus One, Easy
-(67, Add Binary, Easy
-(68, Text Justification, Hard
-(69, Sqrt(x), Easy
-(70, Climbing Stairs, Easy
-(71, Simplify Path, Medium
-(72, Edit Distance, Medium
-(73, Set Matrix Zeroes, Medium
-(74, Search a 2D Matrix, Medium
-(75, Sort Colors, Medium
-(76, Minimum Window Substring, Hard
-(77, Combinations, Medium
-(78, Subsets, Medium
-(79, Word Search, Medium
-(80, Remove Duplicates from Sorted Array II, Medium
-(81, Search in Rotated Sorted Array II, Medium
-(82, Remove Duplicates from Sorted List II, Medium
-(83, Remove Duplicates from Sorted List, Easy
-(84, Largest Rectangle in Histogram, Hard
-(85, Maximal Rectangle, Hard
-(86, Partition List, Medium
-(87, Scramble String, Hard
-(88, Merge Sorted Array, Easy
-(89, Gray Code, Medium
-(90, Subsets II, Medium
-(91, Decode Ways, Medium
-(92, Reverse Linked List II, Medium
-(93, Restore IP Addresses, Medium
-(94, Binary Tree Inorder Traversal, Easy
-(95, Unique Binary Search Trees II, Medium
-(96, Unique Binary Search Trees, Medium
-(97, Interleaving String, Medium
-(98, Validate Binary Search Tree, Medium
-(99, Recover Binary Search Tree, Medium
-(100, Same Tree, Easy
-(101, Symmetric Tree, Easy
-(102, Binary Tree Level Order Traversal, Medium
-(103, Binary Tree Zigzag Level Order Traversal, Medium
-(104, Maximum Depth of Binary Tree, Easy
-(105, Construct Binary Tree from Preorder and Inorder Traversal, Medium
-(106, Construct Binary Tree from Inorder and Postorder Traversal, Medium
-(107, Binary Tree Level Order Traversal II, Medium
-(108, Convert Sorted Array to Binary Search Tree, Easy
-(109, Convert Sorted List to Binary Search Tree, Medium
-(110, Balanced Binary Tree, Easy
-(111, Minimum Depth of Binary Tree, Easy
-(112, Path Sum, Easy
-(113, Path Sum II, Medium
-(114, Flatten Binary Tree to Linked List, Medium
-(115, Distinct Subsequences, Hard
-(116, Populating Next Right Pointers in Each Node, Medium
-(117, Populating Next Right Pointers in Each Node II, Medium
-(118, Pascal's Triangle, Easy
-(119, Pascal's Triangle II, Easy
-(120, Triangle, Medium
-(121, Best Time to Buy and Sell Stock, Easy
-(122, Best Time to Buy and Sell Stock II, Medium
-(123, Best Time to Buy and Sell Stock III, Hard
-(124, Binary Tree Maximum Path Sum, Hard
-(125, Valid Palindrome, Easy
-(126, Word Ladder II, Hard
-(127, Word Ladder, Hard
-(128, Longest Consecutive Sequence, Medium
-(129, Sum Root to Leaf Numbers, Medium
-(130, Surrounded Regions, Medium
-(131, Palindrome Partitioning, Medium
-(132, Palindrome Partitioning II, Hard
-(133, Clone Graph, Medium
-(134, Gas Station, Medium
-(135, Candy, Hard
-(136, Single Number, Easy
-(137, Single Number II, Medium
-(138, Copy List with Random Pointer, Medium
-(139, Word Break, Medium
-(140, Word Break II, Hard
-(141, Linked List Cycle, Easy
-(142, Linked List Cycle II, Medium
-(143, Reorder List, Medium
-(144, Binary Tree Preorder Traversal, Easy
-(145, Binary Tree Postorder Traversal, Easy
-(146, LRU Cache, Medium
-(147, Insertion Sort List, Medium
-(148, Sort List, Medium
-(149, Max Points on a Line, Hard
-(150, Evaluate Reverse Polish Notation, Medium
-(151, Reverse Words in a String, Medium
-(152, Maximum Product Subarray, Medium
-(153, Find Minimum in Rotated Sorted Array, Medium
-(154, Find Minimum in Rotated Sorted Array II, Hard
-(155, Min Stack, Medium
-(156, Binary Tree Upside Down, Medium
-(157, Read N Characters Given Read4, Easy
-(158, Read N Characters Given read4 II - Call Multiple Times, Hard
-(159, Longest Substring with At Most Two Distinct Characters, Medium
-(160, Intersection of Two Linked Lists, Easy
-(161, One Edit Distance, Medium
-(162, Find Peak Element, Medium
-(163, Missing Ranges, Easy
-(164, Maximum Gap, Medium
-(165, Compare Version Numbers, Medium
-(166, Fraction to Recurring Decimal, Medium
-(167, Two Sum II - Input Array Is Sorted, Medium
-(168, Excel Sheet Column Title, Easy
-(169, Majority Element, Easy
-(170, Two Sum III - Data structure design, Easy
-(171, Excel Sheet Column Number, Easy
-(172, Factorial Trailing Zeroes, Medium
-(173, Binary Search Tree Iterator, Medium
-(174, Dungeon Game, Hard
-(175, Combine Two Tables, Easy
-(176, Second Highest Salary, Medium
-(177, Nth Highest Salary, Medium
-(178, Rank Scores, Medium
-(179, Largest Number, Medium
-(180, Consecutive Numbers, Medium
-(181, Employees Earning More Than Their Managers, Easy
-(182, Duplicate Emails, Easy
-(183, Customers Who Never Order, Easy
-(184, Department Highest Salary, Medium
-(185, Department Top Three Salaries, Hard
-(186, Reverse Words in a String II, Medium
-(187, Repeated DNA Sequences, Medium
-(188, Best Time to Buy and Sell Stock IV, Hard
-(189, Rotate Array, Medium
-(190, Reverse Bits, Easy
-(191, Number of 1 Bits, Easy
-(192, Word Frequency, Medium
-(193, Valid Phone Numbers, Easy
-(194, Transpose File, Medium
-(195, Tenth Line, Easy
-(196, Delete Duplicate Emails, Easy
-(197, Rising Temperature, Easy
-(198, House Robber, Medium
-(199, Binary Tree Right Side View, Medium
-(200, Number of Islands, Medium
-(201, Bitwise AND of Numbers Range, Medium
-(202, Happy Number, Easy
-(203, Remove Linked List Elements, Easy
-(204, Count Primes, Medium
-(205, Isomorphic Strings, Easy
-(206, Reverse Linked List, Easy
-(207, Course Schedule, Medium
-(208, Implement Trie (Prefix Tree), Medium
-(209, Minimum Size Subarray Sum, Medium
-(210, Course Schedule II, Medium
-(211, Design Add and Search Words Data Structure, Medium
-(212, Word Search II, Hard
-(213, House Robber II, Medium
-(214, Shortest Palindrome, Hard
-(215, Kth Largest Element in an Array, Medium
-(216, Combination Sum III, Medium
-(217, Contains Duplicate, Easy
-(218, The Skyline Problem, Hard
-(219, Contains Duplicate II, Easy
-(220, Contains Duplicate III, Hard
-(221, Maximal Square, Medium
-(222, Count Complete Tree Nodes, Easy
-(223, Rectangle Area, Medium
-(224, Basic Calculator, Hard
-(225, Implement Stack using Queues, Easy
-(226, Invert Binary Tree, Easy
-(227, Basic Calculator II, Medium
-(228, Summary Ranges, Easy
-(229, Majority Element II, Medium
-(230, Kth Smallest Element in a BST, Medium
-(231, Power of Two, Easy
-(232, Implement Queue using Stacks, Easy
-(233, Number of Digit One, Hard
-(234, Palindrome Linked List, Easy
-(235, Lowest Common Ancestor of a Binary Search Tree, Medium
-(236, Lowest Common Ancestor of a Binary Tree, Medium
-(237, Delete Node in a Linked List, Medium
-(238, Product of Array Except Self, Medium
-(239, Sliding Window Maximum, Hard
-(240, Search a 2D Matrix II, Medium
-(241, Different Ways to Add Parentheses, Medium
-(242, Valid Anagram, Easy
-(243, Shortest Word Distance, Easy
-(244, Shortest Word Distance II, Medium
-(245, Shortest Word Distance III, Medium
-(246, Strobogrammatic Number, Easy
-(247, Strobogrammatic Number II, Medium
-(248, Strobogrammatic Number III, Hard
-(249, Group Shifted Strings, Medium
-(250, Count Univalue Subtrees, Medium
-(251, Flatten 2D Vector, Medium
-(252, Meeting Rooms, Easy
-(253, Meeting Rooms II, Medium
-(254, Factor Combinations, Medium
-(255, Verify Preorder Sequence in Binary Search Tree, Medium
-(256, Paint House, Medium
-(257, Binary Tree Paths, Easy
-(258, Add Digits, Easy
-(259, 3Sum Smaller, Medium
-(260, Single Number III, Medium
-(261, Graph Valid Tree, Medium
-(262, Trips and Users, Hard
-(263, Ugly Number, Easy
-(264, Ugly Number II, Medium
-(265, Paint House II, Hard
-(266, Palindrome Permutation, Easy
-(267, Palindrome Permutation II, Medium
-(268, Missing Number, Easy
-(269, Alien Dictionary, Hard
-(270, Closest Binary Search Tree Value, Easy
-(271, Encode and Decode Strings, Medium
-(272, Closest Binary Search Tree Value II, Hard
-(273, Integer to English Words, Hard
-(274, H-Index, Medium
-(275, H-Index II, Medium
-(276, Paint Fence, Medium
-(277, Find the Celebrity, Medium
-(278, First Bad Version, Easy
-(279, Perfect Squares, Medium
-(280, Wiggle Sort, Medium
-(281, Zigzag Iterator, Medium
-(282, Expression Add Operators, Hard
-(283, Move Zeroes, Easy
-(284, Peeking Iterator, Medium
-(285, Inorder Successor in BST, Medium
-(286, Walls and Gates, Medium
-(287, Find the Duplicate Number, Medium
-(288, Unique Word Abbreviation, Medium
-(289, Game of Life, Medium
-(290, Word Pattern, Easy
-(291, Word Pattern II, Medium
-(292, Nim Game, Easy
-(293, Flip Game, Easy
-(294, Flip Game II, Medium
-(295, Find Median from Data Stream, Hard
-(296, Best Meeting Point, Hard
-(297, Serialize and Deserialize Binary Tree, Hard
-(298, Binary Tree Longest Consecutive Sequence, Medium
-(299, Bulls and Cows, Medium
-(300, Longest Increasing Subsequence, Medium
-(301, Remove Invalid Parentheses, Hard
-(302, Smallest Rectangle Enclosing Black Pixels, Hard
-(303, Range Sum Query - Immutable, Easy
-(304, Range Sum Query 2D - Immutable, Medium
-(305, Number of Islands II, Hard
-(306, Additive Number, Medium
-(307, Range Sum Query - Mutable, Medium
-(308, Range Sum Query 2D - Mutable, Hard
-(309, Best Time to Buy and Sell Stock with Cooldown, Medium
-(310, Minimum Height Trees, Medium
-(311, Sparse Matrix Multiplication, Medium
-(312, Burst Balloons, Hard
-(313, Super Ugly Number, Medium
-(314, Binary Tree Vertical Order Traversal, Medium
-(315, Count of Smaller Numbers After Self, Hard
-(316, Remove Duplicate Letters, Medium
-(317, Shortest Distance from All Buildings, Hard
-(318, Maximum Product of Word Lengths, Medium
-(319, Bulb Switcher, Medium
-(320, Generalized Abbreviation, Medium
-(321, Create Maximum Number, Hard
-(322, Coin Change, Medium
-(323, Number of Connected Components in an Undirected Graph, Medium
-(324, Wiggle Sort II, Medium
-(325, Maximum Size Subarray Sum Equals k, Medium
-(326, Power of Three, Easy
-(327, Count of Range Sum, Hard
-(328, Odd Even Linked List, Medium
-(329, Longest Increasing Path in a Matrix, Hard
-(330, Patching Array, Hard
-(331, Verify Preorder Serialization of a Binary Tree, Medium
-(332, Reconstruct Itinerary, Hard
-(333, Largest BST Subtree, Medium
-(334, Increasing Triplet Subsequence, Medium
-(335, Self Crossing, Hard
-(336, Palindrome Pairs, Hard
-(337, House Robber III, Medium
-(338, Counting Bits, Easy
-(339, Nested List Weight Sum, Medium
-(340, Longest Substring with At Most K Distinct Characters, Medium
-(341, Flatten Nested List Iterator, Medium
-(342, Power of Four, Easy
-(343, Integer Break, Medium
-(344, Reverse String, Easy
-(345, Reverse Vowels of a String, Easy
-(346, Moving Average from Data Stream, Easy
-(347, Top K Frequent Elements, Medium
-(348, Design Tic-Tac-Toe, Medium
-(349, Intersection of Two Arrays, Easy
-(350, Intersection of Two Arrays II, Easy
-(351, Android Unlock Patterns, Medium
-(352, Data Stream as Disjoint Intervals, Hard
-(353, Design Snake Game, Medium
-(354, Russian Doll Envelopes, Hard
-(355, Design Twitter, Medium
-(356, Line Reflection, Medium
-(357, Count Numbers with Unique Digits, Medium
-(358, Rearrange String k Distance Apart, Hard
-(359, Logger Rate Limiter, Easy
-(360, Sort Transformed Array, Medium
-(361, Bomb Enemy, Medium
-(362, Design Hit Counter, Medium
-(363, Max Sum of Rectangle No Larger Than K, Hard
-(364, Nested List Weight Sum II, Medium
-(365, Water and Jug Problem, Medium
-(366, Find Leaves of Binary Tree, Medium
-(367, Valid Perfect Square, Easy
-(368, Largest Divisible Subset, Medium
-(369, Plus One Linked List, Medium
-(370, Range Addition, Medium
-(371, Sum of Two Integers, Medium
-(372, Super Pow, Medium
-(373, Find K Pairs with Smallest Sums, Medium
-(374, Guess Number Higher or Lower, Easy
-(375, Guess Number Higher or Lower II, Medium
-(376, Wiggle Subsequence, Medium
-(377, Combination Sum IV, Medium
-(378, Kth Smallest Element in a Sorted Matrix, Medium
-(379, Design Phone Directory, Medium
-(380, Insert Delete GetRandom O(1), Medium
-(381, Insert Delete GetRandom O(1) - Duplicates allowed, Hard
-(382, Linked List Random Node, Medium
-(383, Ransom Note, Easy
-(384, Shuffle an Array, Medium
-(385, Mini Parser, Medium
-(386, Lexicographical Numbers, Medium
-(387, First Unique Character in a String, Easy
-(388, Longest Absolute File Path, Medium
-(389, Find the Difference, Easy
-(390, Elimination Game, Medium
-(391, Perfect Rectangle, Hard
-(392, Is Subsequence, Easy
-(393, UTF-8 Validation, Medium
-(394, Decode String, Medium
-(395, Longest Substring with At Least K Repeating Characters, Medium
-(396, Rotate Function, Medium
-(397, Integer Replacement, Medium
-(398, Random Pick Index, Medium
-(399, Evaluate Division, Medium
-(400, Nth Digit, Medium
-(401, Binary Watch, Easy
-(402, Remove K Digits, Medium
-(403, Frog Jump, Hard
-(404, Sum of Left Leaves, Easy
-(405, Convert a Number to Hexadecimal, Easy
-(406, Queue Reconstruction by Height, Medium
-(407, Trapping Rain Water II, Hard
-(408, Valid Word Abbreviation, Easy
-(409, Longest Palindrome, Easy
-(410, Split Array Largest Sum, Hard
-(411, Minimum Unique Word Abbreviation, Hard
-(412, Fizz Buzz, Easy
-(413, Arithmetic Slices, Medium
-(414, Third Maximum Number, Easy
-(415, Add Strings, Easy
-(416, Partition Equal Subset Sum, Medium
-(417, Pacific Atlantic Water Flow, Medium
-(418, Sentence Screen Fitting, Medium
-(419, Battleships in a Board, Medium
-(420, Strong Password Checker, Hard
-(421, Maximum XOR of Two Numbers in an Array, Medium
-(422, Valid Word Square, Easy
-(423, Reconstruct Original Digits from English, Medium
-(424, Longest Repeating Character Replacement, Medium
-(425, Word Squares, Hard
-(426, Convert Binary Search Tree to Sorted Doubly Linked List, Medium
-(427, Construct Quad Tree, Medium
-(428, Serialize and Deserialize N-ary Tree, Hard
-(429, N-ary Tree Level Order Traversal, Medium
-(430, Flatten a Multilevel Doubly Linked List, Medium
-(431, Encode N-ary Tree to Binary Tree, Hard
-(432, All O`one Data Structure, Hard
-(433, Minimum Genetic Mutation, Medium
-(434, Number of Segments in a String, Easy
-(435, Non-overlapping Intervals, Medium
-(436, Find Right Interval, Medium
-(437, Path Sum III, Medium
-(438, Find All Anagrams in a String, Medium
-(439, Ternary Expression Parser, Medium
-(440, K-th Smallest in Lexicographical Order, Hard
-(441, Arranging Coins, Easy
-(442, Find All Duplicates in an Array, Medium
-(443, String Compression, Medium
-(444, Sequence Reconstruction, Medium
-(445, Add Two Numbers II, Medium
-(446, Arithmetic Slices II - Subsequence, Hard
-(447, Number of Boomerangs, Medium
-(448, Find All Numbers Disappeared in an Array, Easy
-(449, Serialize and Deserialize BST, Medium
-(450, Delete Node in a BST, Medium
-(451, Sort Characters By Frequency, Medium
-(452, Minimum Number of Arrows to Burst Balloons, Medium
-(453, Minimum Moves to Equal Array Elements, Medium
-(454, 4Sum II, Medium
-(455, Assign Cookies, Easy
-(456, 132 Pattern, Medium
-(457, Circular Array Loop, Medium
-(458, Poor Pigs, Hard
-(459, Repeated Substring Pattern, Easy
-(460, LFU Cache, Hard
-(461, Hamming Distance, Easy
-(462, Minimum Moves to Equal Array Elements II, Medium
-(463, Island Perimeter, Easy
-(464, Can I Win, Medium
-(465, Optimal Account Balancing, Hard
-(466, Count The Repetitions, Hard
-(467, Unique Substrings in Wraparound String, Medium
-(468, Validate IP Address, Medium
-(469, Convex Polygon, Medium
-(470, Implement Rand10() Using Rand7(), Medium
-(471, Encode String with Shortest Length, Hard
-(472, Concatenated Words, Hard
-(473, Matchsticks to Square, Medium
-(474, Ones and Zeroes, Medium
-(475, Heaters, Medium
-(476, Number Complement, Easy
-(477, Total Hamming Distance, Medium
-(478, Generate Random Point in a Circle, Medium
-(479, Largest Palindrome Product, Hard
-(480, Sliding Window Median, Hard
-(481, Magical String, Medium
-(482, License Key Formatting, Easy
-(483, Smallest Good Base, Hard
-(484, Find Permutation, Medium
-(485, Max Consecutive Ones, Easy
-(486, Predict the Winner, Medium
-(487, Max Consecutive Ones II, Medium
-(488, Zuma Game, Hard
-(489, Robot Room Cleaner, Hard
-(490, The Maze, Medium
-(491, Non-decreasing Subsequences, Medium
-(492, Construct the Rectangle, Easy
-(493, Reverse Pairs, Hard
-(494, Target Sum, Medium
-(495, Teemo Attacking, Easy
-(496, Next Greater Element I, Easy
-(497, Random Point in Non-overlapping Rectangles, Medium
-(498, Diagonal Traverse, Medium
-(499, The Maze III, Hard
-(500, Keyboard Row, Easy
-(501, Find Mode in Binary Search Tree, Easy
-(502, IPO, Hard
-(503, Next Greater Element II, Medium
-(504, Base 7, Easy
-(505, The Maze II, Medium
-(506, Relative Ranks, Easy
-(507, Perfect Number, Easy
-(508, Most Frequent Subtree Sum, Medium
-(509, Fibonacci Number, Easy
-(510, Inorder Successor in BST II, Medium
-(511, Game Play Analysis I, Easy
-(512, Game Play Analysis II, Easy
-(513, Find Bottom Left Tree Value, Medium
-(514, Freedom Trail, Hard
-(515, Find Largest Value in Each Tree Row, Medium
-(516, Longest Palindromic Subsequence, Medium
-(517, Super Washing Machines, Hard
-(518, Coin Change II, Medium
-(519, Random Flip Matrix, Medium
-(520, Detect Capital, Easy
-(521, Longest Uncommon Subsequence I, Easy
-(522, Longest Uncommon Subsequence II, Medium
-(523, Continuous Subarray Sum, Medium
-(524, Longest Word in Dictionary through Deleting, Medium
-(525, Contiguous Array, Medium
-(526, Beautiful Arrangement, Medium
-(527, Word Abbreviation, Hard
-(528, Random Pick with Weight, Medium
-(529, Minesweeper, Medium
-(530, Minimum Absolute Difference in BST, Easy
-(531, Lonely Pixel I, Medium
-(532, K-diff Pairs in an Array, Medium
-(533, Lonely Pixel II, Medium
-(534, Game Play Analysis III, Medium
-(535, Encode and Decode TinyURL, Medium
-(536, Construct Binary Tree from String, Medium
-(537, Complex Number Multiplication, Medium
-(538, Convert BST to Greater Tree, Medium
-(539, Minimum Time Difference, Medium
-(540, Single Element in a Sorted Array, Medium
-(541, Reverse String II, Easy
-(542, 01 Matrix, Medium
-(543, Diameter of Binary Tree, Easy
-(544, Output Contest Matches, Medium
-(545, Boundary of Binary Tree, Medium
-(546, Remove Boxes, Hard
-(547, Number of Provinces, Medium
-(548, Split Array with Equal Sum, Hard
-(549, Binary Tree Longest Consecutive Sequence II, Medium
-(550, Game Play Analysis IV, Medium
-(551, Student Attendance Record I, Easy
-(552, Student Attendance Record II, Hard
-(553, Optimal Division, Medium
-(554, Brick Wall, Medium
-(555, Split Concatenated Strings, Medium
-(556, Next Greater Element III, Medium
-(557, Reverse Words in a String III, Easy
-(558, Logical OR of Two Binary Grids Represented as Quad-Trees, Medium
-(559, Maximum Depth of N-ary Tree, Easy
-(560, Subarray Sum Equals K, Medium
-(561, Array Partition, Easy
-(562, Longest Line of Consecutive One in Matrix, Medium
-(563, Binary Tree Tilt, Easy
-(564, Find the Closest Palindrome, Hard
-(565, Array Nesting, Medium
-(566, Reshape the Matrix, Easy
-(567, Permutation in String, Medium
-(568, Maximum Vacation Days, Hard
-(569, Median Employee Salary, Hard
-(570, Managers with at Least 5 Direct Reports, Medium
-(571, Find Median Given Frequency of Numbers, Hard
-(572, Subtree of Another Tree, Easy
-(573, Squirrel Simulation, Medium
-(574, Winning Candidate, Medium
-(575, Distribute Candies, Easy
-(576, Out of Boundary Paths, Medium
-(577, Employee Bonus, Easy
-(578, Get Highest Answer Rate Question, Medium
-(579, Find Cumulative Salary of an Employee, Hard
-(580, Count Student Number in Departments, Medium
-(581, Shortest Unsorted Continuous Subarray, Medium
-(582, Kill Process, Medium
-(583, Delete Operation for Two Strings, Medium
-(584, Find Customer Referee, Easy
-(585, Investments in 2016, Medium
-(586, Customer Placing the Largest Number of Orders, Easy
-(587, Erect the Fence, Hard
-(588, Design In-Memory File System, Hard
-(589, N-ary Tree Preorder Traversal, Easy
-(590, N-ary Tree Postorder Traversal, Easy
-(591, Tag Validator, Hard
-(592, Fraction Addition and Subtraction, Medium
-(593, Valid Square, Medium
-(594, Longest Harmonious Subsequence, Easy
-(595, Big Countries, Easy
-(596, Classes More Than 5 Students, Easy
-(597, Friend Requests I: Overall Acceptance Rate, Easy
-(598, Range Addition II, Easy
-(599, Minimum Index Sum of Two Lists, Easy
-(600, Non-negative Integers without Consecutive Ones, Hard
-(601, Human Traffic of Stadium, Hard
-(602, Friend Requests II: Who Has the Most Friends, Medium
-(603, Consecutive Available Seats, Easy
-(604, Design Compressed String Iterator, Easy
-(605, Can Place Flowers, Easy
-(606, Construct String from Binary Tree, Medium
-(607, Sales Person, Easy
-(608, Tree Node, Medium
-(609, Find Duplicate File in System, Medium
-(610, Triangle Judgement, Easy
-(611, Valid Triangle Number, Medium
-(612, Shortest Distance in a Plane, Medium
-(613, Shortest Distance in a Line, Easy
-(614, Second Degree Follower, Medium
-(615, Average Salary: Departments VS Company, Hard
-(616, Add Bold Tag in String, Medium
-(617, Merge Two Binary Trees, Easy
-(618, Students Report By Geography, Hard
-(619, Biggest Single Number, Easy
-(620, Not Boring Movies, Easy
-(621, Task Scheduler, Medium
-(622, Design Circular Queue, Medium
-(623, Add One Row to Tree, Medium
-(624, Maximum Distance in Arrays, Medium
-(625, Minimum Factorization, Medium
-(626, Exchange Seats, Medium
-(627, Swap Salary, Easy
-(628, Maximum Product of Three Numbers, Easy
-(629, K Inverse Pairs Array, Hard
-(630, Course Schedule III, Hard
-(631, Design Excel Sum Formula, Hard
-(632, Smallest Range Covering Elements from K Lists, Hard
-(633, Sum of Square Numbers, Medium
-(634, Find the Derangement of An Array, Medium
-(635, Design Log Storage System, Medium
-(636, Exclusive Time of Functions, Medium
-(637, Average of Levels in Binary Tree, Easy
-(638, Shopping Offers, Medium
-(639, Decode Ways II, Hard
-(640, Solve the Equation, Medium
-(641, Design Circular Deque, Medium
-(642, Design Search Autocomplete System, Hard
-(643, Maximum Average Subarray I, Easy
-(644, Maximum Average Subarray II, Hard
-(645, Set Mismatch, Easy
-(646, Maximum Length of Pair Chain, Medium
-(647, Palindromic Substrings, Medium
-(648, Replace Words, Medium
-(649, Dota2 Senate, Medium
-(650, 2 Keys Keyboard, Medium
-(651, 4 Keys Keyboard, Medium
-(652, Find Duplicate Subtrees, Medium
-(653, Two Sum IV - Input is a BST, Easy
-(654, Maximum Binary Tree, Medium
-(655, Print Binary Tree, Medium
-(656, Coin Path, Hard
-(657, Robot Return to Origin, Easy
-(658, Find K Closest Elements, Medium
-(659, Split Array into Consecutive Subsequences, Medium
-(660, Remove 9, Hard
-(661, Image Smoother, Easy
-(662, Maximum Width of Binary Tree, Medium
-(663, Equal Tree Partition, Medium
-(664, Strange Printer, Hard
-(665, Non-decreasing Array, Medium
-(666, Path Sum IV, Medium
-(667, Beautiful Arrangement II, Medium
-(668, Kth Smallest Number in Multiplication Table, Hard
-(669, Trim a Binary Search Tree, Medium
-(670, Maximum Swap, Medium
-(671, Second Minimum Node In a Binary Tree, Easy
-(672, Bulb Switcher II, Medium
-(673, Number of Longest Increasing Subsequence, Medium
-(674, Longest Continuous Increasing Subsequence, Easy
-(675, Cut Off Trees for Golf Event, Hard
-(676, Implement Magic Dictionary, Medium
-(677, Map Sum Pairs, Medium
-(678, Valid Parenthesis String, Medium
-(679, 24 Game, Hard
-(680, Valid Palindrome II, Easy
-(681, Next Closest Time, Medium
-(682, Baseball Game, Easy
-(683, K Empty Slots, Hard
-(684, Redundant Connection, Medium
-(685, Redundant Connection II, Hard
-(686, Repeated String Match, Medium
-(687, Longest Univalue Path, Medium
-(688, Knight Probability in Chessboard, Medium
-(689, Maximum Sum of 3 Non-Overlapping Subarrays, Hard
-(690, Employee Importance, Medium
-(691, Stickers to Spell Word, Hard
-(692, Top K Frequent Words, Medium
-(693, Binary Number with Alternating Bits, Easy
-(694, Number of Distinct Islands, Medium
-(695, Max Area of Island, Medium
-(696, Count Binary Substrings, Easy
-(697, Degree of an Array, Easy
-(698, Partition to K Equal Sum Subsets, Medium
-(699, Falling Squares, Hard
-(700, Search in a Binary Search Tree, Easy
-(701, Insert into a Binary Search Tree, Medium
-(702, Search in a Sorted Array of Unknown Size, Medium
-(703, Kth Largest Element in a Stream, Easy
-(704, Binary Search, Easy
-(705, Design HashSet, Easy
-(706, Design HashMap, Easy
-(707, Design Linked List, Medium
-(708, Insert into a Sorted Circular Linked List, Medium
-(709, To Lower Case, Easy
-(710, Random Pick with Blacklist, Hard
-(711, Number of Distinct Islands II, Hard
-(712, Minimum ASCII Delete Sum for Two Strings, Medium
-(713, Subarray Product Less Than K, Medium
-(714, Best Time to Buy and Sell Stock with Transaction Fee, Medium
-(715, Range Module, Hard
-(716, Max Stack, Hard
-(717, 1-bit and 2-bit Characters, Easy
-(718, Maximum Length of Repeated Subarray, Medium
-(719, Find K-th Smallest Pair Distance, Hard
-(720, Longest Word in Dictionary, Medium
-(721, Accounts Merge, Medium
-(722, Remove Comments, Medium
-(723, Candy Crush, Medium
-(724, Find Pivot Index, Easy
-(725, Split Linked List in Parts, Medium
-(726, Number of Atoms, Hard
-(727, Minimum Window Subsequence, Hard
-(728, Self Dividing Numbers, Easy
-(729, My Calendar I, Medium
-(730, Count Different Palindromic Subsequences, Hard
-(731, My Calendar II, Medium
-(732, My Calendar III, Hard
-(733, Flood Fill, Easy
-(734, Sentence Similarity, Easy
-(735, Asteroid Collision, Medium
-(736, Parse Lisp Expression, Hard
-(737, Sentence Similarity II, Medium
-(738, Monotone Increasing Digits, Medium
-(739, Daily Temperatures, Medium
-(740, Delete and Earn, Medium
-(741, Cherry Pickup, Hard
-(742, Closest Leaf in a Binary Tree, Medium
-(743, Network Delay Time, Medium
-(744, Find Smallest Letter Greater Than Target, Easy
-(745, Prefix and Suffix Search, Hard
-(746, Min Cost Climbing Stairs, Easy
-(747, Largest Number At Least Twice of Others, Easy
-(748, Shortest Completing Word, Easy
-(749, Contain Virus, Hard
-(750, Number Of Corner Rectangles, Medium
-(751, IP to CIDR, Medium
-(752, Open the Lock, Medium
-(753, Cracking the Safe, Hard
-(754, Reach a Number, Medium
-(755, Pour Water, Medium
-(756, Pyramid Transition Matrix, Medium
-(757, Set Intersection Size At Least Two, Hard
-(758, Bold Words in String, Medium
-(759, Employee Free Time, Hard
-(760, Find Anagram Mappings, Easy
-(761, Special Binary String, Hard
-(762, Prime Number of Set Bits in Binary Representation, Easy
-(763, Partition Labels, Medium
-(764, Largest Plus Sign, Medium
-(765, Couples Holding Hands, Hard
-(766, Toeplitz Matrix, Easy
-(767, Reorganize String, Medium
-(768, Max Chunks To Make Sorted II, Hard
-(769, Max Chunks To Make Sorted, Medium
-(770, Basic Calculator IV, Hard
-(771, Jewels and Stones, Easy
-(772, Basic Calculator III, Hard
-(773, Sliding Puzzle, Hard
-(774, Minimize Max Distance to Gas Station, Hard
-(775, Global and Local Inversions, Medium
-(776, Split BST, Medium
-(777, Swap Adjacent in LR String, Medium
-(778, Swim in Rising Water, Hard
-(779, K-th Symbol in Grammar, Medium
-(780, Reaching Points, Hard
-(781, Rabbits in Forest, Medium
-(782, Transform to Chessboard, Hard
-(783, Minimum Distance Between BST Nodes, Easy
-(784, Letter Case Permutation, Medium
-(785, Is Graph Bipartite?, Medium
-(786, K-th Smallest Prime Fraction, Medium
-(787, Cheapest Flights Within K Stops, Medium
-(788, Rotated Digits, Medium
-(789, Escape The Ghosts, Medium
-(790, Domino and Tromino Tiling, Medium
-(791, Custom Sort String, Medium
-(792, Number of Matching Subsequences, Medium
-(793, Preimage Size of Factorial Zeroes Function, Hard
-(794, Valid Tic-Tac-Toe State, Medium
-(795, Number of Subarrays with Bounded Maximum, Medium
-(796, Rotate String, Easy
-(797, All Paths From Source to Target, Medium
-(798, Smallest Rotation with Highest Score, Hard
-(799, Champagne Tower, Medium
-(800, Similar RGB Color, Easy
-(801, Minimum Swaps To Make Sequences Increasing, Hard
-(802, Find Eventual Safe States, Medium
-(803, Bricks Falling When Hit, Hard
-(804, Unique Morse Code Words, Easy
-(805, Split Array With Same Average, Hard
-(806, Number of Lines To Write String, Easy
-(807, Max Increase to Keep City Skyline, Medium
-(808, Soup Servings, Medium
-(809, Expressive Words, Medium
-(810, Chalkboard XOR Game, Hard
-(811, Subdomain Visit Count, Medium
-(812, Largest Triangle Area, Easy
-(813, Largest Sum of Averages, Medium
-(814, Binary Tree Pruning, Medium
-(815, Bus Routes, Hard
-(816, Ambiguous Coordinates, Medium
-(817, Linked List Components, Medium
-(818, Race Car, Hard
-(819, Most Common Word, Easy
-(820, Short Encoding of Words, Medium
-(821, Shortest Distance to a Character, Easy
-(822, Card Flipping Game, Medium
-(823, Binary Trees With Factors, Medium
-(824, Goat Latin, Easy
-(825, Friends Of Appropriate Ages, Medium
-(826, Most Profit Assigning Work, Medium
-(827, Making A Large Island, Hard
-(828, Count Unique Characters of All Substrings of a Given String, Hard
-(829, Consecutive Numbers Sum, Hard
-(830, Positions of Large Groups, Easy
-(831, Masking Personal Information, Medium
-(832, Flipping an Image, Easy
-(833, Find And Replace in String, Medium
-(834, Sum of Distances in Tree, Hard
-(835, Image Overlap, Medium
-(836, Rectangle Overlap, Easy
-(837, New 21 Game, Medium
-(838, Push Dominoes, Medium
-(839, Similar String Groups, Hard
-(840, Magic Squares In Grid, Medium
-(841, Keys and Rooms, Medium
-(842, Split Array into Fibonacci Sequence, Medium
-(843, Guess the Word, Hard
-(844, Backspace String Compare, Easy
-(845, Longest Mountain in Array, Medium
-(846, Hand of Straights, Medium
-(847, Shortest Path Visiting All Nodes, Hard
-(848, Shifting Letters, Medium
-(849, Maximize Distance to Closest Person, Medium
-(850, Rectangle Area II, Hard
-(851, Loud and Rich, Medium
-(852, Peak Index in a Mountain Array, Medium
-(853, Car Fleet, Medium
-(854, K-Similar Strings, Hard
-(855, Exam Room, Medium
-(856, Score of Parentheses, Medium
-(857, Minimum Cost to Hire K Workers, Hard
-(858, Mirror Reflection, Medium
-(859, Buddy Strings, Easy
-(860, Lemonade Change, Easy
-(861, Score After Flipping Matrix, Medium
-(862, Shortest Subarray with Sum at Least K, Hard
-(863, All Nodes Distance K in Binary Tree, Medium
-(864, Shortest Path to Get All Keys, Hard
-(865, Smallest Subtree with all the Deepest Nodes, Medium
-(866, Prime Palindrome, Medium
-(867, Transpose Matrix, Easy
-(868, Binary Gap, Easy
-(869, Reordered Power of 2, Medium
-(870, Advantage Shuffle, Medium
-(871, Minimum Number of Refueling Stops, Hard
-(872, Leaf-Similar Trees, Easy
-(873, Length of Longest Fibonacci Subsequence, Medium
-(874, Walking Robot Simulation, Medium
-(875, Koko Eating Bananas, Medium
-(876, Middle of the Linked List, Easy
-(877, Stone Game, Medium
-(878, Nth Magical Number, Hard
-(879, Profitable Schemes, Hard
-(880, Decoded String at Index, Medium
-(881, Boats to Save People, Medium
-(882, Reachable Nodes In Subdivided Graph, Hard
-(883, Projection Area of 3D Shapes, Easy
-(884, Uncommon Words from Two Sentences, Easy
-(885, Spiral Matrix III, Medium
-(886, Possible Bipartition, Medium
-(887, Super Egg Drop, Hard
-(888, Fair Candy Swap, Easy
-(889, Construct Binary Tree from Preorder and Postorder Traversal, Medium
-(890, Find and Replace Pattern, Medium
-(891, Sum of Subsequence Widths, Hard
-(892, Surface Area of 3D Shapes, Easy
-(893, Groups of Special-Equivalent Strings, Medium
-(894, All Possible Full Binary Trees, Medium
-(895, Maximum Frequency Stack, Hard
-(896, Monotonic Array, Easy
-(897, Increasing Order Search Tree, Easy
-(898, Bitwise ORs of Subarrays, Medium
-(899, Orderly Queue, Hard
-(900, RLE Iterator, Medium
-(901, Online Stock Span, Medium
-(902, Numbers At Most N Given Digit Set, Hard
-(903, Valid Permutations for DI Sequence, Hard
-(904, Fruit Into Baskets, Medium
-(905, Sort Array By Parity, Easy
-(906, Super Palindromes, Hard
-(907, Sum of Subarray Minimums, Medium
-(908, Smallest Range I, Easy
-(909, Snakes and Ladders, Medium
-(910, Smallest Range II, Medium
-(911, Online Election, Medium
-(912, Sort an Array, Medium
-(913, Cat and Mouse, Hard
-(914, X of a Kind in a Deck of Cards, Easy
-(915, Partition Array into Disjoint Intervals, Medium
-(916, Word Subsets, Medium
-(917, Reverse Only Letters, Easy
-(918, Maximum Sum Circular Subarray, Medium
-(919, Complete Binary Tree Inserter, Medium
-(920, Number of Music Playlists, Hard
-(921, Minimum Add to Make Parentheses Valid, Medium
-(922, Sort Array By Parity II, Easy
-(923, 3Sum With Multiplicity, Medium
-(924, Minimize Malware Spread, Hard
-(925, Long Pressed Name, Easy
-(926, Flip String to Monotone Increasing, Medium
-(927, Three Equal Parts, Hard
-(928, Minimize Malware Spread II, Hard
-(929, Unique Email Addresses, Easy
-(930, Binary Subarrays With Sum, Medium
-(931, Minimum Falling Path Sum, Medium
-(932, Beautiful Array, Medium
-(933, Number of Recent Calls, Easy
-(934, Shortest Bridge, Medium
-(935, Knight Dialer, Medium
-(936, Stamping The Sequence, Hard
-(937, Reorder Data in Log Files, Medium
-(938, Range Sum of BST, Easy
-(939, Minimum Area Rectangle, Medium
-(940, Distinct Subsequences II, Hard
-(941, Valid Mountain Array, Easy
-(942, DI String Match, Easy
-(943, Find the Shortest Superstring, Hard
-(944, Delete Columns to Make Sorted, Easy
-(945, Minimum Increment to Make Array Unique, Medium
-(946, Validate Stack Sequences, Medium
-(947, Most Stones Removed with Same Row or Column, Medium
-(948, Bag of Tokens, Medium
-(949, Largest Time for Given Digits, Medium
-(950, Reveal Cards In Increasing Order, Medium
-(951, Flip Equivalent Binary Trees, Medium
-(952, Largest Component Size by Common Factor, Hard
-(953, Verifying an Alien Dictionary, Easy
-(954, Array of Doubled Pairs, Medium
-(955, Delete Columns to Make Sorted II, Medium
-(956, Tallest Billboard, Hard
-(957, Prison Cells After N Days, Medium
-(958, Check Completeness of a Binary Tree, Medium
-(959, Regions Cut By Slashes, Medium
-(960, Delete Columns to Make Sorted III, Hard
-(961, N-Repeated Element in Size 2N Array, Easy
-(962, Maximum Width Ramp, Medium
-(963, Minimum Area Rectangle II, Medium
-(964, Least Operators to Express Number, Hard
-(965, Univalued Binary Tree, Easy
-(966, Vowel Spellchecker, Medium
-(967, Numbers With Same Consecutive Differences, Medium
-(968, Binary Tree Cameras, Hard
-(969, Pancake Sorting, Medium
-(970, Powerful Integers, Medium
-(971, Flip Binary Tree To Match Preorder Traversal, Medium
-(972, Equal Rational Numbers, Hard
-(973, K Closest Points to Origin, Medium
-(974, Subarray Sums Divisible by K, Medium
-(975, Odd Even Jump, Hard
-(976, Largest Perimeter Triangle, Easy
-(977, Squares of a Sorted Array, Easy
-(978, Longest Turbulent Subarray, Medium
-(979, Distribute Coins in Binary Tree, Medium
-(980, Unique Paths III, Hard
-(981, Time Based Key-Value Store, Medium
-(982, Triples with Bitwise AND Equal To Zero, Hard
-(983, Minimum Cost For Tickets, Medium
-(984, String Without AAA or BBB, Medium
-(985, Sum of Even Numbers After Queries, Medium
-(986, Interval List Intersections, Medium
-(987, Vertical Order Traversal of a Binary Tree, Hard
-(988, Smallest String Starting From Leaf, Medium
-(989, Add to Array-Form of Integer, Easy
-(990, Satisfiability of Equality Equations, Medium
-(991, Broken Calculator, Medium
-(992, Subarrays with K Different Integers, Hard
-(993, Cousins in Binary Tree, Easy
-(994, Rotting Oranges, Medium
-(995, Minimum Number of K Consecutive Bit Flips, Hard
-(996, Number of Squareful Arrays, Hard
-(997, Find the Town Judge, Easy
-(998, Maximum Binary Tree II, Medium
-(999, Available Captures for Rook, Easy
-(1000, Minimum Cost to Merge Stones, Hard
-(1001, Grid Illumination, Hard
-(1002, Find Common Characters, Easy
-(1003, Check If Word Is Valid After Substitutions, Medium
-(1004, Max Consecutive Ones III, Medium
-(1005, Maximize Sum Of Array After K Negations, Easy
-(1006, Clumsy Factorial, Medium
-(1007, Minimum Domino Rotations For Equal Row, Medium
-(1008, Construct Binary Search Tree from Preorder Traversal, Medium
-(1009, Complement of Base 10 Integer, Easy
-(1010, Pairs of Songs With Total Durations Divisible by 60, Medium
-(1011, Capacity To Ship Packages Within D Days, Medium
-(1012, Numbers With Repeated Digits, Hard
-(1013, Partition Array Into Three Parts With Equal Sum, Easy
-(1014, Best Sightseeing Pair, Medium
-(1015, Smallest Integer Divisible by K, Medium
-(1016, Binary String With Substrings Representing 1 To N, Medium
-(1017, Convert to Base -2, Medium
-(1018, Binary Prefix Divisible By 5, Easy
-(1019, Next Greater Node In Linked List, Medium
-(1020, Number of Enclaves, Medium
-(1021, Remove Outermost Parentheses, Easy
-(1022, Sum of Root To Leaf Binary Numbers, Easy
-(1023, Camelcase Matching, Medium
-(1024, Video Stitching, Medium
-(1025, Divisor Game, Easy
-(1026, Maximum Difference Between Node and Ancestor, Medium
-(1027, Longest Arithmetic Subsequence, Medium
-(1028, Recover a Tree From Preorder Traversal, Hard
-(1029, Two City Scheduling, Medium
-(1030, Matrix Cells in Distance Order, Easy
-(1031, Maximum Sum of Two Non-Overlapping Subarrays, Medium
-(1032, Stream of Characters, Hard
-(1033, Moving Stones Until Consecutive, Medium
-(1034, Coloring A Border, Medium
-(1035, Uncrossed Lines, Medium
-(1036, Escape a Large Maze, Hard
-(1037, Valid Boomerang, Easy
-(1038, Binary Search Tree to Greater Sum Tree, Medium
-(1039, Minimum Score Triangulation of Polygon, Medium
-(1040, Moving Stones Until Consecutive II, Medium
-(1041, Robot Bounded In Circle, Medium
-(1042, Flower Planting With No Adjacent, Medium
-(1043, Partition Array for Maximum Sum, Medium
-(1044, Longest Duplicate Substring, Hard
-(1045, Customers Who Bought All Products, Medium
-(1046, Last Stone Weight, Easy
-(1047, Remove All Adjacent Duplicates In String, Easy
-(1048, Longest String Chain, Medium
-(1049, Last Stone Weight II, Medium
-(1050, Actors and Directors Who Cooperated At Least Three Times, Easy
-(1051, Height Checker, Easy
-(1052, Grumpy Bookstore Owner, Medium
-(1053, Previous Permutation With One Swap, Medium
-(1054, Distant Barcodes, Medium
-(1055, Shortest Way to Form String, Medium
-(1056, Confusing Number, Easy
-(1057, Campus Bikes, Medium
-(1058, Minimize Rounding Error to Meet Target, Medium
-(1059, All Paths from Source Lead to Destination, Medium
-(1060, Missing Element in Sorted Array, Medium
-(1061, Lexicographically Smallest Equivalent String, Medium
-(1062, Longest Repeating Substring, Medium
-(1063, Number of Valid Subarrays, Hard
-(1064, Fixed Point, Easy
-(1065, Index Pairs of a String, Easy
-(1066, Campus Bikes II, Medium
-(1067, Digit Count in Range, Hard
-(1068, Product Sales Analysis I, Easy
-(1069, Product Sales Analysis II, Easy
-(1070, Product Sales Analysis III, Medium
-(1071, Greatest Common Divisor of Strings, Easy
-(1072, Flip Columns For Maximum Number of Equal Rows, Medium
-(1073, Adding Two Negabinary Numbers, Medium
-(1074, Number of Submatrices That Sum to Target, Hard
-(1075, Project Employees I, Easy
-(1076, Project Employees II, Easy
-(1077, Project Employees III, Medium
-(1078, Occurrences After Bigram, Easy
-(1079, Letter Tile Possibilities, Medium
-(1080, Insufficient Nodes in Root to Leaf Paths, Medium
-(1081, Smallest Subsequence of Distinct Characters, Medium
-(1082, Sales Analysis I, Easy
-(1083, Sales Analysis II, Easy
-(1084, Sales Analysis III, Easy
-(1085, Sum of Digits in the Minimum Number, Easy
-(1086, High Five, Easy
-(1087, Brace Expansion, Medium
-(1088, Confusing Number II, Hard
-(1089, Duplicate Zeros, Easy
-(1090, Largest Values From Labels, Medium
-(1091, Shortest Path in Binary Matrix, Medium
-(1092, Shortest Common Supersequence, Hard
-(1093, Statistics from a Large Sample, Medium
-(1094, Car Pooling, Medium
-(1095, Find in Mountain Array, Hard
-(1096, Brace Expansion II, Hard
-(1097, Game Play Analysis V, Hard
-(1098, Unpopular Books, Medium
-(1099, Two Sum Less Than K, Easy
-(1100, Find K-Length Substrings With No Repeated Characters, Medium
-(1101, The Earliest Moment When Everyone Become Friends, Medium
-(1102, Path With Maximum Minimum Value, Medium
-(1103, Distribute Candies to People, Easy
-(1104, Path In Zigzag Labelled Binary Tree, Medium
-(1105, Filling Bookcase Shelves, Medium
-(1106, Parsing A Boolean Expression, Hard
-(1107, New Users Daily Count, Medium
-(1108, Defanging an IP Address, Easy
-(1109, Corporate Flight Bookings, Medium
-(1110, Delete Nodes And Return Forest, Medium
-(1111, Maximum Nesting Depth of Two Valid Parentheses Strings, Medium
-(1112, Highest Grade For Each Student, Medium
-(1113, Reported Posts, Easy
-(1114, Print in Order, Easy
-(1115, Print FooBar Alternately, Medium
-(1116, Print Zero Even Odd, Medium
-(1117, Building H2O, Medium
-(1118, Number of Days in a Month, Easy
-(1119, Remove Vowels from a String, Easy
-(1120, Maximum Average Subtree, Medium
-(1121, Divide Array Into Increasing Sequences, Hard
-(1122, Relative Sort Array, Easy
-(1123, Lowest Common Ancestor of Deepest Leaves, Medium
-(1124, Longest Well-Performing Interval, Medium
-(1125, Smallest Sufficient Team, Hard
-(1126, Active Businesses, Medium
-(1127, User Purchase Platform, Hard
-(1128, Number of Equivalent Domino Pairs, Easy
-(1129, Shortest Path with Alternating Colors, Medium
-(1130, Minimum Cost Tree From Leaf Values, Medium
-(1131, Maximum of Absolute Value Expression, Medium
-(1132, Reported Posts II, Medium
-(1133, Largest Unique Number, Easy
-(1134, Armstrong Number, Easy
-(1135, Connecting Cities With Minimum Cost, Medium
-(1136, Parallel Courses, Medium
-(1137, N-th Tribonacci Number, Easy
-(1138, Alphabet Board Path, Medium
-(1139, Largest 1-Bordered Square, Medium
-(1140, Stone Game II, Medium
-(1141, User Activity for the Past 30 Days I, Easy
-(1142, User Activity for the Past 30 Days II, Easy
-(1143, Longest Common Subsequence, Medium
-(1144, Decrease Elements To Make Array Zigzag, Medium
-(1145, Binary Tree Coloring Game, Medium
-(1146, Snapshot Array, Medium
-(1147, Longest Chunked Palindrome Decomposition, Hard
-(1148, Article Views I, Easy
-(1149, Article Views II, Medium
-(1150, Check If a Number Is Majority Element in a Sorted Array, Easy
-(1151, Minimum Swaps to Group All 1's Together, Medium
-(1152, Analyze User Website Visit Pattern, Medium
-(1153, String Transforms Into Another String, Hard
-(1154, Day of the Year, Easy
-(1155, Number of Dice Rolls With Target Sum, Medium
-(1156, Swap For Longest Repeated Character Substring, Medium
-(1157, Online Majority Element In Subarray, Hard
-(1158, Market Analysis I, Medium
-(1159, Market Analysis II, Hard
-(1160, Find Words That Can Be Formed by Characters, Easy
-(1161, Maximum Level Sum of a Binary Tree, Medium
-(1162, As Far from Land as Possible, Medium
-(1163, Last Substring in Lexicographical Order, Hard
-(1164, Product Price at a Given Date, Medium
-(1165, Single-Row Keyboard, Easy
-(1166, Design File System, Medium
-(1167, Minimum Cost to Connect Sticks, Medium
-(1168, Optimize Water Distribution in a Village, Hard
-(1169, Invalid Transactions, Medium
-(1170, Compare Strings by Frequency of the Smallest Character, Medium
-(1171, Remove Zero Sum Consecutive Nodes from Linked List, Medium
-(1172, Dinner Plate Stacks, Hard
-(1173, Immediate Food Delivery I, Easy
-(1174, Immediate Food Delivery II, Medium
-(1175, Prime Arrangements, Easy
-(1176, Diet Plan Performance, Easy
-(1177, Can Make Palindrome from Substring, Medium
-(1178, Number of Valid Words for Each Puzzle, Hard
-(1179, Reformat Department Table, Easy
-(1180, Count Substrings with Only One Distinct Letter, Easy
-(1181, Before and After Puzzle, Medium
-(1182, Shortest Distance to Target Color, Medium
-(1183, Maximum Number of Ones, Hard
-(1184, Distance Between Bus Stops, Easy
-(1185, Day of the Week, Easy
-(1186, Maximum Subarray Sum with One Deletion, Medium
-(1187, Make Array Strictly Increasing, Hard
-(1188, Design Bounded Blocking Queue, Medium
-(1189, Maximum Number of Balloons, Easy
-(1190, Reverse Substrings Between Each Pair of Parentheses, Medium
-(1191, K-Concatenation Maximum Sum, Medium
-(1192, Critical Connections in a Network, Hard
-(1193, Monthly Transactions I, Medium
-(1194, Tournament Winners, Hard
-(1195, Fizz Buzz Multithreaded, Medium
-(1196, How Many Apples Can You Put into the Basket, Easy
-(1197, Minimum Knight Moves, Medium
-(1198, Find Smallest Common Element in All Rows, Medium
-(1199, Minimum Time to Build Blocks, Hard
-(1200, Minimum Absolute Difference, Easy
-(1201, Ugly Number III, Medium
-(1202, Smallest String With Swaps, Medium
-(1203, Sort Items by Groups Respecting Dependencies, Hard
-(1204, Last Person to Fit in the Bus, Medium
-(1205, Monthly Transactions II, Medium
-(1206, Design Skiplist, Hard
-(1207, Unique Number of Occurrences, Easy
-(1208, Get Equal Substrings Within Budget, Medium
-(1209, Remove All Adjacent Duplicates in String II, Medium
-(1210, Minimum Moves to Reach Target with Rotations, Hard
-(1211, Queries Quality and Percentage, Easy
-(1212, Team Scores in Football Tournament, Medium
-(1213, Intersection of Three Sorted Arrays, Easy
-(1214, Two Sum BSTs, Medium
-(1215, Stepping Numbers, Medium
-(1216, Valid Palindrome III, Hard
-(1217, Minimum Cost to Move Chips to The Same Position, Easy
-(1218, Longest Arithmetic Subsequence of Given Difference, Medium
-(1219, Path with Maximum Gold, Medium
-(1220, Count Vowels Permutation, Hard
-(1221, Split a String in Balanced Strings, Easy
-(1222, Queens That Can Attack the King, Medium
-(1223, Dice Roll Simulation, Hard
-(1224, Maximum Equal Frequency, Hard
-(1225, Report Contiguous Dates, Hard
-(1226, The Dining Philosophers, Medium
-(1227, Airplane Seat Assignment Probability, Medium
-(1228, Missing Number In Arithmetic Progression, Easy
-(1229, Meeting Scheduler, Medium
-(1230, Toss Strange Coins, Medium
-(1231, Divide Chocolate, Hard
-(1232, Check If It Is a Straight Line, Easy
-(1233, Remove Sub-Folders from the Filesystem, Medium
-(1234, Replace the Substring for Balanced String, Medium
-(1235, Maximum Profit in Job Scheduling, Hard
-(1236, Web Crawler, Medium
-(1237, Find Positive Integer Solution for a Given Equation, Medium
-(1238, Circular Permutation in Binary Representation, Medium
-(1239, Maximum Length of a Concatenated String with Unique Characters, Medium
-(1240, Tiling a Rectangle with the Fewest Squares, Hard
-(1241, Number of Comments per Post, Easy
-(1242, Web Crawler Multithreaded, Medium
-(1243, Array Transformation, Easy
-(1244, Design A Leaderboard, Medium
-(1245, Tree Diameter, Medium
-(1246, Palindrome Removal, Hard
-(1247, Minimum Swaps to Make Strings Equal, Medium
-(1248, Count Number of Nice Subarrays, Medium
-(1249, Minimum Remove to Make Valid Parentheses, Medium
-(1250, Check If It Is a Good Array, Hard
-(1251, Average Selling Price, Easy
-(1252, Cells with Odd Values in a Matrix, Easy
-(1253, Reconstruct a 2-Row Binary Matrix, Medium
-(1254, Number of Closed Islands, Medium
-(1255, Maximum Score Words Formed by Letters, Hard
-(1256, Encode Number, Medium
-(1257, Smallest Common Region, Medium
-(1258, Synonymous Sentences, Medium
-(1259, Handshakes That Don't Cross, Hard
-(1260, Shift 2D Grid, Easy
-(1261, Find Elements in a Contaminated Binary Tree, Medium
-(1262, Greatest Sum Divisible by Three, Medium
-(1263, Minimum Moves to Move a Box to Their Target Location, Hard
-(1264, Page Recommendations, Medium
-(1265, Print Immutable Linked List in Reverse, Medium
-(1266, Minimum Time Visiting All Points, Easy
-(1267, Count Servers that Communicate, Medium
-(1268, Search Suggestions System, Medium
-(1269, Number of Ways to Stay in the Same Place After Some Steps, Hard
-(1270, All People Report to the Given Manager, Medium
-(1271, Hexspeak, Easy
-(1272, Remove Interval, Medium
-(1273, Delete Tree Nodes, Medium
-(1274, Number of Ships in a Rectangle, Hard
-(1275, Find Winner on a Tic Tac Toe Game, Easy
-(1276, Number of Burgers with No Waste of Ingredients, Medium
-(1277, Count Square Submatrices with All Ones, Medium
-(1278, Palindrome Partitioning III, Hard
-(1279, Traffic Light Controlled Intersection, Easy
-(1280, Students and Examinations, Easy
-(1281, Subtract the Product and Sum of Digits of an Integer, Easy
-(1282, Group the People Given the Group Size They Belong To, Medium
-(1283, Find the Smallest Divisor Given a Threshold, Medium
-(1284, Minimum Number of Flips to Convert Binary Matrix to Zero Matrix, Hard
-(1285, Find the Start and End Number of Continuous Ranges, Medium
-(1286, Iterator for Combination, Medium
-(1287, Element Appearing More Than 25% In Sorted Array, Easy
-(1288, Remove Covered Intervals, Medium
-(1289, Minimum Falling Path Sum II, Hard
-(1290, Convert Binary Number in a Linked List to Integer, Easy
-(1291, Sequential Digits, Medium
-(1292, Maximum Side Length of a Square with Sum Less than or Equal to Threshold, Medium
-(1293, Shortest Path in a Grid with Obstacles Elimination, Hard
-(1294, Weather Type in Each Country, Easy
-(1295, Find Numbers with Even Number of Digits, Easy
-(1296, Divide Array in Sets of K Consecutive Numbers, Medium
-(1297, Maximum Number of Occurrences of a Substring, Medium
-(1298, Maximum Candies You Can Get from Boxes, Hard
-(1299, Replace Elements with Greatest Element on Right Side, Easy
-(1300, Sum of Mutated Array Closest to Target, Medium
-(1301, Number of Paths with Max Score, Hard
-(1302, Deepest Leaves Sum, Medium
-(1303, Find the Team Size, Easy
-(1304, Find N Unique Integers Sum up to Zero, Easy
-(1305, All Elements in Two Binary Search Trees, Medium
-(1306, Jump Game III, Medium
-(1307, Verbal Arithmetic Puzzle, Hard
-(1308, Running Total for Different Genders, Medium
-(1309, Decrypt String from Alphabet to Integer Mapping, Easy
-(1310, XOR Queries of a Subarray, Medium
-(1311, Get Watched Videos by Your Friends, Medium
-(1312, Minimum Insertion Steps to Make a String Palindrome, Hard
-(1313, Decompress Run-Length Encoded List, Easy
-(1314, Matrix Block Sum, Medium
-(1315, Sum of Nodes with Even-Valued Grandparent, Medium
-(1316, Distinct Echo Substrings, Hard
-(1317, Convert Integer to the Sum of Two No-Zero Integers, Easy
-(1318, Minimum Flips to Make a OR b Equal to c, Medium
-(1319, Number of Operations to Make Network Connected, Medium
-(1320, Minimum Distance to Type a Word Using Two Fingers, Hard
-(1321, Restaurant Growth, Medium
-(1322, Ads Performance, Easy
-(1323, Maximum 69 Number, Easy
-(1324, Print Words Vertically, Medium
-(1325, Delete Leaves With a Given Value, Medium
-(1326, Minimum Number of Taps to Open to Water a Garden, Hard
-(1327, List the Products Ordered in a Period, Easy
-(1328, Break a Palindrome, Medium
-(1329, Sort the Matrix Diagonally, Medium
-(1330, Reverse Subarray To Maximize Array Value, Hard
-(1331, Rank Transform of an Array, Easy
-(1332, Remove Palindromic Subsequences, Easy
-(1333, Filter Restaurants by Vegan-Friendly, Price and Distance, Medium
-(1334, Find the City With the Smallest Number of Neighbors at a Threshold Distance, Medium
-(1335, Minimum Difficulty of a Job Schedule, Hard
-(1336, Number of Transactions per Visit, Hard
-(1337, The K Weakest Rows in a Matrix, Easy
-(1338, Reduce Array Size to The Half, Medium
-(1339, Maximum Product of Splitted Binary Tree, Medium
-(1340, Jump Game V, Hard
-(1341, Movie Rating, Medium
-(1342, Number of Steps to Reduce a Number to Zero, Easy
-(1343, Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold, Medium
-(1344, Angle Between Hands of a Clock, Medium
-(1345, Jump Game IV, Hard
-(1346, Check If N and Its Double Exist, Easy
-(1347, Minimum Number of Steps to Make Two Strings Anagram, Medium
-(1348, Tweet Counts Per Frequency, Medium
-(1349, Maximum Students Taking Exam, Hard
-(1350, Students With Invalid Departments, Easy
-(1351, Count Negative Numbers in a Sorted Matrix, Easy
-(1352, Product of the Last K Numbers, Medium
-(1353, Maximum Number of Events That Can Be Attended, Medium
-(1354, Construct Target Array With Multiple Sums, Hard
-(1355, Activity Participants, Medium
-(1356, Sort Integers by The Number of 1 Bits, Easy
-(1357, Apply Discount Every n Orders, Medium
-(1358, Number of Substrings Containing All Three Characters, Medium
-(1359, Count All Valid Pickup and Delivery Options, Hard
-(1360, Number of Days Between Two Dates, Easy
-(1361, Validate Binary Tree Nodes, Medium
-(1362, Closest Divisors, Medium
-(1363, Largest Multiple of Three, Hard
-(1364, Number of Trusted Contacts of a Customer, Medium
-(1365, How Many Numbers Are Smaller Than the Current Number, Easy
-(1366, Rank Teams by Votes, Medium
-(1367, Linked List in Binary Tree, Medium
-(1368, Minimum Cost to Make at Least One Valid Path in a Grid, Hard
-(1369, Get the Second Most Recent Activity, Hard
-(1370, Increasing Decreasing String, Easy
-(1371, Find the Longest Substring Containing Vowels in Even Counts, Medium
-(1372, Longest ZigZag Path in a Binary Tree, Medium
-(1373, Maximum Sum BST in Binary Tree, Hard
-(1374, Generate a String With Characters That Have Odd Counts, Easy
-(1375, Number of Times Binary String Is Prefix-Aligned, Medium
-(1376, Time Needed to Inform All Employees, Medium
-(1377, Frog Position After T Seconds, Hard
-(1378, Replace Employee ID With The Unique Identifier, Easy
-(1379, Find a Corresponding Node of a Binary Tree in a Clone of That Tree, Easy
-(1380, Lucky Numbers in a Matrix, Easy
-(1381, Design a Stack With Increment Operation, Medium
-(1382, Balance a Binary Search Tree, Medium
-(1383, Maximum Performance of a Team, Hard
-(1384, Total Sales Amount by Year, Hard
-(1385, Find the Distance Value Between Two Arrays, Easy
-(1386, Cinema Seat Allocation, Medium
-(1387, Sort Integers by The Power Value, Medium
-(1388, Pizza With 3n Slices, Hard
-(1389, Create Target Array in the Given Order, Easy
-(1390, Four Divisors, Medium
-(1391, Check if There is a Valid Path in a Grid, Medium
-(1392, Longest Happy Prefix, Hard
-(1393, Capital Gain/Loss, Medium
-(1394, Find Lucky Integer in an Array, Easy
-(1395, Count Number of Teams, Medium
-(1396, Design Underground System, Medium
-(1397, Find All Good Strings, Hard
-(1398, Customers Who Bought Products A and B but Not C, Medium
-(1399, Count Largest Group, Easy
-(1400, Construct K Palindrome Strings, Medium
-(1401, Circle and Rectangle Overlapping, Medium
-(1402, Reducing Dishes, Hard
-(1403, Minimum Subsequence in Non-Increasing Order, Easy
-(1404, Number of Steps to Reduce a Number in Binary Representation to One, Medium
-(1405, Longest Happy String, Medium
-(1406, Stone Game III, Hard
-(1407, Top Travellers, Easy
-(1408, String Matching in an Array, Easy
-(1409, Queries on a Permutation With Key, Medium
-(1410, HTML Entity Parser, Medium
-(1411, Number of Ways to Paint N × 3 Grid, Hard
-(1412, Find the Quiet Students in All Exams, Hard
-(1413, Minimum Value to Get Positive Step by Step Sum, Easy
-(1414, Find the Minimum Number of Fibonacci Numbers Whose Sum Is K, Medium
-(1415, The k-th Lexicographical String of All Happy Strings of Length n, Medium
-(1416, Restore The Array, Hard
-(1417, Reformat The String, Easy
-(1418, Display Table of Food Orders in a Restaurant, Medium
-(1419, Minimum Number of Frogs Croaking, Medium
-(1420, Build Array Where You Can Find The Maximum Exactly K Comparisons, Hard
-(1421, NPV Queries, Easy
-(1422, Maximum Score After Splitting a String, Easy
-(1423, Maximum Points You Can Obtain from Cards, Medium
-(1424, Diagonal Traverse II, Medium
-(1425, Constrained Subsequence Sum, Hard
-(1426, Counting Elements, Easy
-(1427, Perform String Shifts, Easy
-(1428, Leftmost Column with at Least a One, Medium
-(1429, First Unique Number, Medium
-(1430, Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree, Medium
-(1431, Kids With the Greatest Number of Candies, Easy
-(1432, Max Difference You Can Get From Changing an Integer, Medium
-(1433, Check If a String Can Break Another String, Medium
-(1434, Number of Ways to Wear Different Hats to Each Other, Hard
-(1435, Create a Session Bar Chart, Easy
-(1436, Destination City, Easy
-(1437, Check If All 1's Are at Least Length K Places Away, Easy
-(1438, Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit, Medium
-(1439, Find the Kth Smallest Sum of a Matrix With Sorted Rows, Hard
-(1440, Evaluate Boolean Expression, Medium
-(1441, Build an Array With Stack Operations, Medium
-(1442, Count Triplets That Can Form Two Arrays of Equal XOR, Medium
-(1443, Minimum Time to Collect All Apples in a Tree, Medium
-(1444, Number of Ways of Cutting a Pizza, Hard
-(1445, Apples & Oranges, Medium
-(1446, Consecutive Characters, Easy
-(1447, Simplified Fractions, Medium
-(1448, Count Good Nodes in Binary Tree, Medium
-(1449, Form Largest Integer With Digits That Add up to Target, Hard
-(1450, Number of Students Doing Homework at a Given Time, Easy
-(1451, Rearrange Words in a Sentence, Medium
-(1452, People Whose List of Favorite Companies Is Not a Subset of Another List, Medium
-(1453, Maximum Number of Darts Inside of a Circular Dartboard, Hard
-(1454, Active Users, Medium
-(1455, Check If a Word Occurs As a Prefix of Any Word in a Sentence, Easy
-(1456, Maximum Number of Vowels in a Substring of Given Length, Medium
-(1457, Pseudo-Palindromic Paths in a Binary Tree, Medium
-(1458, Max Dot Product of Two Subsequences, Hard
-(1459, Rectangles Area, Medium
-(1460, Make Two Arrays Equal by Reversing Subarrays, Easy
-(1461, Check If a String Contains All Binary Codes of Size K, Medium
-(1462, Course Schedule IV, Medium
-(1463, Cherry Pickup II, Hard
-(1464, Maximum Product of Two Elements in an Array, Easy
-(1465, Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts, Medium
-(1466, Reorder Routes to Make All Paths Lead to the City Zero, Medium
-(1467, Probability of a Two Boxes Having The Same Number of Distinct Balls, Hard
-(1468, Calculate Salaries, Medium
-(1469, Find All The Lonely Nodes, Easy
-(1470, Shuffle the Array, Easy
-(1471, The k Strongest Values in an Array, Medium
-(1472, Design Browser History, Medium
-(1473, Paint House III, Hard
-(1474, Delete N Nodes After M Nodes of a Linked List, Easy
-(1475, Final Prices With a Special Discount in a Shop, Easy
-(1476, Subrectangle Queries, Medium
-(1477, Find Two Non-overlapping Sub-arrays Each With Target Sum, Medium
-(1478, Allocate Mailboxes, Hard
-(1479, Sales by Day of the Week, Hard
-(1480, Running Sum of 1d Array, Easy
-(1481, Least Number of Unique Integers after K Removals, Medium
-(1482, Minimum Number of Days to Make m Bouquets, Medium
-(1483, Kth Ancestor of a Tree Node, Hard
-(1484, Group Sold Products By The Date, Easy
-(1485, Clone Binary Tree With Random Pointer, Medium
-(1486, XOR Operation in an Array, Easy
-(1487, Making File Names Unique, Medium
-(1488, Avoid Flood in The City, Medium
-(1489, Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree, Hard
-(1490, Clone N-ary Tree, Medium
-(1491, Average Salary Excluding the Minimum and Maximum Salary, Easy
-(1492, The kth Factor of n, Medium
-(1493, Longest Subarray of 1's After Deleting One Element, Medium
-(1494, Parallel Courses II, Hard
-(1495, Friendly Movies Streamed Last Month, Easy
-(1496, Path Crossing, Easy
-(1497, Check If Array Pairs Are Divisible by k, Medium
-(1498, Number of Subsequences That Satisfy the Given Sum Condition, Medium
-(1499, Max Value of Equation, Hard
-(1500, Design a File Sharing System, Medium
-(1501, Countries You Can Safely Invest In, Medium
-(1502, Can Make Arithmetic Progression From Sequence, Easy
-(1503, Last Moment Before All Ants Fall Out of a Plank, Medium
-(1504, Count Submatrices With All Ones, Medium
-(1505, Minimum Possible Integer After at Most K Adjacent Swaps On Digits, Hard
-(1506, Find Root of N-Ary Tree, Medium
-(1507, Reformat Date, Easy
-(1508, Range Sum of Sorted Subarray Sums, Medium
-(1509, Minimum Difference Between Largest and Smallest Value in Three Moves, Medium
-(1510, Stone Game IV, Hard
-(1511, Customer Order Frequency, Easy
-(1512, Number of Good Pairs, Easy
-(1513, Number of Substrings With Only 1s, Medium
-(1514, Path with Maximum Probability, Medium
-(1515, Best Position for a Service Centre, Hard
-(1516, Move Sub-Tree of N-Ary Tree, Hard
-(1517, Find Users With Valid E-Mails, Easy
-(1518, Water Bottles, Easy
-(1519, Number of Nodes in the Sub-Tree With the Same Label, Medium
-(1520, Maximum Number of Non-Overlapping Substrings, Hard
-(1521, Find a Value of a Mysterious Function Closest to Target, Hard
-(1522, Diameter of N-Ary Tree, Medium
-(1523, Count Odd Numbers in an Interval Range, Easy
-(1524, Number of Sub-arrays With Odd Sum, Medium
-(1525, Number of Good Ways to Split a String, Medium
-(1526, Minimum Number of Increments on Subarrays to Form a Target Array, Hard
-(1527, Patients With a Condition, Easy
-(1528, Shuffle String, Easy
-(1529, Minimum Suffix Flips, Medium
-(1530, Number of Good Leaf Nodes Pairs, Medium
-(1531, String Compression II, Hard
-(1532, The Most Recent Three Orders, Medium
-(1533, Find the Index of the Large Integer, Medium
-(1534, Count Good Triplets, Easy
-(1535, Find the Winner of an Array Game, Medium
-(1536, Minimum Swaps to Arrange a Binary Grid, Medium
-(1537, Get the Maximum Score, Hard
-(1538, Guess the Majority in a Hidden Array, Medium
-(1539, Kth Missing Positive Number, Easy
-(1540, Can Convert String in K Moves, Medium
-(1541, Minimum Insertions to Balance a Parentheses String, Medium
-(1542, Find Longest Awesome Substring, Hard
-(1543, Fix Product Name Format, Easy
-(1544, Make The String Great, Easy
-(1545, Find Kth Bit in Nth Binary String, Medium
-(1546, Maximum Number of Non-Overlapping Subarrays With Sum Equals Target, Medium
-(1547, Minimum Cost to Cut a Stick, Hard
-(1548, The Most Similar Path in a Graph, Hard
-(1549, The Most Recent Orders for Each Product, Medium
-(1550, Three Consecutive Odds, Easy
-(1551, Minimum Operations to Make Array Equal, Medium
-(1552, Magnetic Force Between Two Balls, Medium
-(1553, Minimum Number of Days to Eat N Oranges, Hard
-(1554, Strings Differ by One Character, Medium
-(1555, Bank Account Summary, Medium
-(1556, Thousand Separator, Easy
-(1557, Minimum Number of Vertices to Reach All Nodes, Medium
-(1558, Minimum Numbers of Function Calls to Make Target Array, Medium
-(1559, Detect Cycles in 2D Grid, Medium
-(1560, Most Visited Sector in a Circular Track, Easy
-(1561, Maximum Number of Coins You Can Get, Medium
-(1562, Find Latest Group of Size M, Medium
-(1563, Stone Game V, Hard
-(1564, Put Boxes Into the Warehouse I, Medium
-(1565, Unique Orders and Customers Per Month, Easy
-(1566, Detect Pattern of Length M Repeated K or More Times, Easy
-(1567, Maximum Length of Subarray With Positive Product, Medium
-(1568, Minimum Number of Days to Disconnect Island, Hard
-(1569, Number of Ways to Reorder Array to Get Same BST, Hard
-(1570, Dot Product of Two Sparse Vectors, Medium
-(1571, Warehouse Manager, Easy
-(1572, Matrix Diagonal Sum, Easy
-(1573, Number of Ways to Split a String, Medium
-(1574, Shortest Subarray to be Removed to Make Array Sorted, Medium
-(1575, Count All Possible Routes, Hard
-(1576, Replace All ?'s to Avoid Consecutive Repeating Characters, Easy
-(1577, Number of Ways Where Square of Number Is Equal to Product of Two Numbers, Medium
-(1578, Minimum Time to Make Rope Colorful, Medium
-(1579, Remove Max Number of Edges to Keep Graph Fully Traversable, Hard
-(1580, Put Boxes Into the Warehouse II, Medium
-(1581, Customer Who Visited but Did Not Make Any Transactions, Easy
-(1582, Special Positions in a Binary Matrix, Easy
-(1583, Count Unhappy Friends, Medium
-(1584, Min Cost to Connect All Points, Medium
-(1585, Check If String Is Transformable With Substring Sort Operations, Hard
-(1586, Binary Search Tree Iterator II, Medium
-(1587, Bank Account Summary II, Easy
-(1588, Sum of All Odd Length Subarrays, Easy
-(1589, Maximum Sum Obtained of Any Permutation, Medium
-(1590, Make Sum Divisible by P, Medium
-(1591, Strange Printer II, Hard
-(1592, Rearrange Spaces Between Words, Easy
-(1593, Split a String Into the Max Number of Unique Substrings, Medium
-(1594, Maximum Non Negative Product in a Matrix, Medium
-(1595, Minimum Cost to Connect Two Groups of Points, Hard
-(1596, The Most Frequently Ordered Products for Each Customer, Medium
-(1597, Build Binary Expression Tree From Infix Expression, Hard
-(1598, Crawler Log Folder, Easy
-(1599, Maximum Profit of Operating a Centennial Wheel, Medium
-(1600, Throne Inheritance, Medium
-(1601, Maximum Number of Achievable Transfer Requests, Hard
-(1602, Find Nearest Right Node in Binary Tree, Medium
-(1603, Design Parking System, Easy
-(1604, Alert Using Same Key-Card Three or More Times in a One Hour Period, Medium
-(1605, Find Valid Matrix Given Row and Column Sums, Medium
-(1606, Find Servers That Handled Most Number of Requests, Hard
-(1607, Sellers With No Sales, Easy
-(1608, Special Array With X Elements Greater Than or Equal X, Easy
-(1609, Even Odd Tree, Medium
-(1610, Maximum Number of Visible Points, Hard
-(1611, Minimum One Bit Operations to Make Integers Zero, Hard
-(1612, Check If Two Expression Trees are Equivalent, Medium
-(1613, Find the Missing IDs, Medium
-(1614, Maximum Nesting Depth of the Parentheses, Easy
-(1615, Maximal Network Rank, Medium
-(1616, Split Two Strings to Make Palindrome, Medium
-(1617, Count Subtrees With Max Distance Between Cities, Hard
-(1618, Maximum Font to Fit a Sentence in a Screen, Medium
-(1619, Mean of Array After Removing Some Elements, Easy
-(1620, Coordinate With Maximum Network Quality, Medium
-(1621, Number of Sets of K Non-Overlapping Line Segments, Medium
-(1622, Fancy Sequence, Hard
-(1623, All Valid Triplets That Can Represent a Country, Easy
-(1624, Largest Substring Between Two Equal Characters, Easy
-(1625, Lexicographically Smallest String After Applying Operations, Medium
-(1626, Best Team With No Conflicts, Medium
-(1627, Graph Connectivity With Threshold, Hard
-(1628, Design an Expression Tree With Evaluate Function, Medium
-(1629, Slowest Key, Easy
-(1630, Arithmetic Subarrays, Medium
-(1631, Path With Minimum Effort, Medium
-(1632, Rank Transform of a Matrix, Hard
-(1633, Percentage of Users Attended a Contest, Easy
-(1634, Add Two Polynomials Represented as Linked Lists, Medium
-(1635, Hopper Company Queries I, Hard
-(1636, Sort Array by Increasing Frequency, Easy
-(1637, Widest Vertical Area Between Two Points Containing No Points, Easy
-(1638, Count Substrings That Differ by One Character, Medium
-(1639, Number of Ways to Form a Target String Given a Dictionary, Hard
-(1640, Check Array Formation Through Concatenation, Easy
-(1641, Count Sorted Vowel Strings, Medium
-(1642, Furthest Building You Can Reach, Medium
-(1643, Kth Smallest Instructions, Hard
-(1644, Lowest Common Ancestor of a Binary Tree II, Medium
-(1645, Hopper Company Queries II, Hard
-(1646, Get Maximum in Generated Array, Easy
-(1647, Minimum Deletions to Make Character Frequencies Unique, Medium
-(1648, Sell Diminishing-Valued Colored Balls, Medium
-(1649, Create Sorted Array through Instructions, Hard
-(1650, Lowest Common Ancestor of a Binary Tree III, Medium
-(1651, Hopper Company Queries III, Hard
-(1652, Defuse the Bomb, Easy
-(1653, Minimum Deletions to Make String Balanced, Medium
-(1654, Minimum Jumps to Reach Home, Medium
-(1655, Distribute Repeating Integers, Hard
-(1656, Design an Ordered Stream, Easy
-(1657, Determine if Two Strings Are Close, Medium
-(1658, Minimum Operations to Reduce X to Zero, Medium
-(1659, Maximize Grid Happiness, Hard
-(1660, Correct a Binary Tree, Medium
-(1661, Average Time of Process per Machine, Easy
-(1662, Check If Two String Arrays are Equivalent, Easy
-(1663, Smallest String With A Given Numeric Value, Medium
-(1664, Ways to Make a Fair Array, Medium
-(1665, Minimum Initial Energy to Finish Tasks, Hard
-(1666, Change the Root of a Binary Tree, Medium
-(1667, Fix Names in a Table, Easy
-(1668, Maximum Repeating Substring, Easy
-(1669, Merge In Between Linked Lists, Medium
-(1670, Design Front Middle Back Queue, Medium
-(1671, Minimum Number of Removals to Make Mountain Array, Hard
-(1672, Richest Customer Wealth, Easy
-(1673, Find the Most Competitive Subsequence, Medium
-(1674, Minimum Moves to Make Array Complementary, Medium
-(1675, Minimize Deviation in Array, Hard
-(1676, Lowest Common Ancestor of a Binary Tree IV, Medium
-(1677, Product's Worth Over Invoices, Easy
-(1678, Goal Parser Interpretation, Easy
-(1679, Max Number of K-Sum Pairs, Medium
-(1680, Concatenation of Consecutive Binary Numbers, Medium
-(1681, Minimum Incompatibility, Hard
-(1682, Longest Palindromic Subsequence II, Medium
-(1683, Invalid Tweets, Easy
-(1684, Count the Number of Consistent Strings, Easy
-(1685, Sum of Absolute Differences in a Sorted Array, Medium
-(1686, Stone Game VI, Medium
-(1687, Delivering Boxes from Storage to Ports, Hard
-(1688, Count of Matches in Tournament, Easy
-(1689, Partitioning Into Minimum Number Of Deci-Binary Numbers, Medium
-(1690, Stone Game VII, Medium
-(1691, Maximum Height by Stacking Cuboids, Hard
-(1692, Count Ways to Distribute Candies, Hard
-(1693, Daily Leads and Partners, Easy
-(1694, Reformat Phone Number, Easy
-(1695, Maximum Erasure Value, Medium
-(1696, Jump Game VI, Medium
-(1697, Checking Existence of Edge Length Limited Paths, Hard
-(1698, Number of Distinct Substrings in a String, Medium
-(1699, Number of Calls Between Two Persons, Medium
-(1700, Number of Students Unable to Eat Lunch, Easy
-(1701, Average Waiting Time, Medium
-(1702, Maximum Binary String After Change, Medium
-(1703, Minimum Adjacent Swaps for K Consecutive Ones, Hard
-(1704, Determine if String Halves Are Alike, Easy
-(1705, Maximum Number of Eaten Apples, Medium
-(1706, Where Will the Ball Fall, Medium
-(1707, Maximum XOR With an Element From Array, Hard
-(1708, Largest Subarray Length K, Easy
-(1709, Biggest Window Between Visits, Medium
-(1710, Maximum Units on a Truck, Easy
-(1711, Count Good Meals, Medium
-(1712, Ways to Split Array Into Three Subarrays, Medium
-(1713, Minimum Operations to Make a Subsequence, Hard
-(1714, Sum Of Special Evenly-Spaced Elements In Array, Hard
-(1715, Count Apples and Oranges, Medium
-(1716, Calculate Money in Leetcode Bank, Easy
-(1717, Maximum Score From Removing Substrings, Medium
-(1718, Construct the Lexicographically Largest Valid Sequence, Medium
-(1719, Number Of Ways To Reconstruct A Tree, Hard
-(1720, Decode XORed Array, Easy
-(1721, Swapping Nodes in a Linked List, Medium
-(1722, Minimize Hamming Distance After Swap Operations, Medium
-(1723, Find Minimum Time to Finish All Jobs, Hard
-(1724, Checking Existence of Edge Length Limited Paths II, Hard
-(1725, Number Of Rectangles That Can Form The Largest Square, Easy
-(1726, Tuple with Same Product, Medium
-(1727, Largest Submatrix With Rearrangements, Medium
-(1728, Cat and Mouse II, Hard
-(1729, Find Followers Count, Easy
-(1730, Shortest Path to Get Food, Medium
-(1731, The Number of Employees Which Report to Each Employee, Easy
-(1732, Find the Highest Altitude, Easy
-(1733, Minimum Number of People to Teach, Medium
-(1734, Decode XORed Permutation, Medium
-(1735, Count Ways to Make Array With Product, Hard
-(1736, Latest Time by Replacing Hidden Digits, Easy
-(1737, Change Minimum Characters to Satisfy One of Three Conditions, Medium
-(1738, Find Kth Largest XOR Coordinate Value, Medium
-(1739, Building Boxes, Hard
-(1740, Find Distance in a Binary Tree, Medium
-(1741, Find Total Time Spent by Each Employee, Easy
-(1742, Maximum Number of Balls in a Box, Easy
-(1743, Restore the Array From Adjacent Pairs, Medium
-(1744, Can You Eat Your Favorite Candy on Your Favorite Day?, Medium
-(1745, Palindrome Partitioning IV, Hard
-(1746, Maximum Subarray Sum After One Operation, Medium
-(1747, Leetflex Banned Accounts, Medium
-(1748, Sum of Unique Elements, Easy
-(1749, Maximum Absolute Sum of Any Subarray, Medium
-(1750, Minimum Length of String After Deleting Similar Ends, Medium
-(1751, Maximum Number of Events That Can Be Attended II, Hard
-(1752, Check if Array Is Sorted and Rotated, Easy
-(1753, Maximum Score From Removing Stones, Medium
-(1754, Largest Merge Of Two Strings, Medium
-(1755, Closest Subsequence Sum, Hard
-(1756, Design Most Recently Used Queue, Medium
-(1757, Recyclable and Low Fat Products, Easy
-(1758, Minimum Changes To Make Alternating Binary String, Easy
-(1759, Count Number of Homogenous Substrings, Medium
-(1760, Minimum Limit of Balls in a Bag, Medium
-(1761, Minimum Degree of a Connected Trio in a Graph, Hard
-(1762, Buildings With an Ocean View, Medium
-(1763, Longest Nice Substring, Easy
-(1764, Form Array by Concatenating Subarrays of Another Array, Medium
-(1765, Map of Highest Peak, Medium
-(1766, Tree of Coprimes, Hard
-(1767, Find the Subtasks That Did Not Execute, Hard
-(1768, Merge Strings Alternately, Easy
-(1769, Minimum Number of Operations to Move All Balls to Each Box, Medium
-(1770, Maximum Score from Performing Multiplication Operations, Hard
-(1771, Maximize Palindrome Length From Subsequences, Hard
-(1772, Sort Features by Popularity, Medium
-(1773, Count Items Matching a Rule, Easy
-(1774, Closest Dessert Cost, Medium
-(1775, Equal Sum Arrays With Minimum Number of Operations, Medium
-(1776, Car Fleet II, Hard
-(1777, Product's Price for Each Store, Easy
-(1778, Shortest Path in a Hidden Grid, Medium
-(1779, Find Nearest Point That Has the Same X or Y Coordinate, Easy
-(1780, Check if Number is a Sum of Powers of Three, Medium
-(1781, Sum of Beauty of All Substrings, Medium
-(1782, Count Pairs Of Nodes, Hard
-(1783, Grand Slam Titles, Medium
-(1784, Check if Binary String Has at Most One Segment of Ones, Easy
-(1785, Minimum Elements to Add to Form a Given Sum, Medium
-(1786, Number of Restricted Paths From First to Last Node, Medium
-(1787, Make the XOR of All Segments Equal to Zero, Hard
-(1788, Maximize the Beauty of the Garden, Hard
-(1789, Primary Department for Each Employee, Easy
-(1790, Check if One String Swap Can Make Strings Equal, Easy
-(1791, Find Center of Star Graph, Easy
-(1792, Maximum Average Pass Ratio, Medium
-(1793, Maximum Score of a Good Subarray, Hard
-(1794, Count Pairs of Equal Substrings With Minimum Difference, Medium
-(1795, Rearrange Products Table, Easy
-(1796, Second Largest Digit in a String, Easy
-(1797, Design Authentication Manager, Medium
-(1798, Maximum Number of Consecutive Values You Can Make, Medium
-(1799, Maximize Score After N Operations, Hard
-(1800, Maximum Ascending Subarray Sum, Easy
-(1801, Number of Orders in the Backlog, Medium
-(1802, Maximum Value at a Given Index in a Bounded Array, Medium
-(1803, Count Pairs With XOR in a Range, Hard
-(1804, Implement Trie II (Prefix Tree), Medium
-(1805, Number of Different Integers in a String, Easy
-(1806, Minimum Number of Operations to Reinitialize a Permutation, Medium
-(1807, Evaluate the Bracket Pairs of a String, Medium
-(1808, Maximize Number of Nice Divisors, Hard
-(1809, Ad-Free Sessions, Easy
-(1810, Minimum Path Cost in a Hidden Grid, Medium
-(1811, Find Interview Candidates, Medium
-(1812, Determine Color of a Chessboard Square, Easy
-(1813, Sentence Similarity III, Medium
-(1814, Count Nice Pairs in an Array, Medium
-(1815, Maximum Number of Groups Getting Fresh Donuts, Hard
-(1816, Truncate Sentence, Easy
-(1817, Finding the Users Active Minutes, Medium
-(1818, Minimum Absolute Sum Difference, Medium
-(1819, Number of Different Subsequences GCDs, Hard
-(1820, Maximum Number of Accepted Invitations, Medium
-(1821, Find Customers With Positive Revenue this Year, Easy
-(1822, Sign of the Product of an Array, Easy
-(1823, Find the Winner of the Circular Game, Medium
-(1824, Minimum Sideway Jumps, Medium
-(1825, Finding MK Average, Hard
-(1826, Faulty Sensor, Easy
-(1827, Minimum Operations to Make the Array Increasing, Easy
-(1828, Queries on Number of Points Inside a Circle, Medium
-(1829, Maximum XOR for Each Query, Medium
-(1830, Minimum Number of Operations to Make String Sorted, Hard
-(1831, Maximum Transaction Each Day, Medium
-(1832, Check if the Sentence Is Pangram, Easy
-(1833, Maximum Ice Cream Bars, Medium
-(1834, Single-Threaded CPU, Medium
-(1835, Find XOR Sum of All Pairs Bitwise AND, Hard
-(1836, Remove Duplicates From an Unsorted Linked List, Medium
-(1837, Sum of Digits in Base K, Easy
-(1838, Frequency of the Most Frequent Element, Medium
-(1839, Longest Substring Of All Vowels in Order, Medium
-(1840, Maximum Building Height, Hard
-(1841, League Statistics, Medium
-(1842, Next Palindrome Using Same Digits, Hard
-(1843, Suspicious Bank Accounts, Medium
-(1844, Replace All Digits with Characters, Easy
-(1845, Seat Reservation Manager, Medium
-(1846, Maximum Element After Decreasing and Rearranging, Medium
-(1847, Closest Room, Hard
-(1848, Minimum Distance to the Target Element, Easy
-(1849, Splitting a String Into Descending Consecutive Values, Medium
-(1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number, Medium
-(1851, Minimum Interval to Include Each Query, Hard
-(1852, Distinct Numbers in Each Subarray, Medium
-(1853, Convert Date Format, Easy
-(1854, Maximum Population Year, Easy
-(1855, Maximum Distance Between a Pair of Values, Medium
-(1856, Maximum Subarray Min-Product, Medium
-(1857, Largest Color Value in a Directed Graph, Hard
-(1858, Longest Word With All Prefixes, Medium
-(1859, Sorting the Sentence, Easy
-(1860, Incremental Memory Leak, Medium
-(1861, Rotating the Box, Medium
-(1862, Sum of Floored Pairs, Hard
-(1863, Sum of All Subset XOR Totals, Easy
-(1864, Minimum Number of Swaps to Make the Binary String Alternating, Medium
-(1865, Finding Pairs With a Certain Sum, Medium
-(1866, Number of Ways to Rearrange Sticks With K Sticks Visible, Hard
-(1867, Orders With Maximum Quantity Above Average, Medium
-(1868, Product of Two Run-Length Encoded Arrays, Medium
-(1869, Longer Contiguous Segments of Ones than Zeros, Easy
-(1870, Minimum Speed to Arrive on Time, Medium
-(1871, Jump Game VII, Medium
-(1872, Stone Game VIII, Hard
-(1873, Calculate Special Bonus, Easy
-(1874, Minimize Product Sum of Two Arrays, Medium
-(1875, Group Employees of the Same Salary, Medium
-(1876, Substrings of Size Three with Distinct Characters, Easy
-(1877, Minimize Maximum Pair Sum in Array, Medium
-(1878, Get Biggest Three Rhombus Sums in a Grid, Medium
-(1879, Minimum XOR Sum of Two Arrays, Hard
-(1880, Check if Word Equals Summation of Two Words, Easy
-(1881, Maximum Value after Insertion, Medium
-(1882, Process Tasks Using Servers, Medium
-(1883, Minimum Skips to Arrive at Meeting On Time, Hard
-(1884, Egg Drop With 2 Eggs and N Floors, Medium
-(1885, Count Pairs in Two Arrays, Medium
-(1886, Determine Whether Matrix Can Be Obtained By Rotation, Easy
-(1887, Reduction Operations to Make the Array Elements Equal, Medium
-(1888, Minimum Number of Flips to Make the Binary String Alternating, Medium
-(1889, Minimum Space Wasted From Packaging, Hard
-(1890, The Latest Login in 2020, Easy
-(1891, Cutting Ribbons, Medium
-(1892, Page Recommendations II, Hard
-(1893, Check if All the Integers in a Range Are Covered, Easy
-(1894, Find the Student that Will Replace the Chalk, Medium
-(1895, Largest Magic Square, Medium
-(1896, Minimum Cost to Change the Final Value of Expression, Hard
-(1897, Redistribute Characters to Make All Strings Equal, Easy
-(1898, Maximum Number of Removable Characters, Medium
-(1899, Merge Triplets to Form Target Triplet, Medium
-(1900, The Earliest and Latest Rounds Where Players Compete, Hard
-(1901, Find a Peak Element II, Medium
-(1902, Depth of BST Given Insertion Order, Medium
-(1903, Largest Odd Number in String, Easy
-(1904, The Number of Full Rounds You Have Played, Medium
-(1905, Count Sub Islands, Medium
-(1906, Minimum Absolute Difference Queries, Medium
-(1907, Count Salary Categories, Medium
-(1908, Game of Nim, Medium
-(1909, Remove One Element to Make the Array Strictly Increasing, Easy
-(1910, Remove All Occurrences of a Substring, Medium
-(1911, Maximum Alternating Subsequence Sum, Medium
-(1912, Design Movie Rental System, Hard
-(1913, Maximum Product Difference Between Two Pairs, Easy
-(1914, Cyclically Rotating a Grid, Medium
-(1915, Number of Wonderful Substrings, Medium
-(1916, Count Ways to Build Rooms in an Ant Colony, Hard
-(1917, Leetcodify Friends Recommendations, Hard
-(1918, Kth Smallest Subarray Sum, Medium
-(1919, Leetcodify Similar Friends, Hard
-(1920, Build Array from Permutation, Easy
-(1921, Eliminate Maximum Number of Monsters, Medium
-(1922, Count Good Numbers, Medium
-(1923, Longest Common Subpath, Hard
-(1924, Erect the Fence II, Hard
-(1925, Count Square Sum Triples, Easy
-(1926, Nearest Exit from Entrance in Maze, Medium
-(1927, Sum Game, Medium
-(1928, Minimum Cost to Reach Destination in Time, Hard
-(1929, Concatenation of Array, Easy
-(1930, Unique Length-3 Palindromic Subsequences, Medium
-(1931, Painting a Grid With Three Different Colors, Hard
-(1932, Merge BSTs to Create Single BST, Hard
-(1933, Check if String Is Decomposable Into Value-Equal Substrings, Easy
-(1934, Confirmation Rate, Medium
-(1935, Maximum Number of Words You Can Type, Easy
-(1936, Add Minimum Number of Rungs, Medium
-(1937, Maximum Number of Points with Cost, Medium
-(1938, Maximum Genetic Difference Query, Hard
-(1939, Users That Actively Request Confirmation Messages, Easy
-(1940, Longest Common Subsequence Between Sorted Arrays, Medium
-(1941, Check if All Characters Have Equal Number of Occurrences, Easy
-(1942, The Number of the Smallest Unoccupied Chair, Medium
-(1943, Describe the Painting, Medium
-(1944, Number of Visible People in a Queue, Hard
-(1945, Sum of Digits of String After Convert, Easy
-(1946, Largest Number After Mutating Substring, Medium
-(1947, Maximum Compatibility Score Sum, Medium
-(1948, Delete Duplicate Folders in System, Hard
-(1949, Strong Friendship, Medium
-(1950, Maximum of Minimum Values in All Subarrays, Medium
-(1951, All the Pairs With the Maximum Number of Common Followers, Medium
-(1952, Three Divisors, Easy
-(1953, Maximum Number of Weeks for Which You Can Work, Medium
-(1954, Minimum Garden Perimeter to Collect Enough Apples, Medium
-(1955, Count Number of Special Subsequences, Hard
-(1956, Minimum Time For K Virus Variants to Spread, Hard
-(1957, Delete Characters to Make Fancy String, Easy
-(1958, Check if Move is Legal, Medium
-(1959, Minimum Total Space Wasted With K Resizing Operations, Medium
-(1960, Maximum Product of the Length of Two Palindromic Substrings, Hard
-(1961, Check If String Is a Prefix of Array, Easy
-(1962, Remove Stones to Minimize the Total, Medium
-(1963, Minimum Number of Swaps to Make the String Balanced, Medium
-(1964, Find the Longest Valid Obstacle Course at Each Position, Hard
-(1965, Employees With Missing Information, Easy
-(1966, Binary Searchable Numbers in an Unsorted Array, Medium
-(1967, Number of Strings That Appear as Substrings in Word, Easy
-(1968, Array With Elements Not Equal to Average of Neighbors, Medium
-(1969, Minimum Non-Zero Product of the Array Elements, Medium
-(1970, Last Day Where You Can Still Cross, Hard
-(1971, Find if Path Exists in Graph, Easy
-(1972, First and Last Call On the Same Day, Hard
-(1973, Count Nodes Equal to Sum of Descendants, Medium
-(1974, Minimum Time to Type Word Using Special Typewriter, Easy
-(1975, Maximum Matrix Sum, Medium
-(1976, Number of Ways to Arrive at Destination, Medium
-(1977, Number of Ways to Separate Numbers, Hard
-(1978, Employees Whose Manager Left the Company, Easy
-(1979, Find Greatest Common Divisor of Array, Easy
-(1980, Find Unique Binary String, Medium
-(1981, Minimize the Difference Between Target and Chosen Elements, Medium
-(1982, Find Array Given Subset Sums, Hard
-(1983, Widest Pair of Indices With Equal Range Sum, Medium
-(1984, Minimum Difference Between Highest and Lowest of K Scores, Easy
-(1985, Find the Kth Largest Integer in the Array, Medium
-(1986, Minimum Number of Work Sessions to Finish the Tasks, Medium
-(1987, Number of Unique Good Subsequences, Hard
-(1988, Find Cutoff Score for Each School, Medium
-(1989, Maximum Number of People That Can Be Caught in Tag, Medium
-(1990, Count the Number of Experiments, Medium
-(1991, Find the Middle Index in Array, Easy
-(1992, Find All Groups of Farmland, Medium
-(1993, Operations on Tree, Medium
-(1994, The Number of Good Subsets, Hard
-(1995, Count Special Quadruplets, Easy
-(1996, The Number of Weak Characters in the Game, Medium
-(1997, First Day Where You Have Been in All the Rooms, Medium
-(1998, GCD Sort of an Array, Hard
-(1999, Smallest Greater Multiple Made of Two Digits, Medium
-(2000, Reverse Prefix of Word, Easy
-(2001, Number of Pairs of Interchangeable Rectangles, Medium
-(2002, Maximum Product of the Length of Two Palindromic Subsequences, Medium
-(2003, Smallest Missing Genetic Value in Each Subtree, Hard
-(2004, The Number of Seniors and Juniors to Join the Company, Hard
-(2005, Subtree Removal Game with Fibonacci Tree, Hard
-(2006, Count Number of Pairs With Absolute Difference K, Easy
-(2007, Find Original Array From Doubled Array, Medium
-(2008, Maximum Earnings From Taxi, Medium
-(2009, Minimum Number of Operations to Make Array Continuous, Hard
-(2010, The Number of Seniors and Juniors to Join the Company II, Hard
-(2011, Final Value of Variable After Performing Operations, Easy
-(2012, Sum of Beauty in the Array, Medium
-(2013, Detect Squares, Medium
-(2014, Longest Subsequence Repeated k Times, Hard
-(2015, Average Height of Buildings in Each Segment, Medium
-(2016, Maximum Difference Between Increasing Elements, Easy
-(2017, Grid Game, Medium
-(2018, Check if Word Can Be Placed In Crossword, Medium
-(2019, The Score of Students Solving Math Expression, Hard
-(2020, Number of Accounts That Did Not Stream, Medium
-(2021, Brightest Position on Street, Medium
-(2022, Convert 1D Array Into 2D Array, Easy
-(2023, Number of Pairs of Strings With Concatenation Equal to Target, Medium
-(2024, Maximize the Confusion of an Exam, Medium
-(2025, Maximum Number of Ways to Partition an Array, Hard
-(2026, Low-Quality Problems, Easy
-(2027, Minimum Moves to Convert String, Easy
-(2028, Find Missing Observations, Medium
-(2029, Stone Game IX, Medium
-(2030, Smallest K-Length Subsequence With Occurrences of a Letter, Hard
-(2031, Count Subarrays With More Ones Than Zeros, Medium
-(2032, Two Out of Three, Easy
-(2033, Minimum Operations to Make a Uni-Value Grid, Medium
-(2034, Stock Price Fluctuation, Medium
-(2035, Partition Array Into Two Arrays to Minimize Sum Difference, Hard
-(2036, Maximum Alternating Subarray Sum, Medium
-(2037, Minimum Number of Moves to Seat Everyone, Easy
-(2038, Remove Colored Pieces if Both Neighbors are the Same Color, Medium
-(2039, The Time When the Network Becomes Idle, Medium
-(2040, Kth Smallest Product of Two Sorted Arrays, Hard
-(2041, Accepted Candidates From the Interviews, Medium
-(2042, Check if Numbers Are Ascending in a Sentence, Easy
-(2043, Simple Bank System, Medium
-(2044, Count Number of Maximum Bitwise-OR Subsets, Medium
-(2045, Second Minimum Time to Reach Destination, Hard
-(2046, Sort Linked List Already Sorted Using Absolute Values, Medium
-(2047, Number of Valid Words in a Sentence, Easy
-(2048, Next Greater Numerically Balanced Number, Medium
-(2049, Count Nodes With the Highest Score, Medium
-(2050, Parallel Courses III, Hard
-(2051, The Category of Each Member in the Store, Medium
-(2052, Minimum Cost to Separate Sentence Into Rows, Medium
-(2053, Kth Distinct String in an Array, Easy
-(2054, Two Best Non-Overlapping Events, Medium
-(2055, Plates Between Candles, Medium
-(2056, Number of Valid Move Combinations On Chessboard, Hard
-(2057, Smallest Index With Equal Value, Easy
-(2058, Find the Minimum and Maximum Number of Nodes Between Critical Points, Medium
-(2059, Minimum Operations to Convert Number, Medium
-(2060, Check if an Original String Exists Given Two Encoded Strings, Hard
-(2061, Number of Spaces Cleaning Robot Cleaned, Medium
-(2062, Count Vowel Substrings of a String, Easy
-(2063, Vowels of All Substrings, Medium
-(2064, Minimized Maximum of Products Distributed to Any Store, Medium
-(2065, Maximum Path Quality of a Graph, Hard
-(2066, Account Balance, Medium
-(2067, Number of Equal Count Substrings, Medium
-(2068, Check Whether Two Strings are Almost Equivalent, Easy
-(2069, Walking Robot Simulation II, Medium
-(2070, Most Beautiful Item for Each Query, Medium
-(2071, Maximum Number of Tasks You Can Assign, Hard
-(2072, The Winner University, Easy
-(2073, Time Needed to Buy Tickets, Easy
-(2074, Reverse Nodes in Even Length Groups, Medium
-(2075, Decode the Slanted Ciphertext, Medium
-(2076, Process Restricted Friend Requests, Hard
-(2077, Paths in Maze That Lead to Same Room, Medium
-(2078, Two Furthest Houses With Different Colors, Easy
-(2079, Watering Plants, Medium
-(2080, Range Frequency Queries, Medium
-(2081, Sum of k-Mirror Numbers, Hard
-(2082, The Number of Rich Customers, Easy
-(2083, Substrings That Begin and End With the Same Letter, Medium
-(2084, Drop Type 1 Orders for Customers With Type 0 Orders, Medium
-(2085, Count Common Words With One Occurrence, Easy
-(2086, Minimum Number of Food Buckets to Feed the Hamsters, Medium
-(2087, Minimum Cost Homecoming of a Robot in a Grid, Medium
-(2088, Count Fertile Pyramids in a Land, Hard
-(2089, Find Target Indices After Sorting Array, Easy
-(2090, K Radius Subarray Averages, Medium
-(2091, Removing Minimum and Maximum From Array, Medium
-(2092, Find All People With Secret, Hard
-(2093, Minimum Cost to Reach City With Discounts, Medium
-(2094, Finding 3-Digit Even Numbers, Easy
-(2095, Delete the Middle Node of a Linked List, Medium
-(2096, Step-By-Step Directions From a Binary Tree Node to Another, Medium
-(2097, Valid Arrangement of Pairs, Hard
-(2098, Subsequence of Size K With the Largest Even Sum, Medium
-(2099, Find Subsequence of Length K With the Largest Sum, Easy
-(2100, Find Good Days to Rob the Bank, Medium
-(2101, Detonate the Maximum Bombs, Medium
-(2102, Sequentially Ordinal Rank Tracker, Hard
-(2103, Rings and Rods, Easy
-(2104, Sum of Subarray Ranges, Medium
-(2105, Watering Plants II, Medium
-(2106, Maximum Fruits Harvested After at Most K Steps, Hard
-(2107, Number of Unique Flavors After Sharing K Candies, Medium
-(2108, Find First Palindromic String in the Array, Easy
-(2109, Adding Spaces to a String, Medium
-(2110, Number of Smooth Descent Periods of a Stock, Medium
-(2111, Minimum Operations to Make the Array K-Increasing, Hard
-(2112, The Airport With the Most Traffic, Medium
-(2113, Elements in Array After Removing and Replacing Elements, Medium
-(2114, Maximum Number of Words Found in Sentences, Easy
-(2115, Find All Possible Recipes from Given Supplies, Medium
-(2116, Check if a Parentheses String Can Be Valid, Medium
-(2117, Abbreviating the Product of a Range, Hard
-(2118, Build the Equation, Hard
-(2119, A Number After a Double Reversal, Easy
-(2120, Execution of All Suffix Instructions Staying in a Grid, Medium
-(2121, Intervals Between Identical Elements, Medium
-(2122, Recover the Original Array, Hard
-(2123, Minimum Operations to Remove Adjacent Ones in Matrix, Hard
-(2124, Check if All A's Appears Before All B's, Easy
-(2125, Number of Laser Beams in a Bank, Medium
-(2126, Destroying Asteroids, Medium
-(2127, Maximum Employees to Be Invited to a Meeting, Hard
-(2128, Remove All Ones With Row and Column Flips, Medium
-(2129, Capitalize the Title, Easy
-(2130, Maximum Twin Sum of a Linked List, Medium
-(2131, Longest Palindrome by Concatenating Two Letter Words, Medium
-(2132, Stamping the Grid, Hard
-(2133, Check if Every Row and Column Contains All Numbers, Easy
-(2134, Minimum Swaps to Group All 1's Together II, Medium
-(2135, Count Words Obtained After Adding a Letter, Medium
-(2136, Earliest Possible Day of Full Bloom, Hard
-(2137, Pour Water Between Buckets to Make Water Levels Equal, Medium
-(2138, Divide a String Into Groups of Size k, Easy
-(2139, Minimum Moves to Reach Target Score, Medium
-(2140, Solving Questions With Brainpower, Medium
-(2141, Maximum Running Time of N Computers, Hard
-(2142, The Number of Passengers in Each Bus I, Medium
-(2143, Choose Numbers From Two Arrays in Range, Hard
-(2144, Minimum Cost of Buying Candies With Discount, Easy
-(2145, Count the Hidden Sequences, Medium
-(2146, K Highest Ranked Items Within a Price Range, Medium
-(2147, Number of Ways to Divide a Long Corridor, Hard
-(2148, Count Elements With Strictly Smaller and Greater Elements, Easy
-(2149, Rearrange Array Elements by Sign, Medium
-(2150, Find All Lonely Numbers in the Array, Medium
-(2151, Maximum Good People Based on Statements, Hard
-(2152, Minimum Number of Lines to Cover Points, Medium
-(2153, The Number of Passengers in Each Bus II, Hard
-(2154, Keep Multiplying Found Values by Two, Easy
-(2155, All Divisions With the Highest Score of a Binary Array, Medium
-(2156, Find Substring With Given Hash Value, Hard
-(2157, Groups of Strings, Hard
-(2158, Amount of New Area Painted Each Day, Hard
-(2159, Order Two Columns Independently, Medium
-(2160, Minimum Sum of Four Digit Number After Splitting Digits, Easy
-(2161, Partition Array According to Given Pivot, Medium
-(2162, Minimum Cost to Set Cooking Time, Medium
-(2163, Minimum Difference in Sums After Removal of Elements, Hard
-(2164, Sort Even and Odd Indices Independently, Easy
-(2165, Smallest Value of the Rearranged Number, Medium
-(2166, Design Bitset, Medium
-(2167, Minimum Time to Remove All Cars Containing Illegal Goods, Hard
-(2168, Unique Substrings With Equal Digit Frequency, Medium
-(2169, Count Operations to Obtain Zero, Easy
-(2170, Minimum Operations to Make the Array Alternating, Medium
-(2171, Removing Minimum Number of Magic Beans, Medium
-(2172, Maximum AND Sum of Array, Hard
-(2173, Longest Winning Streak, Hard
-(2174, Remove All Ones With Row and Column Flips II, Medium
-(2175, The Change in Global Rankings, Medium
-(2176, Count Equal and Divisible Pairs in an Array, Easy
-(2177, Find Three Consecutive Integers That Sum to a Given Number, Medium
-(2178, Maximum Split of Positive Even Integers, Medium
-(2179, Count Good Triplets in an Array, Hard
-(2180, Count Integers With Even Digit Sum, Easy
-(2181, Merge Nodes in Between Zeros, Medium
-(2182, Construct String With Repeat Limit, Medium
-(2183, Count Array Pairs Divisible by K, Hard
-(2184, Number of Ways to Build Sturdy Brick Wall, Medium
-(2185, Counting Words With a Given Prefix, Easy
-(2186, Minimum Number of Steps to Make Two Strings Anagram II, Medium
-(2187, Minimum Time to Complete Trips, Medium
-(2188, Minimum Time to Finish the Race, Hard
-(2189, Number of Ways to Build House of Cards, Medium
-(2190, Most Frequent Number Following Key In an Array, Easy
-(2191, Sort the Jumbled Numbers, Medium
-(2192, All Ancestors of a Node in a Directed Acyclic Graph, Medium
-(2193, Minimum Number of Moves to Make Palindrome, Hard
-(2194, Cells in a Range on an Excel Sheet, Easy
-(2195, Append K Integers With Minimal Sum, Medium
-(2196, Create Binary Tree From Descriptions, Medium
-(2197, Replace Non-Coprime Numbers in Array, Hard
-(2198, Number of Single Divisor Triplets, Medium
-(2199, Finding the Topic of Each Post, Hard
-(2200, Find All K-Distant Indices in an Array, Easy
-(2201, Count Artifacts That Can Be Extracted, Medium
-(2202, Maximize the Topmost Element After K Moves, Medium
-(2203, Minimum Weighted Subgraph With the Required Paths, Hard
-(2204, Distance to a Cycle in Undirected Graph, Hard
-(2205, The Number of Users That Are Eligible for Discount, Easy
-(2206, Divide Array Into Equal Pairs, Easy
-(2207, Maximize Number of Subsequences in a String, Medium
-(2208, Minimum Operations to Halve Array Sum, Medium
-(2209, Minimum White Tiles After Covering With Carpets, Hard
-(2210, Count Hills and Valleys in an Array, Easy
-(2211, Count Collisions on a Road, Medium
-(2212, Maximum Points in an Archery Competition, Medium
-(2213, Longest Substring of One Repeating Character, Hard
-(2214, Minimum Health to Beat Game, Medium
-(2215, Find the Difference of Two Arrays, Easy
-(2216, Minimum Deletions to Make Array Beautiful, Medium
-(2217, Find Palindrome With Fixed Length, Medium
-(2218, Maximum Value of K Coins From Piles, Hard
-(2219, Maximum Sum Score of Array, Medium
-(2220, Minimum Bit Flips to Convert Number, Easy
-(2221, Find Triangular Sum of an Array, Medium
-(2222, Number of Ways to Select Buildings, Medium
-(2223, Sum of Scores of Built Strings, Hard
-(2224, Minimum Number of Operations to Convert Time, Easy
-(2225, Find Players With Zero or One Losses, Medium
-(2226, Maximum Candies Allocated to K Children, Medium
-(2227, Encrypt and Decrypt Strings, Hard
-(2228, Users With Two Purchases Within Seven Days, Medium
-(2229, Check if an Array Is Consecutive, Easy
-(2230, The Users That Are Eligible for Discount, Easy
-(2231, Largest Number After Digit Swaps by Parity, Easy
-(2232, Minimize Result by Adding Parentheses to Expression, Medium
-(2233, Maximum Product After K Increments, Medium
-(2234, Maximum Total Beauty of the Gardens, Hard
-(2235, Add Two Integers, Easy
-(2236, Root Equals Sum of Children, Easy
-(2237, Count Positions on Street With Required Brightness, Medium
-(2238, Number of Times a Driver Was a Passenger, Medium
-(2239, Find Closest Number to Zero, Easy
-(2240, Number of Ways to Buy Pens and Pencils, Medium
-(2241, Design an ATM Machine, Medium
-(2242, Maximum Score of a Node Sequence, Hard
-(2243, Calculate Digit Sum of a String, Easy
-(2244, Minimum Rounds to Complete All Tasks, Medium
-(2245, Maximum Trailing Zeros in a Cornered Path, Medium
-(2246, Longest Path With Different Adjacent Characters, Hard
-(2247, Maximum Cost of Trip With K Highways, Hard
-(2248, Intersection of Multiple Arrays, Easy
-(2249, Count Lattice Points Inside a Circle, Medium
-(2250, Count Number of Rectangles Containing Each Point, Medium
-(2251, Number of Flowers in Full Bloom, Hard
-(2252, Dynamic Pivoting of a Table, Hard
-(2253, Dynamic Unpivoting of a Table, Hard
-(2254, Design Video Sharing Platform, Hard
-(2255, Count Prefixes of a Given String, Easy
-(2256, Minimum Average Difference, Medium
-(2257, Count Unguarded Cells in the Grid, Medium
-(2258, Escape the Spreading Fire, Hard
-(2259, Remove Digit From Number to Maximize Result, Easy
-(2260, Minimum Consecutive Cards to Pick Up, Medium
-(2261, K Divisible Elements Subarrays, Medium
-(2262, Total Appeal of A String, Hard
-(2263, Make Array Non-decreasing or Non-increasing, Hard
-(2264, Largest 3-Same-Digit Number in String, Easy
-(2265, Count Nodes Equal to Average of Subtree, Medium
-(2266, Count Number of Texts, Medium
-(2267, Check if There Is a Valid Parentheses String Path, Hard
-(2268, Minimum Number of Keypresses, Medium
-(2269, Find the K-Beauty of a Number, Easy
-(2270, Number of Ways to Split Array, Medium
-(2271, Maximum White Tiles Covered by a Carpet, Medium
-(2272, Substring With Largest Variance, Hard
-(2273, Find Resultant Array After Removing Anagrams, Easy
-(2274, Maximum Consecutive Floors Without Special Floors, Medium
-(2275, Largest Combination With Bitwise AND Greater Than Zero, Medium
-(2276, Count Integers in Intervals, Hard
-(2277, Closest Node to Path in Tree, Hard
-(2278, Percentage of Letter in String, Easy
-(2279, Maximum Bags With Full Capacity of Rocks, Medium
-(2280, Minimum Lines to Represent a Line Chart, Medium
-(2281, Sum of Total Strength of Wizards, Hard
-(2282, Number of People That Can Be Seen in a Grid, Medium
-(2283, Check if Number Has Equal Digit Count and Digit Value, Easy
-(2284, Sender With Largest Word Count, Medium
-(2285, Maximum Total Importance of Roads, Medium
-(2286, Booking Concert Tickets in Groups, Hard
-(2287, Rearrange Characters to Make Target String, Easy
-(2288, Apply Discount to Prices, Medium
-(2289, Steps to Make Array Non-decreasing, Medium
-(2290, Minimum Obstacle Removal to Reach Corner, Hard
-(2291, Maximum Profit From Trading Stocks, Medium
-(2292, Products With Three or More Orders in Two Consecutive Years, Medium
-(2293, Min Max Game, Easy
-(2294, Partition Array Such That Maximum Difference Is K, Medium
-(2295, Replace Elements in an Array, Medium
-(2296, Design a Text Editor, Hard
-(2297, Jump Game VIII, Medium
-(2298, Tasks Count in the Weekend, Medium
-(2299, Strong Password Checker II, Easy
-(2300, Successful Pairs of Spells and Potions, Medium
-(2301, Match Substring After Replacement, Hard
-(2302, Count Subarrays With Score Less Than K, Hard
-(2303, Calculate Amount Paid in Taxes, Easy
-(2304, Minimum Path Cost in a Grid, Medium
-(2305, Fair Distribution of Cookies, Medium
-(2306, Naming a Company, Hard
-(2307, Check for Contradictions in Equations, Hard
-(2308, Arrange Table by Gender, Medium
-(2309, Greatest English Letter in Upper and Lower Case, Easy
-(2310, Sum of Numbers With Units Digit K, Medium
-(2311, Longest Binary Subsequence Less Than or Equal to K, Medium
-(2312, Selling Pieces of Wood, Hard
-(2313, Minimum Flips in Binary Tree to Get Result, Hard
-(2314, The First Day of the Maximum Recorded Degree in Each City, Medium
-(2315, Count Asterisks, Easy
-(2316, Count Unreachable Pairs of Nodes in an Undirected Graph, Medium
-(2317, Maximum XOR After Operations, Medium
-(2318, Number of Distinct Roll Sequences, Hard
-(2319, Check if Matrix Is X-Matrix, Easy
-(2320, Count Number of Ways to Place Houses, Medium
-(2321, Maximum Score Of Spliced Array, Hard
-(2322, Minimum Score After Removals on a Tree, Hard
-(2323, Find Minimum Time to Finish All Jobs II, Medium
-(2324, Product Sales Analysis IV, Medium
-(2325, Decode the Message, Easy
-(2326, Spiral Matrix IV, Medium
-(2327, Number of People Aware of a Secret, Medium
-(2328, Number of Increasing Paths in a Grid, Hard
-(2329, Product Sales Analysis V, Easy
-(2330, Valid Palindrome IV, Medium
-(2331, Evaluate Boolean Binary Tree, Easy
-(2332, The Latest Time to Catch a Bus, Medium
-(2333, Minimum Sum of Squared Difference, Medium
-(2334, Subarray With Elements Greater Than Varying Threshold, Hard
-(2335, Minimum Amount of Time to Fill Cups, Easy
-(2336, Smallest Number in Infinite Set, Medium
-(2337, Move Pieces to Obtain a String, Medium
-(2338, Count the Number of Ideal Arrays, Hard
-(2339, All the Matches of the League, Easy
-(2340, Minimum Adjacent Swaps to Make a Valid Array, Medium
-(2341, Maximum Number of Pairs in Array, Easy
-(2342, Max Sum of a Pair With Equal Sum of Digits, Medium
-(2343, Query Kth Smallest Trimmed Number, Medium
-(2344, Minimum Deletions to Make Array Divisible, Hard
-(2345, Finding the Number of Visible Mountains, Medium
-(2346, Compute the Rank as a Percentage, Medium
-(2347, Best Poker Hand, Easy
-(2348, Number of Zero-Filled Subarrays, Medium
-(2349, Design a Number Container System, Medium
-(2350, Shortest Impossible Sequence of Rolls, Hard
-(2351, First Letter to Appear Twice, Easy
-(2352, Equal Row and Column Pairs, Medium
-(2353, Design a Food Rating System, Medium
-(2354, Number of Excellent Pairs, Hard
-(2355, Maximum Number of Books You Can Take, Hard
-(2356, Number of Unique Subjects Taught by Each Teacher, Easy
-(2357, Make Array Zero by Subtracting Equal Amounts, Easy
-(2358, Maximum Number of Groups Entering a Competition, Medium
-(2359, Find Closest Node to Given Two Nodes, Medium
-(2360, Longest Cycle in a Graph, Hard
-(2361, Minimum Costs Using the Train Line, Hard
-(2362, Generate the Invoice, Hard
-(2363, Merge Similar Items, Easy
-(2364, Count Number of Bad Pairs, Medium
-(2365, Task Scheduler II, Medium
-(2366, Minimum Replacements to Sort the Array, Hard
-(2367, Number of Arithmetic Triplets, Easy
-(2368, Reachable Nodes With Restrictions, Medium
-(2369, Check if There is a Valid Partition For The Array, Medium
-(2370, Longest Ideal Subsequence, Medium
-(2371, Minimize Maximum Value in a Grid, Hard
-(2372, Calculate the Influence of Each Salesperson, Medium
-(2373, Largest Local Values in a Matrix, Easy
-(2374, Node With Highest Edge Score, Medium
-(2375, Construct Smallest Number From DI String, Medium
-(2376, Count Special Integers, Hard
-(2377, Sort the Olympic Table, Easy
-(2378, Choose Edges to Maximize Score in a Tree, Medium
-(2379, Minimum Recolors to Get K Consecutive Black Blocks, Easy
-(2380, Time Needed to Rearrange a Binary String, Medium
-(2381, Shifting Letters II, Medium
-(2382, Maximum Segment Sum After Removals, Hard
-(2383, Minimum Hours of Training to Win a Competition, Easy
-(2384, Largest Palindromic Number, Medium
-(2385, Amount of Time for Binary Tree to Be Infected, Medium
-(2386, Find the K-Sum of an Array, Hard
-(2387, Median of a Row Wise Sorted Matrix, Medium
-(2388, Change Null Values in a Table to the Previous Value, Medium
-(2389, Longest Subsequence With Limited Sum, Easy
-(2390, Removing Stars From a String, Medium
-(2391, Minimum Amount of Time to Collect Garbage, Medium
-(2392, Build a Matrix With Conditions, Hard
-(2393, Count Strictly Increasing Subarrays, Medium
-(2394, Employees With Deductions, Medium
-(2395, Find Subarrays With Equal Sum, Easy
-(2396, Strictly Palindromic Number, Medium
-(2397, Maximum Rows Covered by Columns, Medium
-(2398, Maximum Number of Robots Within Budget, Hard
-(2399, Check Distances Between Same Letters, Easy
-(2400, Number of Ways to Reach a Position After Exactly k Steps, Medium
-(2401, Longest Nice Subarray, Medium
-(2402, Meeting Rooms III, Hard
-(2403, Minimum Time to Kill All Monsters, Hard
-(2404, Most Frequent Even Element, Easy
-(2405, Optimal Partition of String, Medium
-(2406, Divide Intervals Into Minimum Number of Groups, Medium
-(2407, Longest Increasing Subsequence II, Hard
-(2408, Design SQL, Medium
-(2409, Count Days Spent Together, Easy
-(2410, Maximum Matching of Players With Trainers, Medium
-(2411, Smallest Subarrays With Maximum Bitwise OR, Medium
-(2412, Minimum Money Required Before Transactions, Hard
-(2413, Smallest Even Multiple, Easy
-(2414, Length of the Longest Alphabetical Continuous Substring, Medium
-(2415, Reverse Odd Levels of Binary Tree, Medium
-(2416, Sum of Prefix Scores of Strings, Hard
-(2417, Closest Fair Integer, Medium
-(2418, Sort the People, Easy
-(2419, Longest Subarray With Maximum Bitwise AND, Medium
-(2420, Find All Good Indices, Medium
-(2421, Number of Good Paths, Hard
-(2422, Merge Operations to Turn Array Into a Palindrome, Medium
-(2423, Remove Letter To Equalize Frequency, Easy
-(2424, Longest Uploaded Prefix, Medium
-(2425, Bitwise XOR of All Pairings, Medium
-(2426, Number of Pairs Satisfying Inequality, Hard
-(2427, Number of Common Factors, Easy
-(2428, Maximum Sum of an Hourglass, Medium
-(2429, Minimize XOR, Medium
-(2430, Maximum Deletions on a String, Hard
-(2431, Maximize Total Tastiness of Purchased Fruits, Medium
-(2432, The Employee That Worked on the Longest Task, Easy
-(2433, Find The Original Array of Prefix Xor, Medium
-(2434, Using a Robot to Print the Lexicographically Smallest String, Medium
-(2435, Paths in Matrix Whose Sum Is Divisible by K, Hard
-(2436, Minimum Split Into Subarrays With GCD Greater Than One, Medium
-(2437, Number of Valid Clock Times, Easy
-(2438, Range Product Queries of Powers, Medium
-(2439, Minimize Maximum of Array, Medium
-(2440, Create Components With Same Value, Hard
-(2441, Largest Positive Integer That Exists With Its Negative, Easy
-(2442, Count Number of Distinct Integers After Reverse Operations, Medium
-(2443, Sum of Number and Its Reverse, Medium
-(2444, Count Subarrays With Fixed Bounds, Hard
-(2445, Number of Nodes With Value One, Medium
-(2446, Determine if Two Events Have Conflict, Easy
-(2447, Number of Subarrays With GCD Equal to K, Medium
-(2448, Minimum Cost to Make Array Equal, Hard
-(2449, Minimum Number of Operations to Make Arrays Similar, Hard
-(2450, Number of Distinct Binary Strings After Applying Operations, Medium
-(2451, Odd String Difference, Easy
-(2452, Words Within Two Edits of Dictionary, Medium
-(2453, Destroy Sequential Targets, Medium
-(2454, Next Greater Element IV, Hard
-(2455, Average Value of Even Numbers That Are Divisible by Three, Easy
-(2456, Most Popular Video Creator, Medium
-(2457, Minimum Addition to Make Integer Beautiful, Medium
-(2458, Height of Binary Tree After Subtree Removal Queries, Hard
-(2459, Sort Array by Moving Items to Empty Space, Hard
-(2460, Apply Operations to an Array, Easy
-(2461, Maximum Sum of Distinct Subarrays With Length K, Medium
-(2462, Total Cost to Hire K Workers, Medium
-(2463, Minimum Total Distance Traveled, Hard
-(2464, Minimum Subarrays in a Valid Split, Medium
-(2465, Number of Distinct Averages, Easy
-(2466, Count Ways To Build Good Strings, Medium
-(2467, Most Profitable Path in a Tree, Medium
-(2468, Split Message Based on Limit, Hard
-(2469, Convert the Temperature, Easy
-(2470, Number of Subarrays With LCM Equal to K, Medium
-(2471, Minimum Number of Operations to Sort a Binary Tree by Level, Medium
-(2472, Maximum Number of Non-overlapping Palindrome Substrings, Hard
-(2473, Minimum Cost to Buy Apples, Medium
-(2474, Customers With Strictly Increasing Purchases, Hard
-(2475, Number of Unequal Triplets in Array, Easy
-(2476, Closest Nodes Queries in a Binary Search Tree, Medium
-(2477, Minimum Fuel Cost to Report to the Capital, Medium
-(2478, Number of Beautiful Partitions, Hard
-(2479, Maximum XOR of Two Non-Overlapping Subtrees, Hard
-(2480, Form a Chemical Bond, Easy
-(2481, Minimum Cuts to Divide a Circle, Easy
-(2482, Difference Between Ones and Zeros in Row and Column, Medium
-(2483, Minimum Penalty for a Shop, Medium
-(2484, Count Palindromic Subsequences, Hard
-(2485, Find the Pivot Integer, Easy
-(2486, Append Characters to String to Make Subsequence, Medium
-(2487, Remove Nodes From Linked List, Medium
-(2488, Count Subarrays With Median K, Hard
-(2489, Number of Substrings With Fixed Ratio, Medium
-(2490, Circular Sentence, Easy
-(2491, Divide Players Into Teams of Equal Skill, Medium
-(2492, Minimum Score of a Path Between Two Cities, Medium
-(2493, Divide Nodes Into the Maximum Number of Groups, Hard
-(2494, Merge Overlapping Events in the Same Hall, Hard
-(2495, Number of Subarrays Having Even Product, Medium
-(2496, Maximum Value of a String in an Array, Easy
-(2497, Maximum Star Sum of a Graph, Medium
-(2498, Frog Jump II, Medium
-(2499, Minimum Total Cost to Make Arrays Unequal, Hard
-(2500, Delete Greatest Value in Each Row, Easy
-(2501, Longest Square Streak in an Array, Medium
-(2502, Design Memory Allocator, Medium
-(2503, Maximum Number of Points From Grid Queries, Hard
-(2504, Concatenate the Name and the Profession, Easy
-(2505, Bitwise OR of All Subsequence Sums, Medium
-(2506, Count Pairs Of Similar Strings, Easy
-(2507, Smallest Value After Replacing With Sum of Prime Factors, Medium
-(2508, Add Edges to Make Degrees of All Nodes Even, Hard
-(2509, Cycle Length Queries in a Tree, Hard
-(2510, Check if There is a Path With Equal Number of 0's And 1's, Medium
-(2511, Maximum Enemy Forts That Can Be Captured, Easy
-(2512, Reward Top K Students, Medium
-(2513, Minimize the Maximum of Two Arrays, Medium
-(2514, Count Anagrams, Hard
-(2515, Shortest Distance to Target String in a Circular Array, Easy
-(2516, Take K of Each Character From Left and Right, Medium
-(2517, Maximum Tastiness of Candy Basket, Medium
-(2518, Number of Great Partitions, Hard
-(2519, Count the Number of K-Big Indices, Hard
-(2520, Count the Digits That Divide a Number, Easy
-(2521, Distinct Prime Factors of Product of Array, Medium
-(2522, Partition String Into Substrings With Values at Most K, Medium
-(2523, Closest Prime Numbers in Range, Medium
-(2524, Maximum Frequency Score of a Subarray, Hard
-(2525, Categorize Box According to Criteria, Easy
-(2526, Find Consecutive Integers from a Data Stream, Medium
-(2527, Find Xor-Beauty of Array, Medium
-(2528, Maximize the Minimum Powered City, Hard
-(2529, Maximum Count of Positive Integer and Negative Integer, Easy
-(2530, Maximal Score After Applying K Operations, Medium
-(2531, Make Number of Distinct Characters Equal, Medium
-(2532, Time to Cross a Bridge, Hard
-(2533, Number of Good Binary Strings, Medium
-(2534, Time Taken to Cross the Door, Hard
-(2535, Difference Between Element Sum and Digit Sum of an Array, Easy
-(2536, Increment Submatrices by One, Medium
-(2537, Count the Number of Good Subarrays, Medium
-(2538, Difference Between Maximum and Minimum Price Sum, Hard
-(2539, Count the Number of Good Subsequences, Medium
-(2540, Minimum Common Value, Easy
-(2541, Minimum Operations to Make Array Equal II, Medium
-(2542, Maximum Subsequence Score, Medium
-(2543, Check if Point Is Reachable, Hard
-(2544, Alternating Digit Sum, Easy
-(2545, Sort the Students by Their Kth Score, Medium
-(2546, Apply Bitwise Operations to Make Strings Equal, Medium
-(2547, Minimum Cost to Split an Array, Hard
-(2548, Maximum Price to Fill a Bag, Medium
-(2549, Count Distinct Numbers on Board, Easy
-(2550, Count Collisions of Monkeys on a Polygon, Medium
-(2551, Put Marbles in Bags, Hard
-(2552, Count Increasing Quadruplets, Hard
-(2553, Separate the Digits in an Array, Easy
-(2554, Maximum Number of Integers to Choose From a Range I, Medium
-(2555, Maximize Win From Two Segments, Medium
-(2556, Disconnect Path in a Binary Matrix by at Most One Flip, Medium
-(2557, Maximum Number of Integers to Choose From a Range II, Medium
-(2558, Take Gifts From the Richest Pile, Easy
-(2559, Count Vowel Strings in Ranges, Medium
-(2560, House Robber IV, Medium
-(2561, Rearranging Fruits, Hard
-(2562, Find the Array Concatenation Value, Easy
-(2563, Count the Number of Fair Pairs, Medium
-(2564, Substring XOR Queries, Medium
-(2565, Subsequence With the Minimum Score, Hard
-(2566, Maximum Difference by Remapping a Digit, Easy
-(2567, Minimum Score by Changing Two Elements, Medium
-(2568, Minimum Impossible OR, Medium
-(2569, Handling Sum Queries After Update, Hard
-(2570, Merge Two 2D Arrays by Summing Values, Easy
-(2571, Minimum Operations to Reduce an Integer to 0, Medium
-(2572, Count the Number of Square-Free Subsets, Medium
-(2573, Find the String with LCP, Hard
-(2574, Left and Right Sum Differences, Easy
-(2575, Find the Divisibility Array of a String, Medium
-(2576, Find the Maximum Number of Marked Indices, Medium
-(2577, Minimum Time to Visit a Cell In a Grid, Hard
-(2578, Split With Minimum Sum, Easy
-(2579, Count Total Number of Colored Cells, Medium
-(2580, Count Ways to Group Overlapping Ranges, Medium
-(2581, Count Number of Possible Root Nodes, Hard
-(2582, Pass the Pillow, Easy
-(2583, Kth Largest Sum in a Binary Tree, Medium
-(2584, Split the Array to Make Coprime Products, Hard
-(2585, Number of Ways to Earn Points, Hard
-(2586, Count the Number of Vowel Strings in Range, Easy
-(2587, Rearrange Array to Maximize Prefix Score, Medium
-(2588, Count the Number of Beautiful Subarrays, Medium
-(2589, Minimum Time to Complete All Tasks, Hard
-(2590, Design a Todo List, Medium
-(2591, Distribute Money to Maximum Children, Easy
-(2592, Maximize Greatness of an Array, Medium
-(2593, Find Score of an Array After Marking All Elements, Medium
-(2594, Minimum Time to Repair Cars, Medium
-(2595, Number of Even and Odd Bits, Easy
-(2596, Check Knight Tour Configuration, Medium
-(2597, The Number of Beautiful Subsets, Medium
-(2598, Smallest Missing Non-negative Integer After Operations, Medium
-(2599, Make the Prefix Sum Non-negative, Medium
-(2600, K Items With the Maximum Sum, Easy
-(2601, Prime Subtraction Operation, Medium
-(2602, Minimum Operations to Make All Array Elements Equal, Medium
-(2603, Collect Coins in a Tree, Hard
-(2604, Minimum Time to Eat All Grains, Hard
-(2605, Form Smallest Number From Two Digit Arrays, Easy
-(2606, Find the Substring With Maximum Cost, Medium
-(2607, Make K-Subarray Sums Equal, Medium
-(2608, Shortest Cycle in a Graph, Hard
-(2609, Find the Longest Balanced Substring of a Binary String, Easy
-(2610, Convert an Array Into a 2D Array With Conditions, Medium
-(2611, Mice and Cheese, Medium
-(2612, Minimum Reverse Operations, Hard
-(2613, Beautiful Pairs, Hard
-(2614, Prime In Diagonal, Easy
-(2615, Sum of Distances, Medium
-(2616, Minimize the Maximum Difference of Pairs, Medium
-(2617, Minimum Number of Visited Cells in a Grid, Hard
-(2618, Check if Object Instance of Class, Medium
-(2619, Array Prototype Last, Easy
-(2620, Counter, Easy
-(2621, Sleep, Easy
-(2622, Cache With Time Limit, Medium
-(2623, Memoize, Medium
-(2624, Snail Traversal, Medium
-(2625, Flatten Deeply Nested Array, Medium
-(2626, Array Reduce Transformation, Easy
-(2627, Debounce, Medium
-(2628, JSON Deep Equal, Medium
-(2629, Function Composition, Easy
-(2630, Memoize II, Hard
-(2631, Group By, Medium
-(2632, Curry, Medium
-(2633, Convert Object to JSON String, Medium
-(2634, Filter Elements from Array, Easy
-(2635, Apply Transform Over Each Element in Array, Easy
-(2636, Promise Pool, Medium
-(2637, Promise Time Limit, Medium
-(2638, Count the Number of K-Free Subsets, Medium
-(2639, Find the Width of Columns of a Grid, Easy
-(2640, Find the Score of All Prefixes of an Array, Medium
-(2641, Cousins in Binary Tree II, Medium
-(2642, Design Graph With Shortest Path Calculator, Hard
-(2643, Row With Maximum Ones, Easy
-(2644, Find the Maximum Divisibility Score, Easy
-(2645, Minimum Additions to Make Valid String, Medium
-(2646, Minimize the Total Price of the Trips, Hard
-(2647, Color the Triangle Red, Hard
-(2648, Generate Fibonacci Sequence, Easy
-(2649, Nested Array Generator, Medium
-(2650, Design Cancellable Function, Hard
-(2651, Calculate Delayed Arrival Time, Easy
-(2652, Sum Multiples, Easy
-(2653, Sliding Subarray Beauty, Medium
-(2654, Minimum Number of Operations to Make All Array Elements Equal to 1, Medium
-(2655, Find Maximal Uncovered Ranges, Medium
-(2656, Maximum Sum With Exactly K Elements, Easy
-(2657, Find the Prefix Common Array of Two Arrays, Medium
-(2658, Maximum Number of Fish in a Grid, Medium
-(2659, Make Array Empty, Hard
-(2660, Determine the Winner of a Bowling Game, Easy
-(2661, First Completely Painted Row or Column, Medium
-(2662, Minimum Cost of a Path With Special Roads, Medium
-(2663, Lexicographically Smallest Beautiful String, Hard
-(2664, The Knight’s Tour, Medium
-(2665, Counter II, Easy
-(2666, Allow One Function Call, Easy
-(2667, Create Hello World Function, Easy
-(2668, Find Latest Salaries, Easy
-(2669, Count Artist Occurrences On Spotify Ranking List, Easy
-(2670, Find the Distinct Difference Array, Easy
-(2671, Frequency Tracker, Medium
-(2672, Number of Adjacent Elements With the Same Color, Medium
-(2673, Make Costs of Paths Equal in a Binary Tree, Medium
-(2674, Split a Circular Linked List, Medium
-(2675, Array of Objects to Matrix, Hard
-(2676, Throttle, Medium
-(2677, Chunk Array, Easy
-(2678, Number of Senior Citizens, Easy
-(2679, Sum in a Matrix, Medium
-(2680, Maximum OR, Medium
-(2681, Power of Heroes, Hard
-(2682, Find the Losers of the Circular Game, Easy
-(2683, Neighboring Bitwise XOR, Medium
-(2684, Maximum Number of Moves in a Grid, Medium
-(2685, Count the Number of Complete Components, Medium
-(2686, Immediate Food Delivery III, Medium
-(2687, Bikes Last Time Used, Easy
-(2688, Find Active Users, Medium
-(2689, Extract Kth Character From The Rope Tree, Easy
-(2690, Infinite Method Object, Easy
-(2691, Immutability Helper, Hard
-(2692, Make Object Immutable, Medium
-(2693, Call Function with Custom Context, Medium
-(2694, Event Emitter, Medium
-(2695, Array Wrapper, Easy
-(2696, Minimum String Length After Removing Substrings, Easy
-(2697, Lexicographically Smallest Palindrome, Easy
-(2698, Find the Punishment Number of an Integer, Medium
-(2699, Modify Graph Edge Weights, Hard
-(2700, Differences Between Two Objects, Medium
-(2701, Consecutive Transactions with Increasing Amounts, Hard
-(2702, Minimum Operations to Make Numbers Non-positive, Hard
-(2703, Return Length of Arguments Passed, Easy
-(2704, To Be Or Not To Be, Easy
-(2705, Compact Object, Medium
-(2706, Buy Two Chocolates, Easy
-(2707, Extra Characters in a String, Medium
-(2708, Maximum Strength of a Group, Medium
-(2709, Greatest Common Divisor Traversal, Hard
-(2710, Remove Trailing Zeros From a String, Easy
-(2711, Difference of Number of Distinct Values on Diagonals, Medium
-(2712, Minimum Cost to Make All Characters Equal, Medium
-(2713, Maximum Strictly Increasing Cells in a Matrix, Hard
-(2714, Find Shortest Path with K Hops, Hard
-(2715, Timeout Cancellation, Easy
-(2716, Minimize String Length, Easy
-(2717, Semi-Ordered Permutation, Easy
-(2718, Sum of Matrix After Queries, Medium
-(2719, Count of Integers, Hard
-(2720, Popularity Percentage, Hard
-(2721, Execute Asynchronous Functions in Parallel, Medium
-(2722, Join Two Arrays by ID, Medium
-(2723, Add Two Promises, Easy
-(2724, Sort By, Easy
-(2725, Interval Cancellation, Easy
-(2726, Calculator with Method Chaining, Easy
-(2727, Is Object Empty, Easy
-(2728, Count Houses in a Circular Street, Easy
-(2729, Check if The Number is Fascinating, Easy
-(2730, Find the Longest Semi-Repetitive Substring, Medium
-(2731, Movement of Robots, Medium
-(2732, Find a Good Subset of the Matrix, Hard
-(2733, Neither Minimum nor Maximum, Easy
-(2734, Lexicographically Smallest String After Substring Operation, Medium
-(2735, Collecting Chocolates, Medium
-(2736, Maximum Sum Queries, Hard
-(2737, Find the Closest Marked Node, Medium
-(2738, Count Occurrences in Text, Medium
-(2739, Total Distance Traveled, Easy
-(2740, Find the Value of the Partition, Medium
-(2741, Special Permutations, Medium
-(2742, Painting the Walls, Hard
-(2743, Count Substrings Without Repeating Character, Medium
-(2744, Find Maximum Number of String Pairs, Easy
-(2745, Construct the Longest New String, Medium
-(2746, Decremental String Concatenation, Medium
-(2747, Count Zero Request Servers, Medium
-(2748, Number of Beautiful Pairs, Easy
-(2749, Minimum Operations to Make the Integer Zero, Medium
-(2750, Ways to Split Array Into Good Subarrays, Medium
-(2751, Robot Collisions, Hard
-(2752, Customers with Maximum Number of Transactions on Consecutive Days, Hard
-(2753, Count Houses in a Circular Street II, Hard
-(2754, Bind Function to Context, Medium
-(2755, Deep Merge of Two Objects, Medium
-(2756, Query Batching, Hard
-(2757, Generate Circular Array Values, Medium
-(2758, Next Day, Easy
-(2759, Convert JSON String to Object, Hard
-(2760, Longest Even Odd Subarray With Threshold, Easy
-(2761, Prime Pairs With Target Sum, Medium
-(2762, Continuous Subarrays, Medium
-(2763, Sum of Imbalance Numbers of All Subarrays, Hard
-(2764, Is Array a Preorder of Some ‌Binary Tree, Medium
-(2765, Longest Alternating Subarray, Easy
-(2766, Relocate Marbles, Medium
-(2767, Partition String Into Minimum Beautiful Substrings, Medium
-(2768, Number of Black Blocks, Medium
-(2769, Find the Maximum Achievable Number, Easy
-(2770, Maximum Number of Jumps to Reach the Last Index, Medium
-(2771, Longest Non-decreasing Subarray From Two Arrays, Medium
-(2772, Apply Operations to Make All Array Elements Equal to Zero, Medium
-(2773, Height of Special Binary Tree, Medium
-(2774, Array Upper Bound, Easy
-(2775, Undefined to Null, Medium
-(2776, Convert Callback Based Function to Promise Based Function, Medium
-(2777, Date Range Generator, Medium
-(2778, Sum of Squares of Special Elements, Easy
-(2779, Maximum Beauty of an Array After Applying Operation, Medium
-(2780, Minimum Index of a Valid Split, Medium
-(2781, Length of the Longest Valid Substring, Hard
-(2782, Number of Unique Categories, Medium
-(2783, Flight Occupancy and Waitlist Analysis, Medium
-(2784, Check if Array is Good, Easy
-(2785, Sort Vowels in a String, Medium
-(2786, Visit Array Positions to Maximize Score, Medium
-(2787, Ways to Express an Integer as Sum of Powers, Medium
-(2788, Split Strings by Separator, Easy
-(2789, Largest Element in an Array after Merge Operations, Medium
-(2790, Maximum Number of Groups With Increasing Length, Hard
-(2791, Count Paths That Can Form a Palindrome in a Tree, Hard
-(2792, Count Nodes That Are Great Enough, Hard
-(2793, Status of Flight Tickets, Hard
-(2794, Create Object from Two Arrays, Easy
-(2795, Parallel Execution of Promises for Individual Results Retrieval, Medium
-(2796, Repeat String, Easy
-(2797, Partial Function with Placeholders, Easy
-(2798, Number of Employees Who Met the Target, Easy
-(2799, Count Complete Subarrays in an Array, Medium
-(2800, Shortest String That Contains Three Strings, Medium
-(2801, Count Stepping Numbers in Range, Hard
-(2802, Find The K-th Lucky Number, Medium
-(2803, Factorial Generator, Easy
-(2804, Array Prototype ForEach, Easy
-(2805, Custom Interval, Medium
-(2806, Account Balance After Rounded Purchase, Easy
-(2807, Insert Greatest Common Divisors in Linked List, Medium
-(2808, Minimum Seconds to Equalize a Circular Array, Medium
-(2809, Minimum Time to Make Array Sum At Most x, Hard
-(2810, Faulty Keyboard, Easy
-(2811, Check if it is Possible to Split Array, Medium
-(2812, Find the Safest Path in a Grid, Medium
-(2813, Maximum Elegance of a K-Length Subsequence, Hard
-(2814, Minimum Time Takes to Reach Destination Without Drowning, Hard
-(2815, Max Pair Sum in an Array, Easy
-(2816, Double a Number Represented as a Linked List, Medium
-(2817, Minimum Absolute Difference Between Elements With Constraint, Medium
-(2818, Apply Operations to Maximize Score, Hard
-(2819, Minimum Relative Loss After Buying Chocolates, Hard
-(2820, Election Results, Medium
-(2821, Delay the Resolution of Each Promise, Medium
-(2822, Inversion of Object, Easy
-(2823, Deep Object Filter, Medium
-(2824, Count Pairs Whose Sum is Less than Target, Easy
-(2825, Make String a Subsequence Using Cyclic Increments, Medium
-(2826, Sorting Three Groups, Medium
-(2827, Number of Beautiful Integers in the Range, Hard
-(2828, Check if a String Is an Acronym of Words, Easy
-(2829, Determine the Minimum Sum of a k-avoiding Array, Medium
-(2830, Maximize the Profit as the Salesman, Medium
-(2831, Find the Longest Equal Subarray, Medium
-(2832, Maximal Range That Each Element Is Maximum in It, Medium
-(2833, Furthest Point From Origin, Easy
-(2834, Find the Minimum Possible Sum of a Beautiful Array, Medium
-(2835, Minimum Operations to Form Subsequence With Target Sum, Hard
-(2836, Maximize Value of Function in a Ball Passing Game, Hard
-(2837, Total Traveled Distance, Easy
-(2838, Maximum Coins Heroes Can Collect, Medium
-(2839, Check if Strings Can be Made Equal With Operations I, Easy
-(2840, Check if Strings Can be Made Equal With Operations II, Medium
-(2841, Maximum Sum of Almost Unique Subarray, Medium
-(2842, Count K-Subsequences of a String With Maximum Beauty, Hard
-(2843, Count Symmetric Integers, Easy
-(2844, Minimum Operations to Make a Special Number, Medium
-(2845, Count of Interesting Subarrays, Medium
-(2846, Minimum Edge Weight Equilibrium Queries in a Tree, Hard
-(2847, Smallest Number With Given Digit Product, Medium
-(2848, Points That Intersect With Cars, Easy
-(2849, Determine if a Cell Is Reachable at a Given Time, Medium
-(2850, Minimum Moves to Spread Stones Over Grid, Medium
-(2851, String Transformation, Hard
-(2852, Sum of Remoteness of All Cells, Medium
-(2853, Highest Salaries Difference, Easy
-(2854, Rolling Average Steps, Medium
-(2855, Minimum Right Shifts to Sort the Array, Easy
-(2856, Minimum Array Length After Pair Removals, Medium
-(2857, Count Pairs of Points With Distance k, Medium
-(2858, Minimum Edge Reversals So Every Node Is Reachable, Hard
-(2859, Sum of Values at Indices With K Set Bits, Easy
-(2860, Happy Students, Medium
-(2861, Maximum Number of Alloys, Medium
-(2862, Maximum Element-Sum of a Complete Subset of Indices, Hard
-(2863, Maximum Length of Semi-Decreasing Subarrays, Medium
-(2864, Maximum Odd Binary Number, Easy
-(2865, Beautiful Towers I, Medium
-(2866, Beautiful Towers II, Medium
-(2867, Count Valid Paths in a Tree, Hard
-(2868, The Wording Game, Hard
-(2869, Minimum Operations to Collect Elements, Easy
-(2870, Minimum Number of Operations to Make Array Empty, Medium
-(2871, Split Array Into Maximum Number of Subarrays, Medium
-(2872, Maximum Number of K-Divisible Components, Hard
-(2873, Maximum Value of an Ordered Triplet I, Easy
-(2874, Maximum Value of an Ordered Triplet II, Medium
-(2875, Minimum Size Subarray in Infinite Array, Medium
-(2876, Count Visited Nodes in a Directed Graph, Hard
-(2877, Create a DataFrame from List, Easy
-(2878, Get the Size of a DataFrame, Easy
-(2879, Display the First Three Rows, Easy
-(2880, Select Data, Easy
-(2881, Create a New Column, Easy
-(2882, Drop Duplicate Rows, Easy
-(2883, Drop Missing Data, Easy
-(2884, Modify Columns, Easy
-(2885, Rename Columns, Easy
-(2886, Change Data Type, Easy
-(2887, Fill Missing Data, Easy
-(2888, Reshape Data: Concatenate, Easy
-(2889, Reshape Data: Pivot, Easy
-(2890, Reshape Data: Melt, Easy
-(2891, Method Chaining, Easy
-(2892, Minimizing Array After Replacing Pairs With Their Product, Medium
-(2893, Calculate Orders Within Each Interval, Medium
-(2894, Divisible and Non-divisible Sums Difference, Easy
-(2895, Minimum Processing Time, Medium
-(2896, Apply Operations to Make Two Strings Equal, Medium
-(2897, Apply Operations on Array to Maximize Sum of Squares, Hard
-(2898, Maximum Linear Stock Score, Medium
-(2899, Last Visited Integers, Easy
-(2900, Longest Unequal Adjacent Groups Subsequence I, Easy
-(2901, Longest Unequal Adjacent Groups Subsequence II, Medium
-(2902, Count of Sub-Multisets With Bounded Sum, Hard
-(2903, Find Indices With Index and Value Difference I, Easy
-(2904, Shortest and Lexicographically Smallest Beautiful String, Medium
-(2905, Find Indices With Index and Value Difference II, Medium
-(2906, Construct Product Matrix, Medium
-(2907, Maximum Profitable Triplets With Increasing Prices I, Medium
-(2908, Minimum Sum of Mountain Triplets I, Easy
-(2909, Minimum Sum of Mountain Triplets II, Medium
-(2910, Minimum Number of Groups to Create a Valid Assignment, Medium
-(2911, Minimum Changes to Make K Semi-palindromes, Hard
-(2912, Number of Ways to Reach Destination in the Grid, Hard
-(2913, Subarrays Distinct Element Sum of Squares I, Easy
-(2914, Minimum Number of Changes to Make Binary String Beautiful, Medium
-(2915, Length of the Longest Subsequence That Sums to Target, Medium
-(2916, Subarrays Distinct Element Sum of Squares II, Hard
-(2917, Find the K-or of an Array, Easy
-(2918, Minimum Equal Sum of Two Arrays After Replacing Zeros, Medium
-(2919, Minimum Increment Operations to Make Array Beautiful, Medium
-(2920, Maximum Points After Collecting Coins From All Nodes, Hard
-(2921, Maximum Profitable Triplets With Increasing Prices II, Hard
-(2922, Market Analysis III, Medium
-(2923, Find Champion I, Easy
-(2924, Find Champion II, Medium
-(2925, Maximum Score After Applying Operations on a Tree, Medium
-(2926, Maximum Balanced Subsequence Sum, Hard
-(2927, Distribute Candies Among Children III, Hard
-(2928, Distribute Candies Among Children I, Easy
-(2929, Distribute Candies Among Children II, Medium
-(2930, Number of Strings Which Can Be Rearranged to Contain Substring, Medium
-(2931, Maximum Spending After Buying Items, Hard
-(2932, Maximum Strong Pair XOR I, Easy
-(2933, High-Access Employees, Medium
-(2934, Minimum Operations to Maximize Last Elements in Arrays, Medium
-(2935, Maximum Strong Pair XOR II, Hard
-(2936, Number of Equal Numbers Blocks, Medium
-(2937, Make Three Strings Equal, Easy
-(2938, Separate Black and White Balls, Medium
-(2939, Maximum Xor Product, Medium
-(2940, Find Building Where Alice and Bob Can Meet, Hard
-(2941, Maximum GCD-Sum of a Subarray, Hard
-(2942, Find Words Containing Character, Easy
-(2943, Maximize Area of Square Hole in Grid, Medium
-(2944, Minimum Number of Coins for Fruits, Medium
-(2945, Find Maximum Non-decreasing Array Length, Hard
-(2946, Matrix Similarity After Cyclic Shifts, Easy
-(2947, Count Beautiful Substrings I, Medium
-(2948, Make Lexicographically Smallest Array by Swapping Elements, Medium
-(2949, Count Beautiful Substrings II, Hard
-(2950, Number of Divisible Substrings, Medium
-(2951, Find the Peaks, Easy
-(2952, Minimum Number of Coins to be Added, Medium
-(2953, Count Complete Substrings, Hard
-(2954, Count the Number of Infection Sequences, Hard
-(2955, Number of Same-End Substrings, Medium
-(2956, Find Common Elements Between Two Arrays, Easy
-(2957, Remove Adjacent Almost-Equal Characters, Medium
-(2958, Length of Longest Subarray With at Most K Frequency, Medium
-(2959, Number of Possible Sets of Closing Branches, Hard
-(2960, Count Tested Devices After Test Operations, Easy
-(2961, Double Modular Exponentiation, Medium
-(2962, Count Subarrays Where Max Element Appears at Least K Times, Medium
-(2963, Count the Number of Good Partitions, Hard
-(2964, Number of Divisible Triplet Sums, Medium
-(2965, Find Missing and Repeated Values, Easy
-(2966, Divide Array Into Arrays With Max Difference, Medium
-(2967, Minimum Cost to Make Array Equalindromic, Medium
-(2968, Apply Operations to Maximize Frequency Score, Hard
-(2969, Minimum Number of Coins for Fruits II, Hard
-(2970, Count the Number of Incremovable Subarrays I, Easy
-(2971, Find Polygon With the Largest Perimeter, Medium
-(2972, Count the Number of Incremovable Subarrays II, Hard
-(2973, Find Number of Coins to Place in Tree Nodes, Hard
-(2974, Minimum Number Game, Easy
-(2975, Maximum Square Area by Removing Fences From a Field, Medium
-(2976, Minimum Cost to Convert String I, Medium
-(2977, Minimum Cost to Convert String II, Hard
-(2978, Symmetric Coordinates, Medium
-(2979, Most Expensive Item That Can Not Be Bought, Medium
-(2980, Check if Bitwise OR Has Trailing Zeros, Easy
-(2981, Find Longest Special Substring That Occurs Thrice I, Medium
-(2982, Find Longest Special Substring That Occurs Thrice II, Medium
-(2983, Palindrome Rearrangement Queries, Hard
-(2984, Find Peak Calling Hours for Each City, Medium
-(2985, Calculate Compressed Mean, Easy
-(2986, Find Third Transaction, Medium
-(2987, Find Expensive Cities, Easy
-(2988, Manager of the Largest Department, Medium
-(2989, Class Performance, Medium
-(2990, Loan Types, Easy
-(2991, Top Three Wineries, Hard
-(2992, Number of Self-Divisible Permutations, Medium
-(2993, Friday Purchases I, Medium
-(2994, Friday Purchases II, Hard
-(2995, Viewers Turned Streamers, Hard
-(2996, Smallest Missing Integer Greater Than Sequential Prefix Sum, Easy
-(2997, Minimum Number of Operations to Make Array XOR Equal to K, Medium
-(2998, Minimum Number of Operations to Make X and Y Equal, Medium
-(2999, Count the Number of Powerful Integers, Hard
-(3000, Maximum Area of Longest Diagonal Rectangle, Easy
-(3001, Minimum Moves to Capture The Queen, Medium
-(3002, Maximum Size of a Set After Removals, Medium
-(3003, Maximize the Number of Partitions After Operations, Hard
-(3004, Maximum Subtree of the Same Color, Medium
-(3005, Count Elements With Maximum Frequency, Easy
-(3006, Find Beautiful Indices in the Given Array I, Medium
-(3007, Maximum Number That Sum of the Prices Is Less Than or Equal to K, Medium
-(3008, Find Beautiful Indices in the Given Array II, Hard
-(3009, Maximum Number of Intersections on the Chart, Hard
-(3010, Divide an Array Into Subarrays With Minimum Cost I, Easy
-(3011, Find if Array Can Be Sorted, Medium
-(3012, Minimize Length of Array Using Operations, Medium
-(3013, Divide an Array Into Subarrays With Minimum Cost II, Hard
-(3014, Minimum Number of Pushes to Type Word I, Easy
-(3015, Count the Number of Houses at a Certain Distance I, Medium
-(3016, Minimum Number of Pushes to Type Word II, Medium
-(3017, Count the Number of Houses at a Certain Distance II, Hard
-(3018, Maximum Number of Removal Queries That Can Be Processed I, Hard
-(3019, Number of Changing Keys, Easy
-(3020, Find the Maximum Number of Elements in Subset, Medium
-(3021, Alice and Bob Playing Flower Game, Medium
-(3022, Minimize OR of Remaining Elements Using Operations, Hard
-(3023, Find Pattern in Infinite Stream I, Medium
-(3024, Type of Triangle, Easy
-(3025, Find the Number of Ways to Place People I, Medium
-(3026, Maximum Good Subarray Sum, Medium
-(3027, Find the Number of Ways to Place People II, Hard
-(3028, Ant on the Boundary, Easy
-(3029, Minimum Time to Revert Word to Initial State I, Medium
-(3030, Find the Grid of Region Average, Medium
-(3031, Minimum Time to Revert Word to Initial State II, Hard
-(3032, Count Numbers With Unique Digits II, Easy
-(3033, Modify the Matrix, Easy
-(3034, Number of Subarrays That Match a Pattern I, Medium
-(3035, Maximum Palindromes After Operations, Medium
-(3036, Number of Subarrays That Match a Pattern II, Hard
-(3037, Find Pattern in Infinite Stream II, Hard
-(3038, Maximum Number of Operations With the Same Score I, Easy
-(3039, Apply Operations to Make String Empty, Medium
-(3040, Maximum Number of Operations With the Same Score II, Medium
-(3041, Maximize Consecutive Elements in an Array After Modification, Hard
-(3042, Count Prefix and Suffix Pairs I, Easy
-(3043, Find the Length of the Longest Common Prefix, Medium
-(3044, Most Frequent Prime, Medium
-(3045, Count Prefix and Suffix Pairs II, Hard
-(3046, Split the Array, Easy
-(3047, Find the Largest Area of Square Inside Two Rectangles, Medium
-(3048, Earliest Second to Mark Indices I, Medium
-(3049, Earliest Second to Mark Indices II, Hard
-(3050, Pizza Toppings Cost Analysis, Medium
-(3051, Find Candidates for Data Scientist Position, Easy
-(3052, Maximize Items, Hard
-(3053, Classifying Triangles by Lengths, Easy
-(3054, Binary Tree Nodes, Medium
-(3055, Top Percentile Fraud, Medium
-(3056, Snaps Analysis, Medium
-(3057, Employees Project Allocation, Hard
-(3058, Friends With No Mutual Friends, Medium
-(3059, Find All Unique Email Domains, Easy
-(3060, User Activities within Time Bounds, Hard
-(3061, Calculate Trapping Rain Water, Hard
-(3062, Winner of the Linked List Game, Easy
-(3063, Linked List Frequency, Easy
-(3064, Guess the Number Using Bitwise Questions I, Medium
-(3065, Minimum Operations to Exceed Threshold Value I, Easy
-(3066, Minimum Operations to Exceed Threshold Value II, Medium
-(3067, Count Pairs of Connectable Servers in a Weighted Tree Network, Medium
-(3068, Find the Maximum Sum of Node Values, Hard
-(3069, Distribute Elements Into Two Arrays I, Easy
-(3070, Count Submatrices with Top-Left Element and Sum Less Than k, Medium
-(3071, Minimum Operations to Write the Letter Y on a Grid, Medium
-(3072, Distribute Elements Into Two Arrays II, Hard
-(3073, Maximum Increasing Triplet Value, Medium
-(3074, Apple Redistribution into Boxes, Easy
-(3075, Maximize Happiness of Selected Children, Medium
-(3076, Shortest Uncommon Substring in an Array, Medium
-(3077, Maximum Strength of K Disjoint Subarrays, Hard
-(3078, Match Alphanumerical Pattern in Matrix I, Medium
-(3079, Find the Sum of Encrypted Integers, Easy
-(3080, Mark Elements on Array by Performing Queries, Medium
-(3081, Replace Question Marks in String to Minimize Its Value, Medium
-(3082, Find the Sum of the Power of All Subsequences, Hard
-(3083, Existence of a Substring in a String and Its Reverse, Easy
-(3084, Count Substrings Starting and Ending with Given Character, Medium
-(3085, Minimum Deletions to Make String K-Special, Medium
-(3086, Minimum Moves to Pick K Ones, Hard
-(3087, Find Trending Hashtags, Medium
-(3088, Make String Anti-palindrome, Hard
-(3089, Find Bursty Behavior, Medium
-(3090, Maximum Length Substring With Two Occurrences, Easy
-(3091, Apply Operations to Make Sum of Array Greater Than or Equal to k, Medium
-(3092, Most Frequent IDs, Medium
-(3093, Longest Common Suffix Queries, Hard
-(3094, Guess the Number Using Bitwise Questions II, Medium
-(3095, Shortest Subarray With OR at Least K I, Easy
-(3096, Minimum Levels to Gain More Points, Medium
-(3097, Shortest Subarray With OR at Least K II, Medium
-(3098, Find the Sum of Subsequence Powers, Hard
-(3099, Harshad Number, Easy
-(3100, Water Bottles II, Medium
-(3101, Count Alternating Subarrays, Medium
-(3102, Minimize Manhattan Distances, Hard
-(3103, Find Trending Hashtags II, Hard
-(3104, Find Longest Self-Contained Substring, Hard
-(3105, Longest Strictly Increasing or Strictly Decreasing Subarray, Easy
-(3106, Lexicographically Smallest String After Operations With Constraint, Medium
-(3107, Minimum Operations to Make Median of Array Equal to K, Medium
-(3108, Minimum Cost Walk in Weighted Graph, Hard
-(3109, Find the Index of Permutation, Medium
-(3110, Score of a String, Easy
-(3111, Minimum Rectangles to Cover Points, Medium
-(3112, Minimum Time to Visit Disappearing Nodes, Medium
-(3113, Find the Number of Subarrays Where Boundary Elements Are Maximum, Hard
-(3114, Latest Time You Can Obtain After Replacing Characters, Easy
-(3115, Maximum Prime Difference, Medium
-(3116, Kth Smallest Amount With Single Denomination Combination, Hard
-(3117, Minimum Sum of Values by Dividing Array, Hard
-(3118, Friday Purchase III, Medium
-(3119, Maximum Number of Potholes That Can Be Fixed, Medium
-(3120, Count the Number of Special Characters I, Easy
-(3121, Count the Number of Special Characters II, Medium
-(3122, Minimum Number of Operations to Satisfy Conditions, Medium
-(3123, Find Edges in Shortest Paths, Hard
-(3124, Find Longest Calls, Medium
-(3125, Maximum Number That Makes Result of Bitwise AND Zero, Medium
-(3126, Server Utilization Time, Medium
-(3127, Make a Square with the Same Color, Easy
-(3128, Right Triangles, Medium
-(3129, Find All Possible Stable Binary Arrays I, Medium
-(3130, Find All Possible Stable Binary Arrays II, Hard
-(3131, Find the Integer Added to Array I, Easy
-(3132, Find the Integer Added to Array II, Medium
-(3133, Minimum Array End, Medium
-(3134, Find the Median of the Uniqueness Array, Hard
-(3135, Equalize Strings by Adding or Removing Characters at Ends, Medium
-(3136, Valid Word, Easy
-(3137, Minimum Number of Operations to Make Word K-Periodic, Medium
-(3138, Minimum Length of Anagram Concatenation, Medium
-(3139, Minimum Cost to Equalize Array, Hard
-(3140, Consecutive Available Seats II, Medium
-(3141, Maximum Hamming Distances, Hard
-(3142, Check if Grid Satisfies Conditions, Easy
-(3143, Maximum Points Inside the Square, Medium
-(3144, Minimum Substring Partition of Equal Character Frequency, Medium
-(3145, Find Products of Elements of Big Array, Hard
-(3146, Permutation Difference between Two Strings, Easy
-(3147, Taking Maximum Energy From the Mystic Dungeon, Medium
-(3148, Maximum Difference Score in a Grid, Medium
-(3149, Find the Minimum Cost Array Permutation, Hard
-(3150, Invalid Tweets II, Easy
-(3151, Special Array I, Easy
-(3152, Special Array II, Medium
-(3153, Sum of Digit Differences of All Pairs, Medium
-(3154, Find Number of Ways to Reach the K-th Stair, Hard
-(3155, Maximum Number of Upgradable Servers, Medium
-(3156, Employee Task Duration and Concurrent Tasks, Hard
-(3157, Find the Level of Tree with Minimum Sum, Medium
-(3158, Find the XOR of Numbers Which Appear Twice, Easy
-(3159, Find Occurrences of an Element in an Array, Medium
-(3160, Find the Number of Distinct Colors Among the Balls, Medium
-(3161, Block Placement Queries, Hard
-(3162, Find the Number of Good Pairs I, Easy
-(3163, String Compression III, Medium
-(3164, Find the Number of Good Pairs II, Medium
-(3165, Maximum Sum of Subsequence With Non-adjacent Elements, Hard
-(3166, Calculate Parking Fees and Duration, Medium
-(3167, Better Compression of String, Medium
-(3168, Minimum Number of Chairs in a Waiting Room, Easy
-(3169, Count Days Without Meetings, Medium
-(3170, Lexicographically Minimum String After Removing Stars, Medium
-(3171, Find Subarray With Bitwise OR Closest to K, Hard
-(3172, Second Day Verification, Easy
-(3173, Bitwise OR of Adjacent Elements, Easy
-(3174, Clear Digits, Easy
-(3175, Find The First Player to win K Games in a Row, Medium
-(3176, Find the Maximum Length of a Good Subsequence I, Medium
-(3177, Find the Maximum Length of a Good Subsequence II, Hard
-(3178, Find the Child Who Has the Ball After K Seconds, Easy
-(3179, Find the N-th Value After K Seconds, Medium
-(3180, Maximum Total Reward Using Operations I, Medium
-(3181, Maximum Total Reward Using Operations II, Hard
-(3182, Find Top Scoring Students, Medium
-(3183, The Number of Ways to Make the Sum, Medium
-(3184, Count Pairs That Form a Complete Day I, Easy
-(3185, Count Pairs That Form a Complete Day II, Medium
-(3186, Maximum Total Damage With Spell Casting, Medium
-(3187, Peaks in Array, Hard
-(3188, Find Top Scoring Students II, Hard
-(3189, Minimum Moves to Get a Peaceful Board, Medium
-(3190, Find Minimum Operations to Make All Elements Divisible by Three, Easy
-(3191, Minimum Operations to Make Binary Array Elements Equal to One I, Medium
-(3192, Minimum Operations to Make Binary Array Elements Equal to One II, Medium
-(3193, Count the Number of Inversions, Hard
-(3194, Minimum Average of Smallest and Largest Elements, Easy
-(3195, Find the Minimum Area to Cover All Ones I, Medium
-(3196, Maximize Total Cost of Alternating Subarrays, Medium
-(3197, Find the Minimum Area to Cover All Ones II, Hard
-(3198, Find Cities in Each State, Easy
-(3199, Count Triplets with Even XOR Set Bits I, Easy
-(3200, Maximum Height of a Triangle, Easy
-(3201, Find the Maximum Length of Valid Subsequence I, Medium
-(3202, Find the Maximum Length of Valid Subsequence II, Medium
-(3203, Find Minimum Diameter After Merging Two Trees, Hard
-(3204, Bitwise User Permissions Analysis, Medium
-(3205, Maximum Array Hopping Score I, Medium
-(3206, Alternating Groups I, Easy
-(3207, Maximum Points After Enemy Battles, Medium
-(3208, Alternating Groups II, Medium
-(3209, Number of Subarrays With AND Value of K, Hard
-(3210, Find the Encrypted String, Easy
-(3211, Generate Binary Strings Without Adjacent Zeros, Medium
-(3212, Count Submatrices With Equal Frequency of X and Y, Medium
-(3213, Construct String with Minimum Cost, Hard
-(3214, Year on Year Growth Rate, Hard
-(3215, Count Triplets with Even XOR Set Bits II, Medium
-(3216, Lexicographically Smallest String After a Swap, Easy
-(3217, Delete Nodes From Linked List Present in Array, Medium
-(3218, Minimum Cost for Cutting Cake I, Medium
-(3219, Minimum Cost for Cutting Cake II, Hard
-(3220, Odd and Even Transactions, Medium
-(3221, Maximum Array Hopping Score II, Medium
-(3222, Find the Winning Player in Coin Game, Easy
-(3223, Minimum Length of String After Operations, Medium
-(3224, Minimum Array Changes to Make Differences Equal, Medium
-(3225, Maximum Score From Grid Operations, Hard
-(3226, Number of Bit Changes to Make Two Integers Equal, Easy
-(3227, Vowels Game in a String, Medium
-(3228, Maximum Number of Operations to Move Ones to the End, Medium
-(3229, Minimum Operations to Make Array Equal to Target, Hard
-(3230, Customer Purchasing Behavior Analysis, Medium
-(3231, Minimum Number of Increasing Subsequence to Be Removed, Hard
-(3232, Find if Digit Game Can Be Won, Easy
-(3233, Find the Count of Numbers Which Are Not Special, Medium
-(3234, Count the Number of Substrings With Dominant Ones, Medium
-(3235, Check if the Rectangle Corner Is Reachable, Hard
-(3236, CEO Subordinate Hierarchy, Hard
-(3237, Alt and Tab Simulation, Medium
-(3238, Find the Number of Winning Players, Easy
-(3239, Minimum Number of Flips to Make Binary Grid Palindromic I, Medium
-(3240, Minimum Number of Flips to Make Binary Grid Palindromic II, Medium
-(3241, Time Taken to Mark All Nodes, Hard
-(3242, Design Neighbor Sum Service, Easy
-(3243, Shortest Distance After Road Addition Queries I, Medium
-(3244, Shortest Distance After Road Addition Queries II, Hard
-(3245, Alternating Groups III, Hard
-(3246, Premier League Table Ranking, Easy
-(3247, Number of Subsequences with Odd Sum, Medium
-(3248, Snake in Matrix, Easy
-(3249, Count the Number of Good Nodes, Medium
-(3250, Find the Count of Monotonic Pairs I, Hard
-(3251, Find the Count of Monotonic Pairs II, Hard
-(3252, Premier League Table Ranking II, Medium
-(3253, Construct String with Minimum Cost (Easy), Medium
-(3254, Find the Power of K-Size Subarrays I, Medium
-(3255, Find the Power of K-Size Subarrays II, Medium
-(3256, Maximum Value Sum by Placing Three Rooks I, Hard
-(3257, Maximum Value Sum by Placing Three Rooks II, Hard
-(3258, Count Substrings That Satisfy K-Constraint I, Easy
-(3259, Maximum Energy Boost From Two Drinks, Medium
-(3260, Find the Largest Palindrome Divisible by K, Hard
-(3261, Count Substrings That Satisfy K-Constraint II, Hard
-(3262, Find Overlapping Shifts, Medium
-(3263, Convert Doubly Linked List to Array I, Easy
+(1, 'Two Sum', 0),
+(2, 'Add Two Numbers', 1),
+(3, 'Longest Substring Without Repeating Characters', 1),
+(4, 'Median of Two Sorted Arrays', 2),
+(5, 'Longest Palindromic Substring', 1),
+(6, 'Zigzag Conversion', 1),
+(7, 'Reverse Integer', 1),
+(8, 'String to Integer (atoi)', 1),
+(9, 'Palindrome Number', 0),
+(10, 'Regular Expression Matching', 2),
+(11, 'Container With Most Water', 1),
+(12, 'Integer to Roman', 1),
+(13, 'Roman to Integer', 0),
+(14, 'Longest Common Prefix', 0),
+(15, '3Sum', 1),
+(16, '3Sum Closest', 1),
+(17, 'Letter Combinations of a Phone Number', 1),
+(18, '4Sum', 1),
+(19, 'Remove Nth Node From End of List', 1),
+(20, 'Valid Parentheses', 0),
+(21, 'Merge Two Sorted Lists', 0),
+(22, 'Generate Parentheses', 1),
+(23, 'Merge k Sorted Lists', 2),
+(24, 'Swap Nodes in Pairs', 1),
+(25, 'Reverse Nodes in k-Group', 2),
+(26, 'Remove Duplicates from Sorted Array', 0),
+(27, 'Remove Element', 0),
+(28, 'Find the Index of the First Occurrence in a String', 0),
+(29, 'Divide Two Integers', 1),
+(30, 'Substring with Concatenation of All Words', 2),
+(31, 'Next Permutation', 1),
+(32, 'Longest Valid Parentheses', 2),
+(33, 'Search in Rotated Sorted Array', 1),
+(34, 'Find First and Last Position of Element in Sorted Array', 1),
+(35, 'Search Insert Position', 0),
+(36, 'Valid Sudoku', 1),
+(37, 'Sudoku Solver', 2),
+(38, 'Count and Say', 1),
+(39, 'Combination Sum', 1),
+(40, 'Combination Sum II', 1),
+(41, 'First Missing Positive', 2),
+(42, 'Trapping Rain Water', 2),
+(43, 'Multiply Strings', 1),
+(44, 'Wildcard Matching', 2),
+(45, 'Jump Game II', 1),
+(46, 'Permutations', 1),
+(47, 'Permutations II', 1),
+(48, 'Rotate Image', 1),
+(49, 'Group Anagrams', 1),
+(50, 'Pow(x, n)', 1),
+(51, 'N-Queens', 2),
+(52, 'N-Queens II', 2),
+(53, 'Maximum Subarray', 1),
+(54, 'Spiral Matrix', 1),
+(55, 'Jump Game', 1),
+(56, 'Merge Intervals', 1),
+(57, 'Insert Interval', 1),
+(58, 'Length of Last Word', 0),
+(59, 'Spiral Matrix II', 1),
+(60, 'Permutation Sequence', 2),
+(61, 'Rotate List', 1),
+(62, 'Unique Paths', 1),
+(63, 'Unique Paths II', 1),
+(64, 'Minimum Path Sum', 1),
+(65, 'Valid Number', 2),
+(66, 'Plus One', 0),
+(67, 'Add Binary', 0),
+(68, 'Text Justification', 2),
+(69, 'Sqrt(x)', 0),
+(70, 'Climbing Stairs', 0),
+(71, 'Simplify Path', 1),
+(72, 'Edit Distance', 1),
+(73, 'Set Matrix Zeroes', 1),
+(74, 'Search a 2D Matrix', 1),
+(75, 'Sort Colors', 1),
+(76, 'Minimum Window Substring', 2),
+(77, 'Combinations', 1),
+(78, 'Subsets', 1),
+(79, 'Word Search', 1),
+(80, 'Remove Duplicates from Sorted Array II', 1),
+(81, 'Search in Rotated Sorted Array II', 1),
+(82, 'Remove Duplicates from Sorted List II', 1),
+(83, 'Remove Duplicates from Sorted List', 0),
+(84, 'Largest Rectangle in Histogram', 2),
+(85, 'Maximal Rectangle', 2),
+(86, 'Partition List', 1),
+(87, 'Scramble String', 2),
+(88, 'Merge Sorted Array', 0),
+(89, 'Gray Code', 1),
+(90, 'Subsets II', 1),
+(91, 'Decode Ways', 1),
+(92, 'Reverse Linked List II', 1),
+(93, 'Restore IP Addresses', 1),
+(94, 'Binary Tree Inorder Traversal', 0),
+(95, 'Unique Binary Search Trees II', 1),
+(96, 'Unique Binary Search Trees', 1),
+(97, 'Interleaving String', 1),
+(98, 'Validate Binary Search Tree', 1),
+(99, 'Recover Binary Search Tree', 1),
+(100, 'Same Tree', 0),
+(101, 'Symmetric Tree', 0),
+(102, 'Binary Tree Level Order Traversal', 1),
+(103, 'Binary Tree Zigzag Level Order Traversal', 1),
+(104, 'Maximum Depth of Binary Tree', 0),
+(105, 'Construct Binary Tree from Preorder and Inorder Traversal', 1),
+(106, 'Construct Binary Tree from Inorder and Postorder Traversal', 1),
+(107, 'Binary Tree Level Order Traversal II', 1),
+(108, 'Convert Sorted Array to Binary Search Tree', 0),
+(109, 'Convert Sorted List to Binary Search Tree', 1),
+(110, 'Balanced Binary Tree', 0),
+(111, 'Minimum Depth of Binary Tree', 0),
+(112, 'Path Sum', 0),
+(113, 'Path Sum II', 1),
+(114, 'Flatten Binary Tree to Linked List', 1),
+(115, 'Distinct Subsequences', 2),
+(116, 'Populating Next Right Pointers in Each Node', 1),
+(117, 'Populating Next Right Pointers in Each Node II', 1),
+(118, 'Pascal''s Triangle', 0),
+(119, 'Pascal''s Triangle II', 0),
+(120, 'Triangle', 1),
+(121, 'Best Time to Buy and Sell Stock', 0),
+(122, 'Best Time to Buy and Sell Stock II', 1),
+(123, 'Best Time to Buy and Sell Stock III', 2),
+(124, 'Binary Tree Maximum Path Sum', 2),
+(125, 'Valid Palindrome', 0),
+(126, 'Word Ladder II', 2),
+(127, 'Word Ladder', 2),
+(128, 'Longest Consecutive Sequence', 1),
+(129, 'Sum Root to Leaf Numbers', 1),
+(130, 'Surrounded Regions', 1),
+(131, 'Palindrome Partitioning', 1),
+(132, 'Palindrome Partitioning II', 2),
+(133, 'Clone Graph', 1),
+(134, 'Gas Station', 1),
+(135, 'Candy', 2),
+(136, 'Single Number', 0),
+(137, 'Single Number II', 1),
+(138, 'Copy List with Random Pointer', 1),
+(139, 'Word Break', 1),
+(140, 'Word Break II', 2),
+(141, 'Linked List Cycle', 0),
+(142, 'Linked List Cycle II', 1),
+(143, 'Reorder List', 1),
+(144, 'Binary Tree Preorder Traversal', 0),
+(145, 'Binary Tree Postorder Traversal', 0),
+(146, 'LRU Cache', 1),
+(147, 'Insertion Sort List', 1),
+(148, 'Sort List', 1),
+(149, 'Max Points on a Line', 2),
+(150, 'Evaluate Reverse Polish Notation', 1),
+(151, 'Reverse Words in a String', 1),
+(152, 'Maximum Product Subarray', 1),
+(153, 'Find Minimum in Rotated Sorted Array', 1),
+(154, 'Find Minimum in Rotated Sorted Array II', 2),
+(155, 'Min Stack', 1),
+(156, 'Binary Tree Upside Down', 1),
+(157, 'Read N Characters Given Read4', 0),
+(158, 'Read N Characters Given read4 II - Call Multiple Times', 2),
+(159, 'Longest Substring with At Most Two Distinct Characters', 1),
+(160, 'Intersection of Two Linked Lists', 0),
+(161, 'One Edit Distance', 1),
+(162, 'Find Peak Element', 1),
+(163, 'Missing Ranges', 0),
+(164, 'Maximum Gap', 1),
+(165, 'Compare Version Numbers', 1),
+(166, 'Fraction to Recurring Decimal', 1),
+(167, 'Two Sum II - Input Array Is Sorted', 1),
+(168, 'Excel Sheet Column Title', 0),
+(169, 'Majority Element', 0),
+(170, 'Two Sum III - Data structure design', 0),
+(171, 'Excel Sheet Column Number', 0),
+(172, 'Factorial Trailing Zeroes', 1),
+(173, 'Binary Search Tree Iterator', 1),
+(174, 'Dungeon Game', 2),
+(175, 'Combine Two Tables', 0),
+(176, 'Second Highest Salary', 1),
+(177, 'Nth Highest Salary', 1),
+(178, 'Rank Scores', 1),
+(179, 'Largest Number', 1),
+(180, 'Consecutive Numbers', 1),
+(181, 'Employees Earning More Than Their Managers', 0),
+(182, 'Duplicate Emails', 0),
+(183, 'Customers Who Never Order', 0),
+(184, 'Department Highest Salary', 1),
+(185, 'Department Top Three Salaries', 2),
+(186, 'Reverse Words in a String II', 1),
+(187, 'Repeated DNA Sequences', 1),
+(188, 'Best Time to Buy and Sell Stock IV', 2),
+(189, 'Rotate Array', 1),
+(190, 'Reverse Bits', 0),
+(191, 'Number of 1 Bits', 0),
+(192, 'Word Frequency', 1),
+(193, 'Valid Phone Numbers', 0),
+(194, 'Transpose File', 1),
+(195, 'Tenth Line', 0),
+(196, 'Delete Duplicate Emails', 0),
+(197, 'Rising Temperature', 0),
+(198, 'House Robber', 1),
+(199, 'Binary Tree Right Side View', 1),
+(200, 'Number of Islands', 1),
+(201, 'Bitwise AND of Numbers Range', 1),
+(202, 'Happy Number', 0),
+(203, 'Remove Linked List Elements', 0),
+(204, 'Count Primes', 1),
+(205, 'Isomorphic Strings', 0),
+(206, 'Reverse Linked List', 0),
+(207, 'Course Schedule', 1),
+(208, 'Implement Trie (Prefix Tree)', 1),
+(209, 'Minimum Size Subarray Sum', 1),
+(210, 'Course Schedule II', 1),
+(211, 'Design Add and Search Words Data Structure', 1),
+(212, 'Word Search II', 2),
+(213, 'House Robber II', 1),
+(214, 'Shortest Palindrome', 2),
+(215, 'Kth Largest Element in an Array', 1),
+(216, 'Combination Sum III', 1),
+(217, 'Contains Duplicate', 0),
+(218, 'The Skyline Problem', 2),
+(219, 'Contains Duplicate II', 0),
+(220, 'Contains Duplicate III', 2),
+(221, 'Maximal Square', 1),
+(222, 'Count Complete Tree Nodes', 0),
+(223, 'Rectangle Area', 1),
+(224, 'Basic Calculator', 2),
+(225, 'Implement Stack using Queues', 0),
+(226, 'Invert Binary Tree', 0),
+(227, 'Basic Calculator II', 1),
+(228, 'Summary Ranges', 0),
+(229, 'Majority Element II', 1),
+(230, 'Kth Smallest Element in a BST', 1),
+(231, 'Power of Two', 0),
+(232, 'Implement Queue using Stacks', 0),
+(233, 'Number of Digit One', 2),
+(234, 'Palindrome Linked List', 0),
+(235, 'Lowest Common Ancestor of a Binary Search Tree', 1),
+(236, 'Lowest Common Ancestor of a Binary Tree', 1),
+(237, 'Delete Node in a Linked List', 1),
+(238, 'Product of Array Except Self', 1),
+(239, 'Sliding Window Maximum', 2),
+(240, 'Search a 2D Matrix II', 1),
+(241, 'Different Ways to Add Parentheses', 1),
+(242, 'Valid Anagram', 0),
+(243, 'Shortest Word Distance', 0),
+(244, 'Shortest Word Distance II', 1),
+(245, 'Shortest Word Distance III', 1),
+(246, 'Strobogrammatic Number', 0),
+(247, 'Strobogrammatic Number II', 1),
+(248, 'Strobogrammatic Number III', 2),
+(249, 'Group Shifted Strings', 1),
+(250, 'Count Univalue Subtrees', 1),
+(251, 'Flatten 2D Vector', 1),
+(252, 'Meeting Rooms', 0),
+(253, 'Meeting Rooms II', 1),
+(254, 'Factor Combinations', 1),
+(255, 'Verify Preorder Sequence in Binary Search Tree', 1),
+(256, 'Paint House', 1),
+(257, 'Binary Tree Paths', 0),
+(258, 'Add Digits', 0),
+(259, '3Sum Smaller', 1),
+(260, 'Single Number III', 1),
+(261, 'Graph Valid Tree', 1),
+(262, 'Trips and Users', 2),
+(263, 'Ugly Number', 0),
+(264, 'Ugly Number II', 1),
+(265, 'Paint House II', 2),
+(266, 'Palindrome Permutation', 0),
+(267, 'Palindrome Permutation II', 1),
+(268, 'Missing Number', 0),
+(269, 'Alien Dictionary', 2),
+(270, 'Closest Binary Search Tree Value', 0),
+(271, 'Encode and Decode Strings', 1),
+(272, 'Closest Binary Search Tree Value II', 2),
+(273, 'Integer to English Words', 2),
+(274, 'H-Index', 1),
+(275, 'H-Index II', 1),
+(276, 'Paint Fence', 1),
+(277, 'Find the Celebrity', 1),
+(278, 'First Bad Version', 0),
+(279, 'Perfect Squares', 1),
+(280, 'Wiggle Sort', 1),
+(281, 'Zigzag Iterator', 1),
+(282, 'Expression Add Operators', 2),
+(283, 'Move Zeroes', 0),
+(284, 'Peeking Iterator', 1),
+(285, 'Inorder Successor in BST', 1),
+(286, 'Walls and Gates', 1),
+(287, 'Find the Duplicate Number', 1),
+(288, 'Unique Word Abbreviation', 1),
+(289, 'Game of Life', 1),
+(290, 'Word Pattern', 0),
+(291, 'Word Pattern II', 1),
+(292, 'Nim Game', 0),
+(293, 'Flip Game', 0),
+(294, 'Flip Game II', 1),
+(295, 'Find Median from Data Stream', 2),
+(296, 'Best Meeting Point', 2),
+(297, 'Serialize and Deserialize Binary Tree', 2),
+(298, 'Binary Tree Longest Consecutive Sequence', 1),
+(299, 'Bulls and Cows', 1),
+(300, 'Longest Increasing Subsequence', 1),
+(301, 'Remove Invalid Parentheses', 2),
+(302, 'Smallest Rectangle Enclosing Black Pixels', 2),
+(303, 'Range Sum Query - Immutable', 0),
+(304, 'Range Sum Query 2D - Immutable', 1),
+(305, 'Number of Islands II', 2),
+(306, 'Additive Number', 1),
+(307, 'Range Sum Query - Mutable', 1),
+(308, 'Range Sum Query 2D - Mutable', 2),
+(309, 'Best Time to Buy and Sell Stock with Cooldown', 1),
+(310, 'Minimum Height Trees', 1),
+(311, 'Sparse Matrix Multiplication', 1),
+(312, 'Burst Balloons', 2),
+(313, 'Super Ugly Number', 1),
+(314, 'Binary Tree Vertical Order Traversal', 1),
+(315, 'Count of Smaller Numbers After Self', 2),
+(316, 'Remove Duplicate Letters', 1),
+(317, 'Shortest Distance from All Buildings', 2),
+(318, 'Maximum Product of Word Lengths', 1),
+(319, 'Bulb Switcher', 1),
+(320, 'Generalized Abbreviation', 1),
+(321, 'Create Maximum Number', 2),
+(322, 'Coin Change', 1),
+(323, 'Number of Connected Components in an Undirected Graph', 1),
+(324, 'Wiggle Sort II', 1),
+(325, 'Maximum Size Subarray Sum Equals k', 1),
+(326, 'Power of Three', 0),
+(327, 'Count of Range Sum', 2),
+(328, 'Odd Even Linked List', 1),
+(329, 'Longest Increasing Path in a Matrix', 2),
+(330, 'Patching Array', 2),
+(331, 'Verify Preorder Serialization of a Binary Tree', 1),
+(332, 'Reconstruct Itinerary', 2),
+(333, 'Largest BST Subtree', 1),
+(334, 'Increasing Triplet Subsequence', 1),
+(335, 'Self Crossing', 2),
+(336, 'Palindrome Pairs', 2),
+(337, 'House Robber III', 1),
+(338, 'Counting Bits', 0),
+(339, 'Nested List Weight Sum', 1),
+(340, 'Longest Substring with At Most K Distinct Characters', 1),
+(341, 'Flatten Nested List Iterator', 1),
+(342, 'Power of Four', 0),
+(343, 'Integer Break', 1),
+(344, 'Reverse String', 0),
+(345, 'Reverse Vowels of a String', 0),
+(346, 'Moving Average from Data Stream', 0),
+(347, 'Top K Frequent Elements', 1),
+(348, 'Design Tic-Tac-Toe', 1),
+(349, 'Intersection of Two Arrays', 0),
+(350, 'Intersection of Two Arrays II', 0),
+(351, 'Android Unlock Patterns', 1),
+(352, 'Data Stream as Disjoint Intervals', 2),
+(353, 'Design Snake Game', 1),
+(354, 'Russian Doll Envelopes', 2),
+(355, 'Design Twitter', 1),
+(356, 'Line Reflection', 1),
+(357, 'Count Numbers with Unique Digits', 1),
+(358, 'Rearrange String k Distance Apart', 2),
+(359, 'Logger Rate Limiter', 0),
+(360, 'Sort Transformed Array', 1),
+(361, 'Bomb Enemy', 1),
+(362, 'Design Hit Counter', 1),
+(363, 'Max Sum of Rectangle No Larger Than K', 2),
+(364, 'Nested List Weight Sum II', 1),
+(365, 'Water and Jug Problem', 1),
+(366, 'Find Leaves of Binary Tree', 1),
+(367, 'Valid Perfect Square', 0),
+(368, 'Largest Divisible Subset', 1),
+(369, 'Plus One Linked List', 1),
+(370, 'Range Addition', 1),
+(371, 'Sum of Two Integers', 1),
+(372, 'Super Pow', 1),
+(373, 'Find K Pairs with Smallest Sums', 1),
+(374, 'Guess Number Higher or Lower', 0),
+(375, 'Guess Number Higher or Lower II', 1),
+(376, 'Wiggle Subsequence', 1),
+(377, 'Combination Sum IV', 1),
+(378, 'Kth Smallest Element in a Sorted Matrix', 1),
+(379, 'Design Phone Directory', 1),
+(380, 'Insert Delete GetRandom O(1)', 1),
+(381, 'Insert Delete GetRandom O(1) - Duplicates allowed', 2),
+(382, 'Linked List Random Node', 1),
+(383, 'Ransom Note', 0),
+(384, 'Shuffle an Array', 1),
+(385, 'Mini Parser', 1),
+(386, 'Lexicographical Numbers', 1),
+(387, 'First Unique Character in a String', 0),
+(388, 'Longest Absolute File Path', 1),
+(389, 'Find the Difference', 0),
+(390, 'Elimination Game', 1),
+(391, 'Perfect Rectangle', 2),
+(392, 'Is Subsequence', 0),
+(393, 'UTF-8 Validation', 1),
+(394, 'Decode String', 1),
+(395, 'Longest Substring with At Least K Repeating Characters', 1),
+(396, 'Rotate Function', 1),
+(397, 'Integer Replacement', 1),
+(398, 'Random Pick Index', 1),
+(399, 'Evaluate Division', 1),
+(400, 'Nth Digit', 1),
+(401, 'Binary Watch', 0),
+(402, 'Remove K Digits', 1),
+(403, 'Frog Jump', 2),
+(404, 'Sum of Left Leaves', 0),
+(405, 'Convert a Number to Hexadecimal', 0),
+(406, 'Queue Reconstruction by Height', 1),
+(407, 'Trapping Rain Water II', 2),
+(408, 'Valid Word Abbreviation', 0),
+(409, 'Longest Palindrome', 0),
+(410, 'Split Array Largest Sum', 2),
+(411, 'Minimum Unique Word Abbreviation', 2),
+(412, 'Fizz Buzz', 0),
+(413, 'Arithmetic Slices', 1),
+(414, 'Third Maximum Number', 0),
+(415, 'Add Strings', 0),
+(416, 'Partition Equal Subset Sum', 1),
+(417, 'Pacific Atlantic Water Flow', 1),
+(418, 'Sentence Screen Fitting', 1),
+(419, 'Battleships in a Board', 1),
+(420, 'Strong Password Checker', 2),
+(421, 'Maximum XOR of Two Numbers in an Array', 1),
+(422, 'Valid Word Square', 0),
+(423, 'Reconstruct Original Digits from English', 1),
+(424, 'Longest Repeating Character Replacement', 1),
+(425, 'Word Squares', 2),
+(426, 'Convert Binary Search Tree to Sorted Doubly Linked List', 1),
+(427, 'Construct Quad Tree', 1),
+(428, 'Serialize and Deserialize N-ary Tree', 2),
+(429, 'N-ary Tree Level Order Traversal', 1),
+(430, 'Flatten a Multilevel Doubly Linked List', 1),
+(431, 'Encode N-ary Tree to Binary Tree', 2),
+(432, 'All O`one Data Structure', 2),
+(433, 'Minimum Genetic Mutation', 1),
+(434, 'Number of Segments in a String', 0),
+(435, 'Non-overlapping Intervals', 1),
+(436, 'Find Right Interval', 1),
+(437, 'Path Sum III', 1),
+(438, 'Find All Anagrams in a String', 1),
+(439, 'Ternary Expression Parser', 1),
+(440, 'K-th Smallest in Lexicographical Order', 2),
+(441, 'Arranging Coins', 0),
+(442, 'Find All Duplicates in an Array', 1),
+(443, 'String Compression', 1),
+(444, 'Sequence Reconstruction', 1),
+(445, 'Add Two Numbers II', 1),
+(446, 'Arithmetic Slices II - Subsequence', 2),
+(447, 'Number of Boomerangs', 1),
+(448, 'Find All Numbers Disappeared in an Array', 0),
+(449, 'Serialize and Deserialize BST', 1),
+(450, 'Delete Node in a BST', 1),
+(451, 'Sort Characters By Frequency', 1),
+(452, 'Minimum Number of Arrows to Burst Balloons', 1),
+(453, 'Minimum Moves to Equal Array Elements', 1),
+(454, '4Sum II', 1),
+(455, 'Assign Cookies', 0),
+(456, '132 Pattern', 1),
+(457, 'Circular Array Loop', 1),
+(458, 'Poor Pigs', 2),
+(459, 'Repeated Substring Pattern', 0),
+(460, 'LFU Cache', 2),
+(461, 'Hamming Distance', 0),
+(462, 'Minimum Moves to Equal Array Elements II', 1),
+(463, 'Island Perimeter', 0),
+(464, 'Can I Win', 1),
+(465, 'Optimal Account Balancing', 2),
+(466, 'Count The Repetitions', 2),
+(467, 'Unique Substrings in Wraparound String', 1),
+(468, 'Validate IP Address', 1),
+(469, 'Convex Polygon', 1),
+(470, 'Implement Rand10() Using Rand7()', 1),
+(471, 'Encode String with Shortest Length', 2),
+(472, 'Concatenated Words', 2),
+(473, 'Matchsticks to Square', 1),
+(474, 'Ones and Zeroes', 1),
+(475, 'Heaters', 1),
+(476, 'Number Complement', 0),
+(477, 'Total Hamming Distance', 1),
+(478, 'Generate Random Point in a Circle', 1),
+(479, 'Largest Palindrome Product', 2),
+(480, 'Sliding Window Median', 2),
+(481, 'Magical String', 1),
+(482, 'License Key Formatting', 0),
+(483, 'Smallest Good Base', 2),
+(484, 'Find Permutation', 1),
+(485, 'Max Consecutive Ones', 0),
+(486, 'Predict the Winner', 1),
+(487, 'Max Consecutive Ones II', 1),
+(488, 'Zuma Game', 2),
+(489, 'Robot Room Cleaner', 2),
+(490, 'The Maze', 1),
+(491, 'Non-decreasing Subsequences', 1),
+(492, 'Construct the Rectangle', 0),
+(493, 'Reverse Pairs', 2),
+(494, 'Target Sum', 1),
+(495, 'Teemo Attacking', 0),
+(496, 'Next Greater Element I', 0),
+(497, 'Random Point in Non-overlapping Rectangles', 1),
+(498, 'Diagonal Traverse', 1),
+(499, 'The Maze III', 2),
+(500, 'Keyboard Row', 0);
+
+INSERT INTO Questions ([Number], [Title], [Difficulty])
+VALUES
+(501, 'Find Mode in Binary Search Tree', 0),
+(502, 'IPO', 2),
+(503, 'Next Greater Element II', 1),
+(504, 'Base 7', 0),
+(505, 'The Maze II', 1),
+(506, 'Relative Ranks', 0),
+(507, 'Perfect Number', 0),
+(508, 'Most Frequent Subtree Sum', 1),
+(509, 'Fibonacci Number', 0),
+(510, 'Inorder Successor in BST II', 1),
+(511, 'Game Play Analysis I', 0),
+(512, 'Game Play Analysis II', 0),
+(513, 'Find Bottom Left Tree Value', 1),
+(514, 'Freedom Trail', 2),
+(515, 'Find Largest Value in Each Tree Row', 1),
+(516, 'Longest Palindromic Subsequence', 1),
+(517, 'Super Washing Machines', 2),
+(518, 'Coin Change II', 1),
+(519, 'Random Flip Matrix', 1),
+(520, 'Detect Capital', 0),
+(521, 'Longest Uncommon Subsequence I', 0),
+(522, 'Longest Uncommon Subsequence II', 1),
+(523, 'Continuous Subarray Sum', 1),
+(524, 'Longest Word in Dictionary through Deleting', 1),
+(525, 'Contiguous Array', 1),
+(526, 'Beautiful Arrangement', 1),
+(527, 'Word Abbreviation', 2),
+(528, 'Random Pick with Weight', 1),
+(529, 'Minesweeper', 1),
+(530, 'Minimum Absolute Difference in BST', 0),
+(531, 'Lonely Pixel I', 1),
+(532, 'K-diff Pairs in an Array', 1),
+(533, 'Lonely Pixel II', 1),
+(534, 'Game Play Analysis III', 1),
+(535, 'Encode and Decode TinyURL', 1),
+(536, 'Construct Binary Tree from String', 1),
+(537, 'Complex Number Multiplication', 1),
+(538, 'Convert BST to Greater Tree', 1),
+(539, 'Minimum Time Difference', 1),
+(540, 'Single Element in a Sorted Array', 1),
+(541, 'Reverse String II', 0),
+(542, '01 Matrix', 1),
+(543, 'Diameter of Binary Tree', 0),
+(544, 'Output Contest Matches', 1),
+(545, 'Boundary of Binary Tree', 1),
+(546, 'Remove Boxes', 2),
+(547, 'Number of Provinces', 1),
+(548, 'Split Array with Equal Sum', 2),
+(549, 'Binary Tree Longest Consecutive Sequence II', 1),
+(550, 'Game Play Analysis IV', 1),
+(551, 'Student Attendance Record I', 0),
+(552, 'Student Attendance Record II', 2),
+(553, 'Optimal Division', 1),
+(554, 'Brick Wall', 1),
+(555, 'Split Concatenated Strings', 1),
+(556, 'Next Greater Element III', 1),
+(557, 'Reverse Words in a String III', 0),
+(558, 'Logical OR of Two Binary Grids Represented as Quad-Trees', 1),
+(559, 'Maximum Depth of N-ary Tree', 0),
+(560, 'Subarray Sum Equals K', 1),
+(561, 'Array Partition', 0),
+(562, 'Longest Line of Consecutive One in Matrix', 1),
+(563, 'Binary Tree Tilt', 0),
+(564, 'Find the Closest Palindrome', 2),
+(565, 'Array Nesting', 1),
+(566, 'Reshape the Matrix', 0),
+(567, 'Permutation in String', 1),
+(568, 'Maximum Vacation Days', 2),
+(569, 'Median Employee Salary', 2),
+(570, 'Managers with at Least 5 Direct Reports', 1),
+(571, 'Find Median Given Frequency of Numbers', 2),
+(572, 'Subtree of Another Tree', 0),
+(573, 'Squirrel Simulation', 1),
+(574, 'Winning Candidate', 1),
+(575, 'Distribute Candies', 0),
+(576, 'Out of Boundary Paths', 1),
+(577, 'Employee Bonus', 0),
+(578, 'Get Highest Answer Rate Question', 1),
+(579, 'Find Cumulative Salary of an Employee', 2),
+(580, 'Count Student Number in Departments', 1),
+(581, 'Shortest Unsorted Continuous Subarray', 1),
+(582, 'Kill Process', 1),
+(583, 'Delete Operation for Two Strings', 1),
+(584, 'Find Customer Referee', 0),
+(585, 'Investments in 2016', 1),
+(586, 'Customer Placing the Largest Number of Orders', 0),
+(587, 'Erect the Fence', 2),
+(588, 'Design In-Memory File System', 2),
+(589, 'N-ary Tree Preorder Traversal', 0),
+(590, 'N-ary Tree Postorder Traversal', 0),
+(591, 'Tag Validator', 2),
+(592, 'Fraction Addition and Subtraction', 1),
+(593, 'Valid Square', 1),
+(594, 'Longest Harmonious Subsequence', 0),
+(595, 'Big Countries', 0),
+(596, 'Classes More Than 5 Students', 0),
+(597, 'Friend Requests I: Overall Acceptance Rate', 0),
+(598, 'Range Addition II', 0),
+(599, 'Minimum Index Sum of Two Lists', 0),
+(600, 'Non-negative Integers without Consecutive Ones', 2),
+(601, 'Human Traffic of Stadium', 2),
+(602, 'Friend Requests II: Who Has the Most Friends', 1),
+(603, 'Consecutive Available Seats', 0),
+(604, 'Design Compressed String Iterator', 0),
+(605, 'Can Place Flowers', 0),
+(606, 'Construct String from Binary Tree', 1),
+(607, 'Sales Person', 0),
+(608, 'Tree Node', 1),
+(609, 'Find Duplicate File in System', 1),
+(610, 'Triangle Judgement', 0),
+(611, 'Valid Triangle Number', 1),
+(612, 'Shortest Distance in a Plane', 1),
+(613, 'Shortest Distance in a Line', 0),
+(614, 'Second Degree Follower', 1),
+(615, 'Average Salary: Departments VS Company', 2),
+(616, 'Add Bold Tag in String', 1),
+(617, 'Merge Two Binary Trees', 0),
+(618, 'Students Report By Geography', 2),
+(619, 'Biggest Single Number', 0),
+(620, 'Not Boring Movies', 0),
+(621, 'Task Scheduler', 1),
+(622, 'Design Circular Queue', 1),
+(623, 'Add One Row to Tree', 1),
+(624, 'Maximum Distance in Arrays', 1),
+(625, 'Minimum Factorization', 1),
+(626, 'Exchange Seats', 1),
+(627, 'Swap Salary', 0),
+(628, 'Maximum Product of Three Numbers', 0),
+(629, 'K Inverse Pairs Array', 2),
+(630, 'Course Schedule III', 2),
+(631, 'Design Excel Sum Formula', 2),
+(632, 'Smallest Range Covering Elements from K Lists', 2),
+(633, 'Sum of Square Numbers', 1),
+(634, 'Find the Derangement of An Array', 1),
+(635, 'Design Log Storage System', 1),
+(636, 'Exclusive Time of Functions', 1),
+(637, 'Average of Levels in Binary Tree', 0),
+(638, 'Shopping Offers', 1),
+(639, 'Decode Ways II', 2),
+(640, 'Solve the Equation', 1),
+(641, 'Design Circular Deque', 1),
+(642, 'Design Search Autocomplete System', 2),
+(643, 'Maximum Average Subarray I', 0),
+(644, 'Maximum Average Subarray II', 2),
+(645, 'Set Mismatch', 0),
+(646, 'Maximum Length of Pair Chain', 1),
+(647, 'Palindromic Substrings', 1),
+(648, 'Replace Words', 1),
+(649, 'Dota2 Senate', 1),
+(650, '2 Keys Keyboard', 1),
+(651, '4 Keys Keyboard', 1),
+(652, 'Find Duplicate Subtrees', 1),
+(653, 'Two Sum IV - Input is a BST', 0),
+(654, 'Maximum Binary Tree', 1),
+(655, 'Print Binary Tree', 1),
+(656, 'Coin Path', 2),
+(657, 'Robot Return to Origin', 0),
+(658, 'Find K Closest Elements', 1),
+(659, 'Split Array into Consecutive Subsequences', 1),
+(660, 'Remove 9', 2),
+(661, 'Image Smoother', 0),
+(662, 'Maximum Width of Binary Tree', 1),
+(663, 'Equal Tree Partition', 1),
+(664, 'Strange Printer', 2),
+(665, 'Non-decreasing Array', 1),
+(666, 'Path Sum IV', 1),
+(667, 'Beautiful Arrangement II', 1),
+(668, 'Kth Smallest Number in Multiplication Table', 2),
+(669, 'Trim a Binary Search Tree', 1),
+(670, 'Maximum Swap', 1),
+(671, 'Second Minimum Node In a Binary Tree', 0),
+(672, 'Bulb Switcher II', 1),
+(673, 'Number of Longest Increasing Subsequence', 1),
+(674, 'Longest Continuous Increasing Subsequence', 0),
+(675, 'Cut Off Trees for Golf Event', 2),
+(676, 'Implement Magic Dictionary', 1),
+(677, 'Map Sum Pairs', 1),
+(678, 'Valid Parenthesis String', 1),
+(679, '24 Game', 2),
+(680, 'Valid Palindrome II', 0),
+(681, 'Next Closest Time', 1),
+(682, 'Baseball Game', 0),
+(683, 'K Empty Slots', 2),
+(684, 'Redundant Connection', 1),
+(685, 'Redundant Connection II', 2),
+(686, 'Repeated String Match', 1),
+(687, 'Longest Univalue Path', 1),
+(688, 'Knight Probability in Chessboard', 1),
+(689, 'Maximum Sum of 3 Non-Overlapping Subarrays', 2),
+(690, 'Employee Importance', 1),
+(691, 'Stickers to Spell Word', 2),
+(692, 'Top K Frequent Words', 1),
+(693, 'Binary Number with Alternating Bits', 0),
+(694, 'Number of Distinct Islands', 1),
+(695, 'Max Area of Island', 1),
+(696, 'Count Binary Substrings', 0),
+(697, 'Degree of an Array', 0),
+(698, 'Partition to K Equal Sum Subsets', 1),
+(699, 'Falling Squares', 2),
+(700, 'Search in a Binary Search Tree', 0),
+(701, 'Insert into a Binary Search Tree', 1),
+(702, 'Search in a Sorted Array of Unknown Size', 1),
+(703, 'Kth Largest Element in a Stream', 0),
+(704, 'Binary Search', 0),
+(705, 'Design HashSet', 0),
+(706, 'Design HashMap', 0),
+(707, 'Design Linked List', 1),
+(708, 'Insert into a Sorted Circular Linked List', 1),
+(709, 'To Lower Case', 0),
+(710, 'Random Pick with Blacklist', 2),
+(711, 'Number of Distinct Islands II', 2),
+(712, 'Minimum ASCII Delete Sum for Two Strings', 1),
+(713, 'Subarray Product Less Than K', 1),
+(714, 'Best Time to Buy and Sell Stock with Transaction Fee', 1),
+(715, 'Range Module', 2),
+(716, 'Max Stack', 2),
+(717, '1-bit and 2-bit Characters', 0),
+(718, 'Maximum Length of Repeated Subarray', 1),
+(719, 'Find K-th Smallest Pair Distance', 2),
+(720, 'Longest Word in Dictionary', 1),
+(721, 'Accounts Merge', 1),
+(722, 'Remove Comments', 1),
+(723, 'Candy Crush', 1),
+(724, 'Find Pivot Index', 0),
+(725, 'Split Linked List in Parts', 1),
+(726, 'Number of Atoms', 2),
+(727, 'Minimum Window Subsequence', 2),
+(728, 'Self Dividing Numbers', 0),
+(729, 'My Calendar I', 1),
+(730, 'Count Different Palindromic Subsequences', 2),
+(731, 'My Calendar II', 1),
+(732, 'My Calendar III', 2),
+(733, 'Flood Fill', 0),
+(734, 'Sentence Similarity', 0),
+(735, 'Asteroid Collision', 1),
+(736, 'Parse Lisp Expression', 2),
+(737, 'Sentence Similarity II', 1),
+(738, 'Monotone Increasing Digits', 1),
+(739, 'Daily Temperatures', 1),
+(740, 'Delete and Earn', 1),
+(741, 'Cherry Pickup', 2),
+(742, 'Closest Leaf in a Binary Tree', 1),
+(743, 'Network Delay Time', 1),
+(744, 'Find Smallest Letter Greater Than Target', 0),
+(745, 'Prefix and Suffix Search', 2),
+(746, 'Min Cost Climbing Stairs', 0),
+(747, 'Largest Number At Least Twice of Others', 0),
+(748, 'Shortest Completing Word', 0),
+(749, 'Contain Virus', 2),
+(750, 'Number Of Corner Rectangles', 1),
+(751, 'IP to CIDR', 1),
+(752, 'Open the Lock', 1),
+(753, 'Cracking the Safe', 2),
+(754, 'Reach a Number', 1),
+(755, 'Pour Water', 1),
+(756, 'Pyramid Transition Matrix', 1),
+(757, 'Set Intersection Size At Least Two', 2),
+(758, 'Bold Words in String', 1),
+(759, 'Employee Free Time', 2),
+(760, 'Find Anagram Mappings', 0),
+(761, 'Special Binary String', 2),
+(762, 'Prime Number of Set Bits in Binary Representation', 0),
+(763, 'Partition Labels', 1),
+(764, 'Largest Plus Sign', 1),
+(765, 'Couples Holding Hands', 2),
+(766, 'Toeplitz Matrix', 0),
+(767, 'Reorganize String', 1),
+(768, 'Max Chunks To Make Sorted II', 2),
+(769, 'Max Chunks To Make Sorted', 1),
+(770, 'Basic Calculator IV', 2),
+(771, 'Jewels and Stones', 0),
+(772, 'Basic Calculator III', 2),
+(773, 'Sliding Puzzle', 2),
+(774, 'Minimize Max Distance to Gas Station', 2),
+(775, 'Global and Local Inversions', 1),
+(776, 'Split BST', 1),
+(777, 'Swap Adjacent in LR String', 1),
+(778, 'Swim in Rising Water', 2),
+(779, 'K-th Symbol in Grammar', 1),
+(780, 'Reaching Points', 2),
+(781, 'Rabbits in Forest', 1),
+(782, 'Transform to Chessboard', 2),
+(783, 'Minimum Distance Between BST Nodes', 0),
+(784, 'Letter Case Permutation', 1),
+(785, 'Is Graph Bipartite?', 1),
+(786, 'K-th Smallest Prime Fraction', 1),
+(787, 'Cheapest Flights Within K Stops', 1),
+(788, 'Rotated Digits', 1),
+(789, 'Escape The Ghosts', 1),
+(790, 'Domino and Tromino Tiling', 1),
+(791, 'Custom Sort String', 1),
+(792, 'Number of Matching Subsequences', 1),
+(793, 'Preimage Size of Factorial Zeroes Function', 2),
+(794, 'Valid Tic-Tac-Toe State', 1),
+(795, 'Number of Subarrays with Bounded Maximum', 1),
+(796, 'Rotate String', 0),
+(797, 'All Paths From Source to Target', 1),
+(798, 'Smallest Rotation with Highest Score', 2),
+(799, 'Champagne Tower', 1),
+(800, 'Similar RGB Color', 0),
+(801, 'Minimum Swaps To Make Sequences Increasing', 2),
+(802, 'Find Eventual Safe States', 1),
+(803, 'Bricks Falling When Hit', 2),
+(804, 'Unique Morse Code Words', 0),
+(805, 'Split Array With Same Average', 2),
+(806, 'Number of Lines To Write String', 0),
+(807, 'Max Increase to Keep City Skyline', 1),
+(808, 'Soup Servings', 1),
+(809, 'Expressive Words', 1),
+(810, 'Chalkboard XOR Game', 2),
+(811, 'Subdomain Visit Count', 1),
+(812, 'Largest Triangle Area', 0),
+(813, 'Largest Sum of Averages', 1),
+(814, 'Binary Tree Pruning', 1),
+(815, 'Bus Routes', 2),
+(816, 'Ambiguous Coordinates', 1),
+(817, 'Linked List Components', 1),
+(818, 'Race Car', 2),
+(819, 'Most Common Word', 0),
+(820, 'Short Encoding of Words', 1),
+(821, 'Shortest Distance to a Character', 0),
+(822, 'Card Flipping Game', 1),
+(823, 'Binary Trees With Factors', 1),
+(824, 'Goat Latin', 0),
+(825, 'Friends Of Appropriate Ages', 1),
+(826, 'Most Profit Assigning Work', 1),
+(827, 'Making A Large Island', 2),
+(828, 'Count Unique Characters of All Substrings of a Given String', 2),
+(829, 'Consecutive Numbers Sum', 2),
+(830, 'Positions of Large Groups', 0),
+(831, 'Masking Personal Information', 1),
+(832, 'Flipping an Image', 0),
+(833, 'Find And Replace in String', 1),
+(834, 'Sum of Distances in Tree', 2),
+(835, 'Image Overlap', 1),
+(836, 'Rectangle Overlap', 0),
+(837, 'New 21 Game', 1),
+(838, 'Push Dominoes', 1),
+(839, 'Similar String Groups', 2),
+(840, 'Magic Squares In Grid', 1),
+(841, 'Keys and Rooms', 1),
+(842, 'Split Array into Fibonacci Sequence', 1),
+(843, 'Guess the Word', 2),
+(844, 'Backspace String Compare', 0),
+(845, 'Longest Mountain in Array', 1),
+(846, 'Hand of Straights', 1),
+(847, 'Shortest Path Visiting All Nodes', 2),
+(848, 'Shifting Letters', 1),
+(849, 'Maximize Distance to Closest Person', 1),
+(850, 'Rectangle Area II', 2),
+(851, 'Loud and Rich', 1),
+(852, 'Peak Index in a Mountain Array', 1),
+(853, 'Car Fleet', 1),
+(854, 'K-Similar Strings', 2),
+(855, 'Exam Room', 1),
+(856, 'Score of Parentheses', 1),
+(857, 'Minimum Cost to Hire K Workers', 2),
+(858, 'Mirror Reflection', 1),
+(859, 'Buddy Strings', 0),
+(860, 'Lemonade Change', 0),
+(861, 'Score After Flipping Matrix', 1),
+(862, 'Shortest Subarray with Sum at Least K', 2),
+(863, 'All Nodes Distance K in Binary Tree', 1),
+(864, 'Shortest Path to Get All Keys', 2),
+(865, 'Smallest Subtree with all the Deepest Nodes', 1),
+(866, 'Prime Palindrome', 1),
+(867, 'Transpose Matrix', 0),
+(868, 'Binary Gap', 0),
+(869, 'Reordered Power of 2', 1),
+(870, 'Advantage Shuffle', 1),
+(871, 'Minimum Number of Refueling Stops', 2),
+(872, 'Leaf-Similar Trees', 0),
+(873, 'Length of Longest Fibonacci Subsequence', 1),
+(874, 'Walking Robot Simulation', 1),
+(875, 'Koko Eating Bananas', 1),
+(876, 'Middle of the Linked List', 0),
+(877, 'Stone Game', 1),
+(878, 'Nth Magical Number', 2),
+(879, 'Profitable Schemes', 2),
+(880, 'Decoded String at Index', 1),
+(881, 'Boats to Save People', 1),
+(882, 'Reachable Nodes In Subdivided Graph', 2),
+(883, 'Projection Area of 3D Shapes', 0),
+(884, 'Uncommon Words from Two Sentences', 0),
+(885, 'Spiral Matrix III', 1),
+(886, 'Possible Bipartition', 1),
+(887, 'Super Egg Drop', 2),
+(888, 'Fair Candy Swap', 0),
+(889, 'Construct Binary Tree from Preorder and Postorder Traversal', 1),
+(890, 'Find and Replace Pattern', 1),
+(891, 'Sum of Subsequence Widths', 2),
+(892, 'Surface Area of 3D Shapes', 0),
+(893, 'Groups of Special-Equivalent Strings', 1),
+(894, 'All Possible Full Binary Trees', 1),
+(895, 'Maximum Frequency Stack', 2),
+(896, 'Monotonic Array', 0),
+(897, 'Increasing Order Search Tree', 0),
+(898, 'Bitwise ORs of Subarrays', 1),
+(899, 'Orderly Queue', 2),
+(900, 'RLE Iterator', 1),
+(901, 'Online Stock Span', 1),
+(902, 'Numbers At Most N Given Digit Set', 2),
+(903, 'Valid Permutations for DI Sequence', 2),
+(904, 'Fruit Into Baskets', 1),
+(905, 'Sort Array By Parity', 0),
+(906, 'Super Palindromes', 2),
+(907, 'Sum of Subarray Minimums', 1),
+(908, 'Smallest Range I', 0),
+(909, 'Snakes and Ladders', 1),
+(910, 'Smallest Range II', 1),
+(911, 'Online Election', 1),
+(912, 'Sort an Array', 1),
+(913, 'Cat and Mouse', 2),
+(914, 'X of a Kind in a Deck of Cards', 0),
+(915, 'Partition Array into Disjoint Intervals', 1),
+(916, 'Word Subsets', 1),
+(917, 'Reverse Only Letters', 0),
+(918, 'Maximum Sum Circular Subarray', 1),
+(919, 'Complete Binary Tree Inserter', 1),
+(920, 'Number of Music Playlists', 2),
+(921, 'Minimum Add to Make Parentheses Valid', 1),
+(922, 'Sort Array By Parity II', 0),
+(923, '3Sum With Multiplicity', 1),
+(924, 'Minimize Malware Spread', 2),
+(925, 'Long Pressed Name', 0),
+(926, 'Flip String to Monotone Increasing', 1),
+(927, 'Three Equal Parts', 2),
+(928, 'Minimize Malware Spread II', 2),
+(929, 'Unique Email Addresses', 0),
+(930, 'Binary Subarrays With Sum', 1),
+(931, 'Minimum Falling Path Sum', 1),
+(932, 'Beautiful Array', 1),
+(933, 'Number of Recent Calls', 0),
+(934, 'Shortest Bridge', 1),
+(935, 'Knight Dialer', 1),
+(936, 'Stamping The Sequence', 2),
+(937, 'Reorder Data in Log Files', 1),
+(938, 'Range Sum of BST', 0),
+(939, 'Minimum Area Rectangle', 1),
+(940, 'Distinct Subsequences II', 2),
+(941, 'Valid Mountain Array', 0),
+(942, 'DI String Match', 0),
+(943, 'Find the Shortest Superstring', 2),
+(944, 'Delete Columns to Make Sorted', 0),
+(945, 'Minimum Increment to Make Array Unique', 1),
+(946, 'Validate Stack Sequences', 1),
+(947, 'Most Stones Removed with Same Row or Column', 1),
+(948, 'Bag of Tokens', 1),
+(949, 'Largest Time for Given Digits', 1),
+(950, 'Reveal Cards In Increasing Order', 1),
+(951, 'Flip Equivalent Binary Trees', 1),
+(952, 'Largest Component Size by Common Factor', 2),
+(953, 'Verifying an Alien Dictionary', 0),
+(954, 'Array of Doubled Pairs', 1),
+(955, 'Delete Columns to Make Sorted II', 1),
+(956, 'Tallest Billboard', 2),
+(957, 'Prison Cells After N Days', 1),
+(958, 'Check Completeness of a Binary Tree', 1),
+(959, 'Regions Cut By Slashes', 1),
+(960, 'Delete Columns to Make Sorted III', 2),
+(961, 'N-Repeated Element in Size 2N Array', 0),
+(962, 'Maximum Width Ramp', 1),
+(963, 'Minimum Area Rectangle II', 1),
+(964, 'Least Operators to Express Number', 2),
+(965, 'Univalued Binary Tree', 0),
+(966, 'Vowel Spellchecker', 1),
+(967, 'Numbers With Same Consecutive Differences', 1),
+(968, 'Binary Tree Cameras', 2),
+(969, 'Pancake Sorting', 1),
+(970, 'Powerful Integers', 1),
+(971, 'Flip Binary Tree To Match Preorder Traversal', 1),
+(972, 'Equal Rational Numbers', 2),
+(973, 'K Closest Points to Origin', 1),
+(974, 'Subarray Sums Divisible by K', 1),
+(975, 'Odd Even Jump', 2),
+(976, 'Largest Perimeter Triangle', 0),
+(977, 'Squares of a Sorted Array', 0),
+(978, 'Longest Turbulent Subarray', 1),
+(979, 'Distribute Coins in Binary Tree', 1),
+(980, 'Unique Paths III', 2),
+(981, 'Time Based Key-Value Store', 1),
+(982, 'Triples with Bitwise AND Equal To Zero', 2),
+(983, 'Minimum Cost For Tickets', 1),
+(984, 'String Without AAA or BBB', 1),
+(985, 'Sum of Even Numbers After Queries', 1),
+(986, 'Interval List Intersections', 1),
+(987, 'Vertical Order Traversal of a Binary Tree', 2),
+(988, 'Smallest String Starting From Leaf', 1),
+(989, 'Add to Array-Form of Integer', 0),
+(990, 'Satisfiability of Equality Equations', 1),
+(991, 'Broken Calculator', 1),
+(992, 'Subarrays with K Different Integers', 2),
+(993, 'Cousins in Binary Tree', 0),
+(994, 'Rotting Oranges', 1),
+(995, 'Minimum Number of K Consecutive Bit Flips', 2),
+(996, 'Number of Squareful Arrays', 2),
+(997, 'Find the Town Judge', 0),
+(998, 'Maximum Binary Tree II', 1),
+(999, 'Available Captures for Rook', 0),
+(1000, 'Minimum Cost to Merge Stones', 2);
+
+INSERT INTO Questions ([Number], [Title], [Difficulty])
+VALUES
+(1001, 'Grid Illumination', 2),
+(1002, 'Find Common Characters', 0),
+(1003, 'Check If Word Is Valid After Substitutions', 1),
+(1004, 'Max Consecutive Ones III', 1),
+(1005, 'Maximize Sum Of Array After K Negations', 0),
+(1006, 'Clumsy Factorial', 1),
+(1007, 'Minimum Domino Rotations For Equal Row', 1),
+(1008, 'Construct Binary Search Tree from Preorder Traversal', 1),
+(1009, 'Complement of Base 10 Integer', 0),
+(1010, 'Pairs of Songs With Total Durations Divisible by 60', 1),
+(1011, 'Capacity To Ship Packages Within D Days', 1),
+(1012, 'Numbers With Repeated Digits', 2),
+(1013, 'Partition Array Into Three Parts With Equal Sum', 0),
+(1014, 'Best Sightseeing Pair', 1),
+(1015, 'Smallest Integer Divisible by K', 1),
+(1016, 'Binary String With Substrings Representing 1 To N', 1),
+(1017, 'Convert to Base -2', 1),
+(1018, 'Binary Prefix Divisible By 5', 0),
+(1019, 'Next Greater Node In Linked List', 1),
+(1020, 'Number of Enclaves', 1),
+(1021, 'Remove Outermost Parentheses', 0),
+(1022, 'Sum of Root To Leaf Binary Numbers', 0),
+(1023, 'Camelcase Matching', 1),
+(1024, 'Video Stitching', 1),
+(1025, 'Divisor Game', 0),
+(1026, 'Maximum Difference Between Node and Ancestor', 1),
+(1027, 'Longest Arithmetic Subsequence', 1),
+(1028, 'Recover a Tree From Preorder Traversal', 2),
+(1029, 'Two City Scheduling', 1),
+(1030, 'Matrix Cells in Distance Order', 0),
+(1031, 'Maximum Sum of Two Non-Overlapping Subarrays', 1),
+(1032, 'Stream of Characters', 2),
+(1033, 'Moving Stones Until Consecutive', 1),
+(1034, 'Coloring A Border', 1),
+(1035, 'Uncrossed Lines', 1),
+(1036, 'Escape a Large Maze', 2),
+(1037, 'Valid Boomerang', 0),
+(1038, 'Binary Search Tree to Greater Sum Tree', 1),
+(1039, 'Minimum Score Triangulation of Polygon', 1),
+(1040, 'Moving Stones Until Consecutive II', 1),
+(1041, 'Robot Bounded In Circle', 1),
+(1042, 'Flower Planting With No Adjacent', 1),
+(1043, 'Partition Array for Maximum Sum', 1),
+(1044, 'Longest Duplicate Substring', 2),
+(1045, 'Customers Who Bought All Products', 1),
+(1046, 'Last Stone Weight', 0),
+(1047, 'Remove All Adjacent Duplicates In String', 0),
+(1048, 'Longest String Chain', 1),
+(1049, 'Last Stone Weight II', 1),
+(1050, 'Actors and Directors Who Cooperated At Least Three Times', 0),
+(1051, 'Height Checker', 0),
+(1052, 'Grumpy Bookstore Owner', 1),
+(1053, 'Previous Permutation With One Swap', 1),
+(1054, 'Distant Barcodes', 1),
+(1055, 'Shortest Way to Form String', 1),
+(1056, 'Confusing Number', 0),
+(1057, 'Campus Bikes', 1),
+(1058, 'Minimize Rounding Error to Meet Target', 1),
+(1059, 'All Paths from Source Lead to Destination', 1),
+(1060, 'Missing Element in Sorted Array', 1),
+(1061, 'Lexicographically Smallest Equivalent String', 1),
+(1062, 'Longest Repeating Substring', 1),
+(1063, 'Number of Valid Subarrays', 2),
+(1064, 'Fixed Point', 0),
+(1065, 'Index Pairs of a String', 0),
+(1066, 'Campus Bikes II', 1),
+(1067, 'Digit Count in Range', 2),
+(1068, 'Product Sales Analysis I', 0),
+(1069, 'Product Sales Analysis II', 0),
+(1070, 'Product Sales Analysis III', 1),
+(1071, 'Greatest Common Divisor of Strings', 0),
+(1072, 'Flip Columns For Maximum Number of Equal Rows', 1),
+(1073, 'Adding Two Negabinary Numbers', 1),
+(1074, 'Number of Submatrices That Sum to Target', 2),
+(1075, 'Project Employees I', 0),
+(1076, 'Project Employees II', 0),
+(1077, 'Project Employees III', 1),
+(1078, 'Occurrences After Bigram', 0),
+(1079, 'Letter Tile Possibilities', 1),
+(1080, 'Insufficient Nodes in Root to Leaf Paths', 1),
+(1081, 'Smallest Subsequence of Distinct Characters', 1),
+(1082, 'Sales Analysis I', 0),
+(1083, 'Sales Analysis II', 0),
+(1084, 'Sales Analysis III', 0),
+(1085, 'Sum of Digits in the Minimum Number', 0),
+(1086, 'High Five', 0),
+(1087, 'Brace Expansion', 1),
+(1088, 'Confusing Number II', 2),
+(1089, 'Duplicate Zeros', 0),
+(1090, 'Largest Values From Labels', 1),
+(1091, 'Shortest Path in Binary Matrix', 1),
+(1092, 'Shortest Common Supersequence', 2),
+(1093, 'Statistics from a Large Sample', 1),
+(1094, 'Car Pooling', 1),
+(1095, 'Find in Mountain Array', 2),
+(1096, 'Brace Expansion II', 2),
+(1097, 'Game Play Analysis V', 2),
+(1098, 'Unpopular Books', 1),
+(1099, 'Two Sum Less Than K', 0),
+(1100, 'Find K-Length Substrings With No Repeated Characters', 1),
+(1101, 'The Earliest Moment When Everyone Become Friends', 1),
+(1102, 'Path With Maximum Minimum Value', 1),
+(1103, 'Distribute Candies to People', 0),
+(1104, 'Path In Zigzag Labelled Binary Tree', 1),
+(1105, 'Filling Bookcase Shelves', 1),
+(1106, 'Parsing A Boolean Expression', 2),
+(1107, 'New Users Daily Count', 1),
+(1108, 'Defanging an IP Address', 0),
+(1109, 'Corporate Flight Bookings', 1),
+(1110, 'Delete Nodes And Return Forest', 1),
+(1111, 'Maximum Nesting Depth of Two Valid Parentheses Strings', 1),
+(1112, 'Highest Grade For Each Student', 1),
+(1113, 'Reported Posts', 0),
+(1114, 'Print in Order', 0),
+(1115, 'Print FooBar Alternately', 1),
+(1116, 'Print Zero Even Odd', 1),
+(1117, 'Building H2O', 1),
+(1118, 'Number of Days in a Month', 0),
+(1119, 'Remove Vowels from a String', 0),
+(1120, 'Maximum Average Subtree', 1),
+(1121, 'Divide Array Into Increasing Sequences', 2),
+(1122, 'Relative Sort Array', 0),
+(1123, 'Lowest Common Ancestor of Deepest Leaves', 1),
+(1124, 'Longest Well-Performing Interval', 1),
+(1125, 'Smallest Sufficient Team', 2),
+(1126, 'Active Businesses', 1),
+(1127, 'User Purchase Platform', 2),
+(1128, 'Number of Equivalent Domino Pairs', 0),
+(1129, 'Shortest Path with Alternating Colors', 1),
+(1130, 'Minimum Cost Tree From Leaf Values', 1),
+(1131, 'Maximum of Absolute Value Expression', 1),
+(1132, 'Reported Posts II', 1),
+(1133, 'Largest Unique Number', 0),
+(1134, 'Armstrong Number', 0),
+(1135, 'Connecting Cities With Minimum Cost', 1),
+(1136, 'Parallel Courses', 1),
+(1137, 'N-th Tribonacci Number', 0),
+(1138, 'Alphabet Board Path', 1),
+(1139, 'Largest 1-Bordered Square', 1),
+(1140, 'Stone Game II', 1),
+(1141, 'User Activity for the Past 30 Days I', 0),
+(1142, 'User Activity for the Past 30 Days II', 0),
+(1143, 'Longest Common Subsequence', 1),
+(1144, 'Decrease Elements To Make Array Zigzag', 1),
+(1145, 'Binary Tree Coloring Game', 1),
+(1146, 'Snapshot Array', 1),
+(1147, 'Longest Chunked Palindrome Decomposition', 2),
+(1148, 'Article Views I', 0),
+(1149, 'Article Views II', 1),
+(1150, 'Check If a Number Is Majority Element in a Sorted Array', 0),
+(1151, 'Minimum Swaps to Group All 1''s Together', 1),
+(1152, 'Analyze User Website Visit Pattern', 1),
+(1153, 'String Transforms Into Another String', 2),
+(1154, 'Day of the Year', 0),
+(1155, 'Number of Dice Rolls With Target Sum', 1),
+(1156, 'Swap For Longest Repeated Character Substring', 1),
+(1157, 'Online Majority Element In Subarray', 2),
+(1158, 'Market Analysis I', 1),
+(1159, 'Market Analysis II', 2),
+(1160, 'Find Words That Can Be Formed by Characters', 0),
+(1161, 'Maximum Level Sum of a Binary Tree', 1),
+(1162, 'As Far from Land as Possible', 1),
+(1163, 'Last Substring in Lexicographical Order', 2),
+(1164, 'Product Price at a Given Date', 1),
+(1165, 'Single-Row Keyboard', 0),
+(1166, 'Design File System', 1),
+(1167, 'Minimum Cost to Connect Sticks', 1),
+(1168, 'Optimize Water Distribution in a Village', 2),
+(1169, 'Invalid Transactions', 1),
+(1170, 'Compare Strings by Frequency of the Smallest Character', 1),
+(1171, 'Remove Zero Sum Consecutive Nodes from Linked List', 1),
+(1172, 'Dinner Plate Stacks', 2),
+(1173, 'Immediate Food Delivery I', 0),
+(1174, 'Immediate Food Delivery II', 1),
+(1175, 'Prime Arrangements', 0),
+(1176, 'Diet Plan Performance', 0),
+(1177, 'Can Make Palindrome from Substring', 1),
+(1178, 'Number of Valid Words for Each Puzzle', 2),
+(1179, 'Reformat Department Table', 0),
+(1180, 'Count Substrings with Only One Distinct Letter', 0),
+(1181, 'Before and After Puzzle', 1),
+(1182, 'Shortest Distance to Target Color', 1),
+(1183, 'Maximum Number of Ones', 2),
+(1184, 'Distance Between Bus Stops', 0),
+(1185, 'Day of the Week', 0),
+(1186, 'Maximum Subarray Sum with One Deletion', 1),
+(1187, 'Make Array Strictly Increasing', 2),
+(1188, 'Design Bounded Blocking Queue', 1),
+(1189, 'Maximum Number of Balloons', 0),
+(1190, 'Reverse Substrings Between Each Pair of Parentheses', 1),
+(1191, 'K-Concatenation Maximum Sum', 1),
+(1192, 'Critical Connections in a Network', 2),
+(1193, 'Monthly Transactions I', 1),
+(1194, 'Tournament Winners', 2),
+(1195, 'Fizz Buzz Multithreaded', 1),
+(1196, 'How Many Apples Can You Put into the Basket', 0),
+(1197, 'Minimum Knight Moves', 1),
+(1198, 'Find Smallest Common Element in All Rows', 1),
+(1199, 'Minimum Time to Build Blocks', 2),
+(1200, 'Minimum Absolute Difference', 0),
+(1201, 'Ugly Number III', 1),
+(1202, 'Smallest String With Swaps', 1),
+(1203, 'Sort Items by Groups Respecting Dependencies', 2),
+(1204, 'Last Person to Fit in the Bus', 1),
+(1205, 'Monthly Transactions II', 1),
+(1206, 'Design Skiplist', 2),
+(1207, 'Unique Number of Occurrences', 0),
+(1208, 'Get Equal Substrings Within Budget', 1),
+(1209, 'Remove All Adjacent Duplicates in String II', 1),
+(1210, 'Minimum Moves to Reach Target with Rotations', 2),
+(1211, 'Queries Quality and Percentage', 0),
+(1212, 'Team Scores in Football Tournament', 1),
+(1213, 'Intersection of Three Sorted Arrays', 0),
+(1214, 'Two Sum BSTs', 1),
+(1215, 'Stepping Numbers', 1),
+(1216, 'Valid Palindrome III', 2),
+(1217, 'Minimum Cost to Move Chips to The Same Position', 0),
+(1218, 'Longest Arithmetic Subsequence of Given Difference', 1),
+(1219, 'Path with Maximum Gold', 1),
+(1220, 'Count Vowels Permutation', 2),
+(1221, 'Split a String in Balanced Strings', 0),
+(1222, 'Queens That Can Attack the King', 1),
+(1223, 'Dice Roll Simulation', 2),
+(1224, 'Maximum Equal Frequency', 2),
+(1225, 'Report Contiguous Dates', 2),
+(1226, 'The Dining Philosophers', 1),
+(1227, 'Airplane Seat Assignment Probability', 1),
+(1228, 'Missing Number In Arithmetic Progression', 0),
+(1229, 'Meeting Scheduler', 1),
+(1230, 'Toss Strange Coins', 1),
+(1231, 'Divide Chocolate', 2),
+(1232, 'Check If It Is a Straight Line', 0),
+(1233, 'Remove Sub-Folders from the Filesystem', 1),
+(1234, 'Replace the Substring for Balanced String', 1),
+(1235, 'Maximum Profit in Job Scheduling', 2),
+(1236, 'Web Crawler', 1),
+(1237, 'Find Positive Integer Solution for a Given Equation', 1),
+(1238, 'Circular Permutation in Binary Representation', 1),
+(1239, 'Maximum Length of a Concatenated String with Unique Characters', 1),
+(1240, 'Tiling a Rectangle with the Fewest Squares', 2),
+(1241, 'Number of Comments per Post', 0),
+(1242, 'Web Crawler Multithreaded', 1),
+(1243, 'Array Transformation', 0),
+(1244, 'Design A Leaderboard', 1),
+(1245, 'Tree Diameter', 1),
+(1246, 'Palindrome Removal', 2),
+(1247, 'Minimum Swaps to Make Strings Equal', 1),
+(1248, 'Count Number of Nice Subarrays', 1),
+(1249, 'Minimum Remove to Make Valid Parentheses', 1),
+(1250, 'Check If It Is a Good Array', 2),
+(1251, 'Average Selling Price', 0),
+(1252, 'Cells with Odd Values in a Matrix', 0),
+(1253, 'Reconstruct a 2-Row Binary Matrix', 1),
+(1254, 'Number of Closed Islands', 1),
+(1255, 'Maximum Score Words Formed by Letters', 2),
+(1256, 'Encode Number', 1),
+(1257, 'Smallest Common Region', 1),
+(1258, 'Synonymous Sentences', 1),
+(1259, 'Handshakes That Don''t Cross', 2),
+(1260, 'Shift 2D Grid', 0),
+(1261, 'Find Elements in a Contaminated Binary Tree', 1),
+(1262, 'Greatest Sum Divisible by Three', 1),
+(1263, 'Minimum Moves to Move a Box to Their Target Location', 2),
+(1264, 'Page Recommendations', 1),
+(1265, 'Print Immutable Linked List in Reverse', 1),
+(1266, 'Minimum Time Visiting All Points', 0),
+(1267, 'Count Servers that Communicate', 1),
+(1268, 'Search Suggestions System', 1),
+(1269, 'Number of Ways to Stay in the Same Place After Some Steps', 2),
+(1270, 'All People Report to the Given Manager', 1),
+(1271, 'Hexspeak', 0),
+(1272, 'Remove Interval', 1),
+(1273, 'Delete Tree Nodes', 1),
+(1274, 'Number of Ships in a Rectangle', 2),
+(1275, 'Find Winner on a Tic Tac Toe Game', 0),
+(1276, 'Number of Burgers with No Waste of Ingredients', 1),
+(1277, 'Count Square Submatrices with All Ones', 1),
+(1278, 'Palindrome Partitioning III', 2),
+(1279, 'Traffic Light Controlled Intersection', 0),
+(1280, 'Students and Examinations', 0),
+(1281, 'Subtract the Product and Sum of Digits of an Integer', 0),
+(1282, 'Group the People Given the Group Size They Belong To', 1),
+(1283, 'Find the Smallest Divisor Given a Threshold', 1),
+(1284, 'Minimum Number of Flips to Convert Binary Matrix to Zero Matrix', 2),
+(1285, 'Find the Start and End Number of Continuous Ranges', 1),
+(1286, 'Iterator for Combination', 1),
+(1287, 'Element Appearing More Than 25% In Sorted Array', 0),
+(1288, 'Remove Covered Intervals', 1),
+(1289, 'Minimum Falling Path Sum II', 2),
+(1290, 'Convert Binary Number in a Linked List to Integer', 0),
+(1291, 'Sequential Digits', 1),
+(1292, 'Maximum Side Length of a Square with Sum Less than or Equal to Threshold', 1),
+(1293, 'Shortest Path in a Grid with Obstacles Elimination', 2),
+(1294, 'Weather Type in Each Country', 0),
+(1295, 'Find Numbers with Even Number of Digits', 0),
+(1296, 'Divide Array in Sets of K Consecutive Numbers', 1),
+(1297, 'Maximum Number of Occurrences of a Substring', 1),
+(1298, 'Maximum Candies You Can Get from Boxes', 2),
+(1299, 'Replace Elements with Greatest Element on Right Side', 0),
+(1300, 'Sum of Mutated Array Closest to Target', 1),
+(1301, 'Number of Paths with Max Score', 2),
+(1302, 'Deepest Leaves Sum', 1),
+(1303, 'Find the Team Size', 0),
+(1304, 'Find N Unique Integers Sum up to Zero', 0),
+(1305, 'All Elements in Two Binary Search Trees', 1),
+(1306, 'Jump Game III', 1),
+(1307, 'Verbal Arithmetic Puzzle', 2),
+(1308, 'Running Total for Different Genders', 1),
+(1309, 'Decrypt String from Alphabet to Integer Mapping', 0),
+(1310, 'XOR Queries of a Subarray', 1),
+(1311, 'Get Watched Videos by Your Friends', 1),
+(1312, 'Minimum Insertion Steps to Make a String Palindrome', 2),
+(1313, 'Decompress Run-Length Encoded List', 0),
+(1314, 'Matrix Block Sum', 1),
+(1315, 'Sum of Nodes with Even-Valued Grandparent', 1),
+(1316, 'Distinct Echo Substrings', 2),
+(1317, 'Convert Integer to the Sum of Two No-Zero Integers', 0),
+(1318, 'Minimum Flips to Make a OR b Equal to c', 1),
+(1319, 'Number of Operations to Make Network Connected', 1),
+(1320, 'Minimum Distance to Type a Word Using Two Fingers', 2),
+(1321, 'Restaurant Growth', 1),
+(1322, 'Ads Performance', 0),
+(1323, 'Maximum 69 Number', 0),
+(1324, 'Print Words Vertically', 1),
+(1325, 'Delete Leaves With a Given Value', 1),
+(1326, 'Minimum Number of Taps to Open to Water a Garden', 2),
+(1327, 'List the Products Ordered in a Period', 0),
+(1328, 'Break a Palindrome', 1),
+(1329, 'Sort the Matrix Diagonally', 1),
+(1330, 'Reverse Subarray To Maximize Array Value', 2),
+(1331, 'Rank Transform of an Array', 0),
+(1332, 'Remove Palindromic Subsequences', 0),
+(1333, 'Filter Restaurants by Vegan-Friendly, Price and Distance', 1),
+(1334, 'Find the City With the Smallest Number of Neighbors at a Threshold Distance', 1),
+(1335, 'Minimum Difficulty of a Job Schedule', 2),
+(1336, 'Number of Transactions per Visit', 2),
+(1337, 'The K Weakest Rows in a Matrix', 0),
+(1338, 'Reduce Array Size to The Half', 1),
+(1339, 'Maximum Product of Splitted Binary Tree', 1),
+(1340, 'Jump Game V', 2),
+(1341, 'Movie Rating', 1),
+(1342, 'Number of Steps to Reduce a Number to Zero', 0),
+(1343, 'Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold', 1),
+(1344, 'Angle Between Hands of a Clock', 1),
+(1345, 'Jump Game IV', 2),
+(1346, 'Check If N and Its Double Exist', 0),
+(1347, 'Minimum Number of Steps to Make Two Strings Anagram', 1),
+(1348, 'Tweet Counts Per Frequency', 1),
+(1349, 'Maximum Students Taking Exam', 2),
+(1350, 'Students With Invalid Departments', 0),
+(1351, 'Count Negative Numbers in a Sorted Matrix', 0),
+(1352, 'Product of the Last K Numbers', 1),
+(1353, 'Maximum Number of Events That Can Be Attended', 1),
+(1354, 'Construct Target Array With Multiple Sums', 2),
+(1355, 'Activity Participants', 1),
+(1356, 'Sort Integers by The Number of 1 Bits', 0),
+(1357, 'Apply Discount Every n Orders', 1),
+(1358, 'Number of Substrings Containing All Three Characters', 1),
+(1359, 'Count All Valid Pickup and Delivery Options', 2),
+(1360, 'Number of Days Between Two Dates', 0),
+(1361, 'Validate Binary Tree Nodes', 1),
+(1362, 'Closest Divisors', 1),
+(1363, 'Largest Multiple of Three', 2),
+(1364, 'Number of Trusted Contacts of a Customer', 1),
+(1365, 'How Many Numbers Are Smaller Than the Current Number', 0),
+(1366, 'Rank Teams by Votes', 1),
+(1367, 'Linked List in Binary Tree', 1),
+(1368, 'Minimum Cost to Make at Least One Valid Path in a Grid', 2),
+(1369, 'Get the Second Most Recent Activity', 2),
+(1370, 'Increasing Decreasing String', 0),
+(1371, 'Find the Longest Substring Containing Vowels in Even Counts', 1),
+(1372, 'Longest ZigZag Path in a Binary Tree', 1),
+(1373, 'Maximum Sum BST in Binary Tree', 2),
+(1374, 'Generate a String With Characters That Have Odd Counts', 0),
+(1375, 'Number of Times Binary String Is Prefix-Aligned', 1),
+(1376, 'Time Needed to Inform All Employees', 1),
+(1377, 'Frog Position After T Seconds', 2),
+(1378, 'Replace Employee ID With The Unique Identifier', 0),
+(1379, 'Find a Corresponding Node of a Binary Tree in a Clone of That Tree', 0),
+(1380, 'Lucky Numbers in a Matrix', 0),
+(1381, 'Design a Stack With Increment Operation', 1),
+(1382, 'Balance a Binary Search Tree', 1),
+(1383, 'Maximum Performance of a Team', 2),
+(1384, 'Total Sales Amount by Year', 2),
+(1385, 'Find the Distance Value Between Two Arrays', 0),
+(1386, 'Cinema Seat Allocation', 1),
+(1387, 'Sort Integers by The Power Value', 1),
+(1388, 'Pizza With 3n Slices', 2),
+(1389, 'Create Target Array in the Given Order', 0),
+(1390, 'Four Divisors', 1),
+(1391, 'Check if There is a Valid Path in a Grid', 1),
+(1392, 'Longest Happy Prefix', 2),
+(1393, 'Capital Gain/Loss', 1),
+(1394, 'Find Lucky Integer in an Array', 0),
+(1395, 'Count Number of Teams', 1),
+(1396, 'Design Underground System', 1),
+(1397, 'Find All Good Strings', 2),
+(1398, 'Customers Who Bought Products A and B but Not C', 1),
+(1399, 'Count Largest Group', 0),
+(1400, 'Construct K Palindrome Strings', 1),
+(1401, 'Circle and Rectangle Overlapping', 1),
+(1402, 'Reducing Dishes', 2),
+(1403, 'Minimum Subsequence in Non-Increasing Order', 0),
+(1404, 'Number of Steps to Reduce a Number in Binary Representation to One', 1),
+(1405, 'Longest Happy String', 1),
+(1406, 'Stone Game III', 2),
+(1407, 'Top Travellers', 0),
+(1408, 'String Matching in an Array', 0),
+(1409, 'Queries on a Permutation With Key', 1),
+(1410, 'HTML Entity Parser', 1),
+(1411, 'Number of Ways to Paint N × 3 Grid', 2),
+(1412, 'Find the Quiet Students in All Exams', 2),
+(1413, 'Minimum Value to Get Positive Step by Step Sum', 0),
+(1414, 'Find the Minimum Number of Fibonacci Numbers Whose Sum Is K', 1),
+(1415, 'The k-th Lexicographical String of All Happy Strings of Length n', 1),
+(1416, 'Restore The Array', 2),
+(1417, 'Reformat The String', 0),
+(1418, 'Display Table of Food Orders in a Restaurant', 1),
+(1419, 'Minimum Number of Frogs Croaking', 1),
+(1420, 'Build Array Where You Can Find The Maximum Exactly K Comparisons', 2),
+(1421, 'NPV Queries', 0),
+(1422, 'Maximum Score After Splitting a String', 0),
+(1423, 'Maximum Points You Can Obtain from Cards', 1),
+(1424, 'Diagonal Traverse II', 1),
+(1425, 'Constrained Subsequence Sum', 2),
+(1426, 'Counting Elements', 0),
+(1427, 'Perform String Shifts', 0),
+(1428, 'Leftmost Column with at Least a One', 1),
+(1429, 'First Unique Number', 1),
+(1430, 'Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree', 1),
+(1431, 'Kids With the Greatest Number of Candies', 0),
+(1432, 'Max Difference You Can Get From Changing an Integer', 1),
+(1433, 'Check If a String Can Break Another String', 1),
+(1434, 'Number of Ways to Wear Different Hats to Each Other', 2),
+(1435, 'Create a Session Bar Chart', 0),
+(1436, 'Destination City', 0),
+(1437, 'Check If All 1''s Are at Least Length K Places Away', 0),
+(1438, 'Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit', 1),
+(1439, 'Find the Kth Smallest Sum of a Matrix With Sorted Rows', 2),
+(1440, 'Evaluate Boolean Expression', 1),
+(1441, 'Build an Array With Stack Operations', 1),
+(1442, 'Count Triplets That Can Form Two Arrays of Equal XOR', 1),
+(1443, 'Minimum Time to Collect All Apples in a Tree', 1),
+(1444, 'Number of Ways of Cutting a Pizza', 2),
+(1445, 'Apples & Oranges', 1),
+(1446, 'Consecutive Characters', 0),
+(1447, 'Simplified Fractions', 1),
+(1448, 'Count Good Nodes in Binary Tree', 1),
+(1449, 'Form Largest Integer With Digits That Add up to Target', 2),
+(1450, 'Number of Students Doing Homework at a Given Time', 0),
+(1451, 'Rearrange Words in a Sentence', 1),
+(1452, 'People Whose List of Favorite Companies Is Not a Subset of Another List', 1),
+(1453, 'Maximum Number of Darts Inside of a Circular Dartboard', 2),
+(1454, 'Active Users', 1),
+(1455, 'Check If a Word Occurs As a Prefix of Any Word in a Sentence', 0),
+(1456, 'Maximum Number of Vowels in a Substring of Given Length', 1),
+(1457, 'Pseudo-Palindromic Paths in a Binary Tree', 1),
+(1458, 'Max Dot Product of Two Subsequences', 2),
+(1459, 'Rectangles Area', 1),
+(1460, 'Make Two Arrays Equal by Reversing Subarrays', 0),
+(1461, 'Check If a String Contains All Binary Codes of Size K', 1),
+(1462, 'Course Schedule IV', 1),
+(1463, 'Cherry Pickup II', 2),
+(1464, 'Maximum Product of Two Elements in an Array', 0),
+(1465, 'Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts', 1),
+(1466, 'Reorder Routes to Make All Paths Lead to the City Zero', 1),
+(1467, 'Probability of a Two Boxes Having The Same Number of Distinct Balls', 2),
+(1468, 'Calculate Salaries', 1),
+(1469, 'Find All The Lonely Nodes', 0),
+(1470, 'Shuffle the Array', 0),
+(1471, 'The k Strongest Values in an Array', 1),
+(1472, 'Design Browser History', 1),
+(1473, 'Paint House III', 2),
+(1474, 'Delete N Nodes After M Nodes of a Linked List', 0),
+(1475, 'Final Prices With a Special Discount in a Shop', 0),
+(1476, 'Subrectangle Queries', 1),
+(1477, 'Find Two Non-overlapping Sub-arrays Each With Target Sum', 1),
+(1478, 'Allocate Mailboxes', 2),
+(1479, 'Sales by Day of the Week', 2),
+(1480, 'Running Sum of 1d Array', 0),
+(1481, 'Least Number of Unique Integers after K Removals', 1),
+(1482, 'Minimum Number of Days to Make m Bouquets', 1),
+(1483, 'Kth Ancestor of a Tree Node', 2),
+(1484, 'Group Sold Products By The Date', 0),
+(1485, 'Clone Binary Tree With Random Pointer', 1),
+(1486, 'XOR Operation in an Array', 0),
+(1487, 'Making File Names Unique', 1),
+(1488, 'Avoid Flood in The City', 1),
+(1489, 'Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree', 2),
+(1490, 'Clone N-ary Tree', 1),
+(1491, 'Average Salary Excluding the Minimum and Maximum Salary', 0),
+(1492, 'The kth Factor of n', 1),
+(1493, 'Longest Subarray of 1''s After Deleting One Element', 1),
+(1494, 'Parallel Courses II', 2),
+(1495, 'Friendly Movies Streamed Last Month', 0),
+(1496, 'Path Crossing', 0),
+(1497, 'Check If Array Pairs Are Divisible by k', 1),
+(1498, 'Number of Subsequences That Satisfy the Given Sum Condition', 1),
+(1499, 'Max Value of Equation', 2),
+(1500, 'Design a File Sharing System', 1);
+
+INSERT INTO Questions ([Number], [Title], [Difficulty])
+VALUES
+(1501, 'Countries You Can Safely Invest In', 1),
+(1502, 'Can Make Arithmetic Progression From Sequence', 0),
+(1503, 'Last Moment Before All Ants Fall Out of a Plank', 1),
+(1504, 'Count Submatrices With All Ones', 1),
+(1505, 'Minimum Possible Integer After at Most K Adjacent Swaps On Digits', 2),
+(1506, 'Find Root of N-Ary Tree', 1),
+(1507, 'Reformat Date', 0),
+(1508, 'Range Sum of Sorted Subarray Sums', 1),
+(1509, 'Minimum Difference Between Largest and Smallest Value in Three Moves', 1),
+(1510, 'Stone Game IV', 2),
+(1511, 'Customer Order Frequency', 0),
+(1512, 'Number of Good Pairs', 0),
+(1513, 'Number of Substrings With Only 1s', 1),
+(1514, 'Path with Maximum Probability', 1),
+(1515, 'Best Position for a Service Centre', 2),
+(1516, 'Move Sub-Tree of N-Ary Tree', 2),
+(1517, 'Find Users With Valid E-Mails', 0),
+(1518, 'Water Bottles', 0),
+(1519, 'Number of Nodes in the Sub-Tree With the Same Label', 1),
+(1520, 'Maximum Number of Non-Overlapping Substrings', 2),
+(1521, 'Find a Value of a Mysterious Function Closest to Target', 2),
+(1522, 'Diameter of N-Ary Tree', 1),
+(1523, 'Count Odd Numbers in an Interval Range', 0),
+(1524, 'Number of Sub-arrays With Odd Sum', 1),
+(1525, 'Number of Good Ways to Split a String', 1),
+(1526, 'Minimum Number of Increments on Subarrays to Form a Target Array', 2),
+(1527, 'Patients With a Condition', 0),
+(1528, 'Shuffle String', 0),
+(1529, 'Minimum Suffix Flips', 1),
+(1530, 'Number of Good Leaf Nodes Pairs', 1),
+(1531, 'String Compression II', 2),
+(1532, 'The Most Recent Three Orders', 1),
+(1533, 'Find the Index of the Large Integer', 1),
+(1534, 'Count Good Triplets', 0),
+(1535, 'Find the Winner of an Array Game', 1),
+(1536, 'Minimum Swaps to Arrange a Binary Grid', 1),
+(1537, 'Get the Maximum Score', 2),
+(1538, 'Guess the Majority in a Hidden Array', 1),
+(1539, 'Kth Missing Positive Number', 0),
+(1540, 'Can Convert String in K Moves', 1),
+(1541, 'Minimum Insertions to Balance a Parentheses String', 1),
+(1542, 'Find Longest Awesome Substring', 2),
+(1543, 'Fix Product Name Format', 0),
+(1544, 'Make The String Great', 0),
+(1545, 'Find Kth Bit in Nth Binary String', 1),
+(1546, 'Maximum Number of Non-Overlapping Subarrays With Sum Equals Target', 1),
+(1547, 'Minimum Cost to Cut a Stick', 2),
+(1548, 'The Most Similar Path in a Graph', 2),
+(1549, 'The Most Recent Orders for Each Product', 1),
+(1550, 'Three Consecutive Odds', 0),
+(1551, 'Minimum Operations to Make Array Equal', 1),
+(1552, 'Magnetic Force Between Two Balls', 1),
+(1553, 'Minimum Number of Days to Eat N Oranges', 2),
+(1554, 'Strings Differ by One Character', 1),
+(1555, 'Bank Account Summary', 1),
+(1556, 'Thousand Separator', 0),
+(1557, 'Minimum Number of Vertices to Reach All Nodes', 1),
+(1558, 'Minimum Numbers of Function Calls to Make Target Array', 1),
+(1559, 'Detect Cycles in 2D Grid', 1),
+(1560, 'Most Visited Sector in a Circular Track', 0),
+(1561, 'Maximum Number of Coins You Can Get', 1),
+(1562, 'Find Latest Group of Size M', 1),
+(1563, 'Stone Game V', 2),
+(1564, 'Put Boxes Into the Warehouse I', 1),
+(1565, 'Unique Orders and Customers Per Month', 0),
+(1566, 'Detect Pattern of Length M Repeated K or More Times', 0),
+(1567, 'Maximum Length of Subarray With Positive Product', 1),
+(1568, 'Minimum Number of Days to Disconnect Island', 2),
+(1569, 'Number of Ways to Reorder Array to Get Same BST', 2),
+(1570, 'Dot Product of Two Sparse Vectors', 1),
+(1571, 'Warehouse Manager', 0),
+(1572, 'Matrix Diagonal Sum', 0),
+(1573, 'Number of Ways to Split a String', 1),
+(1574, 'Shortest Subarray to be Removed to Make Array Sorted', 1),
+(1575, 'Count All Possible Routes', 2),
+(1576, 'Replace All ?''s to Avoid Consecutive Repeating Characters', 0),
+(1577, 'Number of Ways Where Square of Number Is Equal to Product of Two Numbers', 1),
+(1578, 'Minimum Time to Make Rope Colorful', 1),
+(1579, 'Remove Max Number of Edges to Keep Graph Fully Traversable', 2),
+(1580, 'Put Boxes Into the Warehouse II', 1),
+(1581, 'Customer Who Visited but Did Not Make Any Transactions', 0),
+(1582, 'Special Positions in a Binary Matrix', 0),
+(1583, 'Count Unhappy Friends', 1),
+(1584, 'Min Cost to Connect All Points', 1),
+(1585, 'Check If String Is Transformable With Substring Sort Operations', 2),
+(1586, 'Binary Search Tree Iterator II', 1),
+(1587, 'Bank Account Summary II', 0),
+(1588, 'Sum of All Odd Length Subarrays', 0),
+(1589, 'Maximum Sum Obtained of Any Permutation', 1),
+(1590, 'Make Sum Divisible by P', 1),
+(1591, 'Strange Printer II', 2),
+(1592, 'Rearrange Spaces Between Words', 0),
+(1593, 'Split a String Into the Max Number of Unique Substrings', 1),
+(1594, 'Maximum Non Negative Product in a Matrix', 1),
+(1595, 'Minimum Cost to Connect Two Groups of Points', 2),
+(1596, 'The Most Frequently Ordered Products for Each Customer', 1),
+(1597, 'Build Binary Expression Tree From Infix Expression', 2),
+(1598, 'Crawler Log Folder', 0),
+(1599, 'Maximum Profit of Operating a Centennial Wheel', 1),
+(1600, 'Throne Inheritance', 1),
+(1601, 'Maximum Number of Achievable Transfer Requests', 2),
+(1602, 'Find Nearest Right Node in Binary Tree', 1),
+(1603, 'Design Parking System', 0),
+(1604, 'Alert Using Same Key-Card Three or More Times in a One Hour Period', 1),
+(1605, 'Find Valid Matrix Given Row and Column Sums', 1),
+(1606, 'Find Servers That Handled Most Number of Requests', 2),
+(1607, 'Sellers With No Sales', 0),
+(1608, 'Special Array With X Elements Greater Than or Equal X', 0),
+(1609, 'Even Odd Tree', 1),
+(1610, 'Maximum Number of Visible Points', 2),
+(1611, 'Minimum One Bit Operations to Make Integers Zero', 2),
+(1612, 'Check If Two Expression Trees are Equivalent', 1),
+(1613, 'Find the Missing IDs', 1),
+(1614, 'Maximum Nesting Depth of the Parentheses', 0),
+(1615, 'Maximal Network Rank', 1),
+(1616, 'Split Two Strings to Make Palindrome', 1),
+(1617, 'Count Subtrees With Max Distance Between Cities', 2),
+(1618, 'Maximum Font to Fit a Sentence in a Screen', 1),
+(1619, 'Mean of Array After Removing Some Elements', 0),
+(1620, 'Coordinate With Maximum Network Quality', 1),
+(1621, 'Number of Sets of K Non-Overlapping Line Segments', 1),
+(1622, 'Fancy Sequence', 2),
+(1623, 'All Valid Triplets That Can Represent a Country', 0),
+(1624, 'Largest Substring Between Two Equal Characters', 0),
+(1625, 'Lexicographically Smallest String After Applying Operations', 1),
+(1626, 'Best Team With No Conflicts', 1),
+(1627, 'Graph Connectivity With Threshold', 2),
+(1628, 'Design an Expression Tree With Evaluate Function', 1),
+(1629, 'Slowest Key', 0),
+(1630, 'Arithmetic Subarrays', 1),
+(1631, 'Path With Minimum Effort', 1),
+(1632, 'Rank Transform of a Matrix', 2),
+(1633, 'Percentage of Users Attended a Contest', 0),
+(1634, 'Add Two Polynomials Represented as Linked Lists', 1),
+(1635, 'Hopper Company Queries I', 2),
+(1636, 'Sort Array by Increasing Frequency', 0),
+(1637, 'Widest Vertical Area Between Two Points Containing No Points', 0),
+(1638, 'Count Substrings That Differ by One Character', 1),
+(1639, 'Number of Ways to Form a Target String Given a Dictionary', 2),
+(1640, 'Check Array Formation Through Concatenation', 0),
+(1641, 'Count Sorted Vowel Strings', 1),
+(1642, 'Furthest Building You Can Reach', 1),
+(1643, 'Kth Smallest Instructions', 2),
+(1644, 'Lowest Common Ancestor of a Binary Tree II', 1),
+(1645, 'Hopper Company Queries II', 2),
+(1646, 'Get Maximum in Generated Array', 0),
+(1647, 'Minimum Deletions to Make Character Frequencies Unique', 1),
+(1648, 'Sell Diminishing-Valued Colored Balls', 1),
+(1649, 'Create Sorted Array through Instructions', 2),
+(1650, 'Lowest Common Ancestor of a Binary Tree III', 1),
+(1651, 'Hopper Company Queries III', 2),
+(1652, 'Defuse the Bomb', 0),
+(1653, 'Minimum Deletions to Make String Balanced', 1),
+(1654, 'Minimum Jumps to Reach Home', 1),
+(1655, 'Distribute Repeating Integers', 2),
+(1656, 'Design an Ordered Stream', 0),
+(1657, 'Determine if Two Strings Are Close', 1),
+(1658, 'Minimum Operations to Reduce X to Zero', 1),
+(1659, 'Maximize Grid Happiness', 2),
+(1660, 'Correct a Binary Tree', 1),
+(1661, 'Average Time of Process per Machine', 0),
+(1662, 'Check If Two String Arrays are Equivalent', 0),
+(1663, 'Smallest String With A Given Numeric Value', 1),
+(1664, 'Ways to Make a Fair Array', 1),
+(1665, 'Minimum Initial Energy to Finish Tasks', 2),
+(1666, 'Change the Root of a Binary Tree', 1),
+(1667, 'Fix Names in a Table', 0),
+(1668, 'Maximum Repeating Substring', 0),
+(1669, 'Merge In Between Linked Lists', 1),
+(1670, 'Design Front Middle Back Queue', 1),
+(1671, 'Minimum Number of Removals to Make Mountain Array', 2),
+(1672, 'Richest Customer Wealth', 0),
+(1673, 'Find the Most Competitive Subsequence', 1),
+(1674, 'Minimum Moves to Make Array Complementary', 1),
+(1675, 'Minimize Deviation in Array', 2),
+(1676, 'Lowest Common Ancestor of a Binary Tree IV', 1),
+(1677, 'Product''s Worth Over Invoices', 0),
+(1678, 'Goal Parser Interpretation', 0),
+(1679, 'Max Number of K-Sum Pairs', 1),
+(1680, 'Concatenation of Consecutive Binary Numbers', 1),
+(1681, 'Minimum Incompatibility', 2),
+(1682, 'Longest Palindromic Subsequence II', 1),
+(1683, 'Invalid Tweets', 0),
+(1684, 'Count the Number of Consistent Strings', 0),
+(1685, 'Sum of Absolute Differences in a Sorted Array', 1),
+(1686, 'Stone Game VI', 1),
+(1687, 'Delivering Boxes from Storage to Ports', 2),
+(1688, 'Count of Matches in Tournament', 0),
+(1689, 'Partitioning Into Minimum Number Of Deci-Binary Numbers', 1),
+(1690, 'Stone Game VII', 1),
+(1691, 'Maximum Height by Stacking Cuboids', 2),
+(1692, 'Count Ways to Distribute Candies', 2),
+(1693, 'Daily Leads and Partners', 0),
+(1694, 'Reformat Phone Number', 0),
+(1695, 'Maximum Erasure Value', 1),
+(1696, 'Jump Game VI', 1),
+(1697, 'Checking Existence of Edge Length Limited Paths', 2),
+(1698, 'Number of Distinct Substrings in a String', 1),
+(1699, 'Number of Calls Between Two Persons', 1),
+(1700, 'Number of Students Unable to Eat Lunch', 0),
+(1701, 'Average Waiting Time', 1),
+(1702, 'Maximum Binary String After Change', 1),
+(1703, 'Minimum Adjacent Swaps for K Consecutive Ones', 2),
+(1704, 'Determine if String Halves Are Alike', 0),
+(1705, 'Maximum Number of Eaten Apples', 1),
+(1706, 'Where Will the Ball Fall', 1),
+(1707, 'Maximum XOR With an Element From Array', 2),
+(1708, 'Largest Subarray Length K', 0),
+(1709, 'Biggest Window Between Visits', 1),
+(1710, 'Maximum Units on a Truck', 0),
+(1711, 'Count Good Meals', 1),
+(1712, 'Ways to Split Array Into Three Subarrays', 1),
+(1713, 'Minimum Operations to Make a Subsequence', 2),
+(1714, 'Sum Of Special Evenly-Spaced Elements In Array', 2),
+(1715, 'Count Apples and Oranges', 1),
+(1716, 'Calculate Money in Leetcode Bank', 0),
+(1717, 'Maximum Score From Removing Substrings', 1),
+(1718, 'Construct the Lexicographically Largest Valid Sequence', 1),
+(1719, 'Number Of Ways To Reconstruct A Tree', 2),
+(1720, 'Decode XORed Array', 0),
+(1721, 'Swapping Nodes in a Linked List', 1),
+(1722, 'Minimize Hamming Distance After Swap Operations', 1),
+(1723, 'Find Minimum Time to Finish All Jobs', 2),
+(1724, 'Checking Existence of Edge Length Limited Paths II', 2),
+(1725, 'Number Of Rectangles That Can Form The Largest Square', 0),
+(1726, 'Tuple with Same Product', 1),
+(1727, 'Largest Submatrix With Rearrangements', 1),
+(1728, 'Cat and Mouse II', 2),
+(1729, 'Find Followers Count', 0),
+(1730, 'Shortest Path to Get Food', 1),
+(1731, 'The Number of Employees Which Report to Each Employee', 0),
+(1732, 'Find the Highest Altitude', 0),
+(1733, 'Minimum Number of People to Teach', 1),
+(1734, 'Decode XORed Permutation', 1),
+(1735, 'Count Ways to Make Array With Product', 2),
+(1736, 'Latest Time by Replacing Hidden Digits', 0),
+(1737, 'Change Minimum Characters to Satisfy One of Three Conditions', 1),
+(1738, 'Find Kth Largest XOR Coordinate Value', 1),
+(1739, 'Building Boxes', 2),
+(1740, 'Find Distance in a Binary Tree', 1),
+(1741, 'Find Total Time Spent by Each Employee', 0),
+(1742, 'Maximum Number of Balls in a Box', 0),
+(1743, 'Restore the Array From Adjacent Pairs', 1),
+(1744, 'Can You Eat Your Favorite Candy on Your Favorite Day?', 1),
+(1745, 'Palindrome Partitioning IV', 2),
+(1746, 'Maximum Subarray Sum After One Operation', 1),
+(1747, 'Leetflex Banned Accounts', 1),
+(1748, 'Sum of Unique Elements', 0),
+(1749, 'Maximum Absolute Sum of Any Subarray', 1),
+(1750, 'Minimum Length of String After Deleting Similar Ends', 1),
+(1751, 'Maximum Number of Events That Can Be Attended II', 2),
+(1752, 'Check if Array Is Sorted and Rotated', 0),
+(1753, 'Maximum Score From Removing Stones', 1),
+(1754, 'Largest Merge Of Two Strings', 1),
+(1755, 'Closest Subsequence Sum', 2),
+(1756, 'Design Most Recently Used Queue', 1),
+(1757, 'Recyclable and Low Fat Products', 0),
+(1758, 'Minimum Changes To Make Alternating Binary String', 0),
+(1759, 'Count Number of Homogenous Substrings', 1),
+(1760, 'Minimum Limit of Balls in a Bag', 1),
+(1761, 'Minimum Degree of a Connected Trio in a Graph', 2),
+(1762, 'Buildings With an Ocean View', 1),
+(1763, 'Longest Nice Substring', 0),
+(1764, 'Form Array by Concatenating Subarrays of Another Array', 1),
+(1765, 'Map of Highest Peak', 1),
+(1766, 'Tree of Coprimes', 2),
+(1767, 'Find the Subtasks That Did Not Execute', 2),
+(1768, 'Merge Strings Alternately', 0),
+(1769, 'Minimum Number of Operations to Move All Balls to Each Box', 1),
+(1770, 'Maximum Score from Performing Multiplication Operations', 2),
+(1771, 'Maximize Palindrome Length From Subsequences', 2),
+(1772, 'Sort Features by Popularity', 1),
+(1773, 'Count Items Matching a Rule', 0),
+(1774, 'Closest Dessert Cost', 1),
+(1775, 'Equal Sum Arrays With Minimum Number of Operations', 1),
+(1776, 'Car Fleet II', 2),
+(1777, 'Product''s Price for Each Store', 0),
+(1778, 'Shortest Path in a Hidden Grid', 1),
+(1779, 'Find Nearest Point That Has the Same X or Y Coordinate', 0),
+(1780, 'Check if Number is a Sum of Powers of Three', 1),
+(1781, 'Sum of Beauty of All Substrings', 1),
+(1782, 'Count Pairs Of Nodes', 2),
+(1783, 'Grand Slam Titles', 1),
+(1784, 'Check if Binary String Has at Most One Segment of Ones', 0),
+(1785, 'Minimum Elements to Add to Form a Given Sum', 1),
+(1786, 'Number of Restricted Paths From First to Last Node', 1),
+(1787, 'Make the XOR of All Segments Equal to Zero', 2),
+(1788, 'Maximize the Beauty of the Garden', 2),
+(1789, 'Primary Department for Each Employee', 0),
+(1790, 'Check if One String Swap Can Make Strings Equal', 0),
+(1791, 'Find Center of Star Graph', 0),
+(1792, 'Maximum Average Pass Ratio', 1),
+(1793, 'Maximum Score of a Good Subarray', 2),
+(1794, 'Count Pairs of Equal Substrings With Minimum Difference', 1),
+(1795, 'Rearrange Products Table', 0),
+(1796, 'Second Largest Digit in a String', 0),
+(1797, 'Design Authentication Manager', 1),
+(1798, 'Maximum Number of Consecutive Values You Can Make', 1),
+(1799, 'Maximize Score After N Operations', 2),
+(1800, 'Maximum Ascending Subarray Sum', 0),
+(1801, 'Number of Orders in the Backlog', 1),
+(1802, 'Maximum Value at a Given Index in a Bounded Array', 1),
+(1803, 'Count Pairs With XOR in a Range', 2),
+(1804, 'Implement Trie II (Prefix Tree)', 1),
+(1805, 'Number of Different Integers in a String', 0),
+(1806, 'Minimum Number of Operations to Reinitialize a Permutation', 1),
+(1807, 'Evaluate the Bracket Pairs of a String', 1),
+(1808, 'Maximize Number of Nice Divisors', 2),
+(1809, 'Ad-Free Sessions', 0),
+(1810, 'Minimum Path Cost in a Hidden Grid', 1),
+(1811, 'Find Interview Candidates', 1),
+(1812, 'Determine Color of a Chessboard Square', 0),
+(1813, 'Sentence Similarity III', 1),
+(1814, 'Count Nice Pairs in an Array', 1),
+(1815, 'Maximum Number of Groups Getting Fresh Donuts', 2),
+(1816, 'Truncate Sentence', 0),
+(1817, 'Finding the Users Active Minutes', 1),
+(1818, 'Minimum Absolute Sum Difference', 1),
+(1819, 'Number of Different Subsequences GCDs', 2),
+(1820, 'Maximum Number of Accepted Invitations', 1),
+(1821, 'Find Customers With Positive Revenue this Year', 0),
+(1822, 'Sign of the Product of an Array', 0),
+(1823, 'Find the Winner of the Circular Game', 1),
+(1824, 'Minimum Sideway Jumps', 1),
+(1825, 'Finding MK Average', 2),
+(1826, 'Faulty Sensor', 0),
+(1827, 'Minimum Operations to Make the Array Increasing', 0),
+(1828, 'Queries on Number of Points Inside a Circle', 1),
+(1829, 'Maximum XOR for Each Query', 1),
+(1830, 'Minimum Number of Operations to Make String Sorted', 2),
+(1831, 'Maximum Transaction Each Day', 1),
+(1832, 'Check if the Sentence Is Pangram', 0),
+(1833, 'Maximum Ice Cream Bars', 1),
+(1834, 'Single-Threaded CPU', 1),
+(1835, 'Find XOR Sum of All Pairs Bitwise AND', 2),
+(1836, 'Remove Duplicates From an Unsorted Linked List', 1),
+(1837, 'Sum of Digits in Base K', 0),
+(1838, 'Frequency of the Most Frequent Element', 1),
+(1839, 'Longest Substring Of All Vowels in Order', 1),
+(1840, 'Maximum Building Height', 2),
+(1841, 'League Statistics', 1),
+(1842, 'Next Palindrome Using Same Digits', 2),
+(1843, 'Suspicious Bank Accounts', 1),
+(1844, 'Replace All Digits with Characters', 0),
+(1845, 'Seat Reservation Manager', 1),
+(1846, 'Maximum Element After Decreasing and Rearranging', 1),
+(1847, 'Closest Room', 2),
+(1848, 'Minimum Distance to the Target Element', 0),
+(1849, 'Splitting a String Into Descending Consecutive Values', 1),
+(1850, 'Minimum Adjacent Swaps to Reach the Kth Smallest Number', 1),
+(1851, 'Minimum Interval to Include Each Query', 2),
+(1852, 'Distinct Numbers in Each Subarray', 1),
+(1853, 'Convert Date Format', 0),
+(1854, 'Maximum Population Year', 0),
+(1855, 'Maximum Distance Between a Pair of Values', 1),
+(1856, 'Maximum Subarray Min-Product', 1),
+(1857, 'Largest Color Value in a Directed Graph', 2),
+(1858, 'Longest Word With All Prefixes', 1),
+(1859, 'Sorting the Sentence', 0),
+(1860, 'Incremental Memory Leak', 1),
+(1861, 'Rotating the Box', 1),
+(1862, 'Sum of Floored Pairs', 2),
+(1863, 'Sum of All Subset XOR Totals', 0),
+(1864, 'Minimum Number of Swaps to Make the Binary String Alternating', 1),
+(1865, 'Finding Pairs With a Certain Sum', 1),
+(1866, 'Number of Ways to Rearrange Sticks With K Sticks Visible', 2),
+(1867, 'Orders With Maximum Quantity Above Average', 1),
+(1868, 'Product of Two Run-Length Encoded Arrays', 1),
+(1869, 'Longer Contiguous Segments of Ones than Zeros', 0),
+(1870, 'Minimum Speed to Arrive on Time', 1),
+(1871, 'Jump Game VII', 1),
+(1872, 'Stone Game VIII', 2),
+(1873, 'Calculate Special Bonus', 0),
+(1874, 'Minimize Product Sum of Two Arrays', 1),
+(1875, 'Group Employees of the Same Salary', 1),
+(1876, 'Substrings of Size Three with Distinct Characters', 0),
+(1877, 'Minimize Maximum Pair Sum in Array', 1),
+(1878, 'Get Biggest Three Rhombus Sums in a Grid', 1),
+(1879, 'Minimum XOR Sum of Two Arrays', 2),
+(1880, 'Check if Word Equals Summation of Two Words', 0),
+(1881, 'Maximum Value after Insertion', 1),
+(1882, 'Process Tasks Using Servers', 1),
+(1883, 'Minimum Skips to Arrive at Meeting On Time', 2),
+(1884, 'Egg Drop With 2 Eggs and N Floors', 1),
+(1885, 'Count Pairs in Two Arrays', 1),
+(1886, 'Determine Whether Matrix Can Be Obtained By Rotation', 0),
+(1887, 'Reduction Operations to Make the Array Elements Equal', 1),
+(1888, 'Minimum Number of Flips to Make the Binary String Alternating', 1),
+(1889, 'Minimum Space Wasted From Packaging', 2),
+(1890, 'The Latest Login in 2020', 0),
+(1891, 'Cutting Ribbons', 1),
+(1892, 'Page Recommendations II', 2),
+(1893, 'Check if All the Integers in a Range Are Covered', 0),
+(1894, 'Find the Student that Will Replace the Chalk', 1),
+(1895, 'Largest Magic Square', 1),
+(1896, 'Minimum Cost to Change the Final Value of Expression', 2),
+(1897, 'Redistribute Characters to Make All Strings Equal', 0),
+(1898, 'Maximum Number of Removable Characters', 1),
+(1899, 'Merge Triplets to Form Target Triplet', 1),
+(1900, 'The Earliest and Latest Rounds Where Players Compete', 2),
+(1901, 'Find a Peak Element II', 1),
+(1902, 'Depth of BST Given Insertion Order', 1),
+(1903, 'Largest Odd Number in String', 0),
+(1904, 'The Number of Full Rounds You Have Played', 1),
+(1905, 'Count Sub Islands', 1),
+(1906, 'Minimum Absolute Difference Queries', 1),
+(1907, 'Count Salary Categories', 1),
+(1908, 'Game of Nim', 1),
+(1909, 'Remove One Element to Make the Array Strictly Increasing', 0),
+(1910, 'Remove All Occurrences of a Substring', 1),
+(1911, 'Maximum Alternating Subsequence Sum', 1),
+(1912, 'Design Movie Rental System', 2),
+(1913, 'Maximum Product Difference Between Two Pairs', 0),
+(1914, 'Cyclically Rotating a Grid', 1),
+(1915, 'Number of Wonderful Substrings', 1),
+(1916, 'Count Ways to Build Rooms in an Ant Colony', 2),
+(1917, 'Leetcodify Friends Recommendations', 2),
+(1918, 'Kth Smallest Subarray Sum', 1),
+(1919, 'Leetcodify Similar Friends', 2),
+(1920, 'Build Array from Permutation', 0),
+(1921, 'Eliminate Maximum Number of Monsters', 1),
+(1922, 'Count Good Numbers', 1),
+(1923, 'Longest Common Subpath', 2),
+(1924, 'Erect the Fence II', 2),
+(1925, 'Count Square Sum Triples', 0),
+(1926, 'Nearest Exit from Entrance in Maze', 1),
+(1927, 'Sum Game', 1),
+(1928, 'Minimum Cost to Reach Destination in Time', 2),
+(1929, 'Concatenation of Array', 0),
+(1930, 'Unique Length-3 Palindromic Subsequences', 1),
+(1931, 'Painting a Grid With Three Different Colors', 2),
+(1932, 'Merge BSTs to Create Single BST', 2),
+(1933, 'Check if String Is Decomposable Into Value-Equal Substrings', 0),
+(1934, 'Confirmation Rate', 1),
+(1935, 'Maximum Number of Words You Can Type', 0),
+(1936, 'Add Minimum Number of Rungs', 1),
+(1937, 'Maximum Number of Points with Cost', 1),
+(1938, 'Maximum Genetic Difference Query', 2),
+(1939, 'Users That Actively Request Confirmation Messages', 0),
+(1940, 'Longest Common Subsequence Between Sorted Arrays', 1),
+(1941, 'Check if All Characters Have Equal Number of Occurrences', 0),
+(1942, 'The Number of the Smallest Unoccupied Chair', 1),
+(1943, 'Describe the Painting', 1),
+(1944, 'Number of Visible People in a Queue', 2),
+(1945, 'Sum of Digits of String After Convert', 0),
+(1946, 'Largest Number After Mutating Substring', 1),
+(1947, 'Maximum Compatibility Score Sum', 1),
+(1948, 'Delete Duplicate Folders in System', 2),
+(1949, 'Strong Friendship', 1),
+(1950, 'Maximum of Minimum Values in All Subarrays', 1),
+(1951, 'All the Pairs With the Maximum Number of Common Followers', 1),
+(1952, 'Three Divisors', 0),
+(1953, 'Maximum Number of Weeks for Which You Can Work', 1),
+(1954, 'Minimum Garden Perimeter to Collect Enough Apples', 1),
+(1955, 'Count Number of Special Subsequences', 2),
+(1956, 'Minimum Time For K Virus Variants to Spread', 2),
+(1957, 'Delete Characters to Make Fancy String', 0),
+(1958, 'Check if Move is Legal', 1),
+(1959, 'Minimum Total Space Wasted With K Resizing Operations', 1),
+(1960, 'Maximum Product of the Length of Two Palindromic Substrings', 2),
+(1961, 'Check If String Is a Prefix of Array', 0),
+(1962, 'Remove Stones to Minimize the Total', 1),
+(1963, 'Minimum Number of Swaps to Make the String Balanced', 1),
+(1964, 'Find the Longest Valid Obstacle Course at Each Position', 2),
+(1965, 'Employees With Missing Information', 0),
+(1966, 'Binary Searchable Numbers in an Unsorted Array', 1),
+(1967, 'Number of Strings That Appear as Substrings in Word', 0),
+(1968, 'Array With Elements Not Equal to Average of Neighbors', 1),
+(1969, 'Minimum Non-Zero Product of the Array Elements', 1),
+(1970, 'Last Day Where You Can Still Cross', 2),
+(1971, 'Find if Path Exists in Graph', 0),
+(1972, 'First and Last Call On the Same Day', 2),
+(1973, 'Count Nodes Equal to Sum of Descendants', 1),
+(1974, 'Minimum Time to Type Word Using Special Typewriter', 0),
+(1975, 'Maximum Matrix Sum', 1),
+(1976, 'Number of Ways to Arrive at Destination', 1),
+(1977, 'Number of Ways to Separate Numbers', 2),
+(1978, 'Employees Whose Manager Left the Company', 0),
+(1979, 'Find Greatest Common Divisor of Array', 0),
+(1980, 'Find Unique Binary String', 1),
+(1981, 'Minimize the Difference Between Target and Chosen Elements', 1),
+(1982, 'Find Array Given Subset Sums', 2),
+(1983, 'Widest Pair of Indices With Equal Range Sum', 1),
+(1984, 'Minimum Difference Between Highest and Lowest of K Scores', 0),
+(1985, 'Find the Kth Largest Integer in the Array', 1),
+(1986, 'Minimum Number of Work Sessions to Finish the Tasks', 1),
+(1987, 'Number of Unique Good Subsequences', 2),
+(1988, 'Find Cutoff Score for Each School', 1),
+(1989, 'Maximum Number of People That Can Be Caught in Tag', 1),
+(1990, 'Count the Number of Experiments', 1),
+(1991, 'Find the Middle Index in Array', 0),
+(1992, 'Find All Groups of Farmland', 1),
+(1993, 'Operations on Tree', 1),
+(1994, 'The Number of Good Subsets', 2),
+(1995, 'Count Special Quadruplets', 0),
+(1996, 'The Number of Weak Characters in the Game', 1),
+(1997, 'First Day Where You Have Been in All the Rooms', 1),
+(1998, 'GCD Sort of an Array', 2),
+(1999, 'Smallest Greater Multiple Made of Two Digits', 1),
+(2000, 'Reverse Prefix of Word', 0);
+
+INSERT INTO Questions ([Number], [Title], [Difficulty])
+VALUES
+(2001, 'Number of Pairs of Interchangeable Rectangles', 1),
+(2002, 'Maximum Product of the Length of Two Palindromic Subsequences', 1),
+(2003, 'Smallest Missing Genetic Value in Each Subtree', 2),
+(2004, 'The Number of Seniors and Juniors to Join the Company', 2),
+(2005, 'Subtree Removal Game with Fibonacci Tree', 2),
+(2006, 'Count Number of Pairs With Absolute Difference K', 0),
+(2007, 'Find Original Array From Doubled Array', 1),
+(2008, 'Maximum Earnings From Taxi', 1),
+(2009, 'Minimum Number of Operations to Make Array Continuous', 2),
+(2010, 'The Number of Seniors and Juniors to Join the Company II', 2),
+(2011, 'Final Value of Variable After Performing Operations', 0),
+(2012, 'Sum of Beauty in the Array', 1),
+(2013, 'Detect Squares', 1),
+(2014, 'Longest Subsequence Repeated k Times', 2),
+(2015, 'Average Height of Buildings in Each Segment', 1),
+(2016, 'Maximum Difference Between Increasing Elements', 0),
+(2017, 'Grid Game', 1),
+(2018, 'Check if Word Can Be Placed In Crossword', 1),
+(2019, 'The Score of Students Solving Math Expression', 2),
+(2020, 'Number of Accounts That Did Not Stream', 1),
+(2021, 'Brightest Position on Street', 1),
+(2022, 'Convert 1D Array Into 2D Array', 0),
+(2023, 'Number of Pairs of Strings With Concatenation Equal to Target', 1),
+(2024, 'Maximize the Confusion of an Exam', 1),
+(2025, 'Maximum Number of Ways to Partition an Array', 2),
+(2026, 'Low-Quality Problems', 0),
+(2027, 'Minimum Moves to Convert String', 0),
+(2028, 'Find Missing Observations', 1),
+(2029, 'Stone Game IX', 1),
+(2030, 'Smallest K-Length Subsequence With Occurrences of a Letter', 2),
+(2031, 'Count Subarrays With More Ones Than Zeros', 1),
+(2032, 'Two Out of Three', 0),
+(2033, 'Minimum Operations to Make a Uni-Value Grid', 1),
+(2034, 'Stock Price Fluctuation', 1),
+(2035, 'Partition Array Into Two Arrays to Minimize Sum Difference', 2),
+(2036, 'Maximum Alternating Subarray Sum', 1),
+(2037, 'Minimum Number of Moves to Seat Everyone', 0),
+(2038, 'Remove Colored Pieces if Both Neighbors are the Same Color', 1),
+(2039, 'The Time When the Network Becomes Idle', 1),
+(2040, 'Kth Smallest Product of Two Sorted Arrays', 2),
+(2041, 'Accepted Candidates From the Interviews', 1),
+(2042, 'Check if Numbers Are Ascending in a Sentence', 0),
+(2043, 'Simple Bank System', 1),
+(2044, 'Count Number of Maximum Bitwise-OR Subsets', 1),
+(2045, 'Second Minimum Time to Reach Destination', 2),
+(2046, 'Sort Linked List Already Sorted Using Absolute Values', 1),
+(2047, 'Number of Valid Words in a Sentence', 0),
+(2048, 'Next Greater Numerically Balanced Number', 1),
+(2049, 'Count Nodes With the Highest Score', 1),
+(2050, 'Parallel Courses III', 2),
+(2051, 'The Category of Each Member in the Store', 1),
+(2052, 'Minimum Cost to Separate Sentence Into Rows', 1),
+(2053, 'Kth Distinct String in an Array', 0),
+(2054, 'Two Best Non-Overlapping Events', 1),
+(2055, 'Plates Between Candles', 1),
+(2056, 'Number of Valid Move Combinations On Chessboard', 2),
+(2057, 'Smallest Index With Equal Value', 0),
+(2058, 'Find the Minimum and Maximum Number of Nodes Between Critical Points', 1),
+(2059, 'Minimum Operations to Convert Number', 1),
+(2060, 'Check if an Original String Exists Given Two Encoded Strings', 2),
+(2061, 'Number of Spaces Cleaning Robot Cleaned', 1),
+(2062, 'Count Vowel Substrings of a String', 0),
+(2063, 'Vowels of All Substrings', 1),
+(2064, 'Minimized Maximum of Products Distributed to Any Store', 1),
+(2065, 'Maximum Path Quality of a Graph', 2),
+(2066, 'Account Balance', 1),
+(2067, 'Number of Equal Count Substrings', 1),
+(2068, 'Check Whether Two Strings are Almost Equivalent', 0),
+(2069, 'Walking Robot Simulation II', 1),
+(2070, 'Most Beautiful Item for Each Query', 1),
+(2071, 'Maximum Number of Tasks You Can Assign', 2),
+(2072, 'The Winner University', 0),
+(2073, 'Time Needed to Buy Tickets', 0),
+(2074, 'Reverse Nodes in Even Length Groups', 1),
+(2075, 'Decode the Slanted Ciphertext', 1),
+(2076, 'Process Restricted Friend Requests', 2),
+(2077, 'Paths in Maze That Lead to Same Room', 1),
+(2078, 'Two Furthest Houses With Different Colors', 0),
+(2079, 'Watering Plants', 1),
+(2080, 'Range Frequency Queries', 1),
+(2081, 'Sum of k-Mirror Numbers', 2),
+(2082, 'The Number of Rich Customers', 0),
+(2083, 'Substrings That Begin and End With the Same Letter', 1),
+(2084, 'Drop Type 1 Orders for Customers With Type 0 Orders', 1),
+(2085, 'Count Common Words With One Occurrence', 0),
+(2086, 'Minimum Number of Food Buckets to Feed the Hamsters', 1),
+(2087, 'Minimum Cost Homecoming of a Robot in a Grid', 1),
+(2088, 'Count Fertile Pyramids in a Land', 2),
+(2089, 'Find Target Indices After Sorting Array', 0),
+(2090, 'K Radius Subarray Averages', 1),
+(2091, 'Removing Minimum and Maximum From Array', 1),
+(2092, 'Find All People With Secret', 2),
+(2093, 'Minimum Cost to Reach City With Discounts', 1),
+(2094, 'Finding 3-Digit Even Numbers', 0),
+(2095, 'Delete the Middle Node of a Linked List', 1),
+(2096, 'Step-By-Step Directions From a Binary Tree Node to Another', 1),
+(2097, 'Valid Arrangement of Pairs', 2),
+(2098, 'Subsequence of Size K With the Largest Even Sum', 1),
+(2099, 'Find Subsequence of Length K With the Largest Sum', 0),
+(2100, 'Find Good Days to Rob the Bank', 1),
+(2101, 'Detonate the Maximum Bombs', 1),
+(2102, 'Sequentially Ordinal Rank Tracker', 2),
+(2103, 'Rings and Rods', 0),
+(2104, 'Sum of Subarray Ranges', 1),
+(2105, 'Watering Plants II', 1),
+(2106, 'Maximum Fruits Harvested After at Most K Steps', 2),
+(2107, 'Number of Unique Flavors After Sharing K Candies', 1),
+(2108, 'Find First Palindromic String in the Array', 0),
+(2109, 'Adding Spaces to a String', 1),
+(2110, 'Number of Smooth Descent Periods of a Stock', 1),
+(2111, 'Minimum Operations to Make the Array K-Increasing', 2),
+(2112, 'The Airport With the Most Traffic', 1),
+(2113, 'Elements in Array After Removing and Replacing Elements', 1),
+(2114, 'Maximum Number of Words Found in Sentences', 0),
+(2115, 'Find All Possible Recipes from Given Supplies', 1),
+(2116, 'Check if a Parentheses String Can Be Valid', 1),
+(2117, 'Abbreviating the Product of a Range', 2),
+(2118, 'Build the Equation', 2),
+(2119, 'A Number After a Double Reversal', 0),
+(2120, 'Execution of All Suffix Instructions Staying in a Grid', 1),
+(2121, 'Intervals Between Identical Elements', 1),
+(2122, 'Recover the Original Array', 2),
+(2123, 'Minimum Operations to Remove Adjacent Ones in Matrix', 2),
+(2124, 'Check if All A''s Appears Before All B''s', 0),
+(2125, 'Number of Laser Beams in a Bank', 1),
+(2126, 'Destroying Asteroids', 1),
+(2127, 'Maximum Employees to Be Invited to a Meeting', 2),
+(2128, 'Remove All Ones With Row and Column Flips', 1),
+(2129, 'Capitalize the Title', 0),
+(2130, 'Maximum Twin Sum of a Linked List', 1),
+(2131, 'Longest Palindrome by Concatenating Two Letter Words', 1),
+(2132, 'Stamping the Grid', 2),
+(2133, 'Check if Every Row and Column Contains All Numbers', 0),
+(2134, 'Minimum Swaps to Group All 1''s Together II', 1),
+(2135, 'Count Words Obtained After Adding a Letter', 1),
+(2136, 'Earliest Possible Day of Full Bloom', 2),
+(2137, 'Pour Water Between Buckets to Make Water Levels Equal', 1),
+(2138, 'Divide a String Into Groups of Size k', 0),
+(2139, 'Minimum Moves to Reach Target Score', 1),
+(2140, 'Solving Questions With Brainpower', 1),
+(2141, 'Maximum Running Time of N Computers', 2),
+(2142, 'The Number of Passengers in Each Bus I', 1),
+(2143, 'Choose Numbers From Two Arrays in Range', 2),
+(2144, 'Minimum Cost of Buying Candies With Discount', 0),
+(2145, 'Count the Hidden Sequences', 1),
+(2146, 'K Highest Ranked Items Within a Price Range', 1),
+(2147, 'Number of Ways to Divide a Long Corridor', 2),
+(2148, 'Count Elements With Strictly Smaller and Greater Elements', 0),
+(2149, 'Rearrange Array Elements by Sign', 1),
+(2150, 'Find All Lonely Numbers in the Array', 1),
+(2151, 'Maximum Good People Based on Statements', 2),
+(2152, 'Minimum Number of Lines to Cover Points', 1),
+(2153, 'The Number of Passengers in Each Bus II', 2),
+(2154, 'Keep Multiplying Found Values by Two', 0),
+(2155, 'All Divisions With the Highest Score of a Binary Array', 1),
+(2156, 'Find Substring With Given Hash Value', 2),
+(2157, 'Groups of Strings', 2),
+(2158, 'Amount of New Area Painted Each Day', 2),
+(2159, 'Order Two Columns Independently', 1),
+(2160, 'Minimum Sum of Four Digit Number After Splitting Digits', 0),
+(2161, 'Partition Array According to Given Pivot', 1),
+(2162, 'Minimum Cost to Set Cooking Time', 1),
+(2163, 'Minimum Difference in Sums After Removal of Elements', 2),
+(2164, 'Sort Even and Odd Indices Independently', 0),
+(2165, 'Smallest Value of the Rearranged Number', 1),
+(2166, 'Design Bitset', 1),
+(2167, 'Minimum Time to Remove All Cars Containing Illegal Goods', 2),
+(2168, 'Unique Substrings With Equal Digit Frequency', 1),
+(2169, 'Count Operations to Obtain Zero', 0),
+(2170, 'Minimum Operations to Make the Array Alternating', 1),
+(2171, 'Removing Minimum Number of Magic Beans', 1),
+(2172, 'Maximum AND Sum of Array', 2),
+(2173, 'Longest Winning Streak', 2),
+(2174, 'Remove All Ones With Row and Column Flips II', 1),
+(2175, 'The Change in Global Rankings', 1),
+(2176, 'Count Equal and Divisible Pairs in an Array', 0),
+(2177, 'Find Three Consecutive Integers That Sum to a Given Number', 1),
+(2178, 'Maximum Split of Positive Even Integers', 1),
+(2179, 'Count Good Triplets in an Array', 2),
+(2180, 'Count Integers With Even Digit Sum', 0),
+(2181, 'Merge Nodes in Between Zeros', 1),
+(2182, 'Construct String With Repeat Limit', 1),
+(2183, 'Count Array Pairs Divisible by K', 2),
+(2184, 'Number of Ways to Build Sturdy Brick Wall', 1),
+(2185, 'Counting Words With a Given Prefix', 0),
+(2186, 'Minimum Number of Steps to Make Two Strings Anagram II', 1),
+(2187, 'Minimum Time to Complete Trips', 1),
+(2188, 'Minimum Time to Finish the Race', 2),
+(2189, 'Number of Ways to Build House of Cards', 1),
+(2190, 'Most Frequent Number Following Key In an Array', 0),
+(2191, 'Sort the Jumbled Numbers', 1),
+(2192, 'All Ancestors of a Node in a Directed Acyclic Graph', 1),
+(2193, 'Minimum Number of Moves to Make Palindrome', 2),
+(2194, 'Cells in a Range on an Excel Sheet', 0),
+(2195, 'Append K Integers With Minimal Sum', 1),
+(2196, 'Create Binary Tree From Descriptions', 1),
+(2197, 'Replace Non-Coprime Numbers in Array', 2),
+(2198, 'Number of Single Divisor Triplets', 1),
+(2199, 'Finding the Topic of Each Post', 2),
+(2200, 'Find All K-Distant Indices in an Array', 0),
+(2201, 'Count Artifacts That Can Be Extracted', 1),
+(2202, 'Maximize the Topmost Element After K Moves', 1),
+(2203, 'Minimum Weighted Subgraph With the Required Paths', 2),
+(2204, 'Distance to a Cycle in Undirected Graph', 2),
+(2205, 'The Number of Users That Are Eligible for Discount', 0),
+(2206, 'Divide Array Into Equal Pairs', 0),
+(2207, 'Maximize Number of Subsequences in a String', 1),
+(2208, 'Minimum Operations to Halve Array Sum', 1),
+(2209, 'Minimum White Tiles After Covering With Carpets', 2),
+(2210, 'Count Hills and Valleys in an Array', 0),
+(2211, 'Count Collisions on a Road', 1),
+(2212, 'Maximum Points in an Archery Competition', 1),
+(2213, 'Longest Substring of One Repeating Character', 2),
+(2214, 'Minimum Health to Beat Game', 1),
+(2215, 'Find the Difference of Two Arrays', 0),
+(2216, 'Minimum Deletions to Make Array Beautiful', 1),
+(2217, 'Find Palindrome With Fixed Length', 1),
+(2218, 'Maximum Value of K Coins From Piles', 2),
+(2219, 'Maximum Sum Score of Array', 1),
+(2220, 'Minimum Bit Flips to Convert Number', 0),
+(2221, 'Find Triangular Sum of an Array', 1),
+(2222, 'Number of Ways to Select Buildings', 1),
+(2223, 'Sum of Scores of Built Strings', 2),
+(2224, 'Minimum Number of Operations to Convert Time', 0),
+(2225, 'Find Players With Zero or One Losses', 1),
+(2226, 'Maximum Candies Allocated to K Children', 1),
+(2227, 'Encrypt and Decrypt Strings', 2),
+(2228, 'Users With Two Purchases Within Seven Days', 1),
+(2229, 'Check if an Array Is Consecutive', 0),
+(2230, 'The Users That Are Eligible for Discount', 0),
+(2231, 'Largest Number After Digit Swaps by Parity', 0),
+(2232, 'Minimize Result by Adding Parentheses to Expression', 1),
+(2233, 'Maximum Product After K Increments', 1),
+(2234, 'Maximum Total Beauty of the Gardens', 2),
+(2235, 'Add Two Integers', 0),
+(2236, 'Root Equals Sum of Children', 0),
+(2237, 'Count Positions on Street With Required Brightness', 1),
+(2238, 'Number of Times a Driver Was a Passenger', 1),
+(2239, 'Find Closest Number to Zero', 0),
+(2240, 'Number of Ways to Buy Pens and Pencils', 1),
+(2241, 'Design an ATM Machine', 1),
+(2242, 'Maximum Score of a Node Sequence', 2),
+(2243, 'Calculate Digit Sum of a String', 0),
+(2244, 'Minimum Rounds to Complete All Tasks', 1),
+(2245, 'Maximum Trailing Zeros in a Cornered Path', 1),
+(2246, 'Longest Path With Different Adjacent Characters', 2),
+(2247, 'Maximum Cost of Trip With K Highways', 2),
+(2248, 'Intersection of Multiple Arrays', 0),
+(2249, 'Count Lattice Points Inside a Circle', 1),
+(2250, 'Count Number of Rectangles Containing Each Point', 1),
+(2251, 'Number of Flowers in Full Bloom', 2),
+(2252, 'Dynamic Pivoting of a Table', 2),
+(2253, 'Dynamic Unpivoting of a Table', 2),
+(2254, 'Design Video Sharing Platform', 2),
+(2255, 'Count Prefixes of a Given String', 0),
+(2256, 'Minimum Average Difference', 1),
+(2257, 'Count Unguarded Cells in the Grid', 1),
+(2258, 'Escape the Spreading Fire', 2),
+(2259, 'Remove Digit From Number to Maximize Result', 0),
+(2260, 'Minimum Consecutive Cards to Pick Up', 1),
+(2261, 'K Divisible Elements Subarrays', 1),
+(2262, 'Total Appeal of A String', 2),
+(2263, 'Make Array Non-decreasing or Non-increasing', 2),
+(2264, 'Largest 3-Same-Digit Number in String', 0),
+(2265, 'Count Nodes Equal to Average of Subtree', 1),
+(2266, 'Count Number of Texts', 1),
+(2267, 'Check if There Is a Valid Parentheses String Path', 2),
+(2268, 'Minimum Number of Keypresses', 1),
+(2269, 'Find the K-Beauty of a Number', 0),
+(2270, 'Number of Ways to Split Array', 1),
+(2271, 'Maximum White Tiles Covered by a Carpet', 1),
+(2272, 'Substring With Largest Variance', 2),
+(2273, 'Find Resultant Array After Removing Anagrams', 0),
+(2274, 'Maximum Consecutive Floors Without Special Floors', 1),
+(2275, 'Largest Combination With Bitwise AND Greater Than Zero', 1),
+(2276, 'Count Integers in Intervals', 2),
+(2277, 'Closest Node to Path in Tree', 2),
+(2278, 'Percentage of Letter in String', 0),
+(2279, 'Maximum Bags With Full Capacity of Rocks', 1),
+(2280, 'Minimum Lines to Represent a Line Chart', 1),
+(2281, 'Sum of Total Strength of Wizards', 2),
+(2282, 'Number of People That Can Be Seen in a Grid', 1),
+(2283, 'Check if Number Has Equal Digit Count and Digit Value', 0),
+(2284, 'Sender With Largest Word Count', 1),
+(2285, 'Maximum Total Importance of Roads', 1),
+(2286, 'Booking Concert Tickets in Groups', 2),
+(2287, 'Rearrange Characters to Make Target String', 0),
+(2288, 'Apply Discount to Prices', 1),
+(2289, 'Steps to Make Array Non-decreasing', 1),
+(2290, 'Minimum Obstacle Removal to Reach Corner', 2),
+(2291, 'Maximum Profit From Trading Stocks', 1),
+(2292, 'Products With Three or More Orders in Two Consecutive Years', 1),
+(2293, 'Min Max Game', 0),
+(2294, 'Partition Array Such That Maximum Difference Is K', 1),
+(2295, 'Replace Elements in an Array', 1),
+(2296, 'Design a Text Editor', 2),
+(2297, 'Jump Game VIII', 1),
+(2298, 'Tasks Count in the Weekend', 1),
+(2299, 'Strong Password Checker II', 0),
+(2300, 'Successful Pairs of Spells and Potions', 1),
+(2301, 'Match Substring After Replacement', 2),
+(2302, 'Count Subarrays With Score Less Than K', 2),
+(2303, 'Calculate Amount Paid in Taxes', 0),
+(2304, 'Minimum Path Cost in a Grid', 1),
+(2305, 'Fair Distribution of Cookies', 1),
+(2306, 'Naming a Company', 2),
+(2307, 'Check for Contradictions in Equations', 2),
+(2308, 'Arrange Table by Gender', 1),
+(2309, 'Greatest English Letter in Upper and Lower Case', 0),
+(2310, 'Sum of Numbers With Units Digit K', 1),
+(2311, 'Longest Binary Subsequence Less Than or Equal to K', 1),
+(2312, 'Selling Pieces of Wood', 2),
+(2313, 'Minimum Flips in Binary Tree to Get Result', 2),
+(2314, 'The First Day of the Maximum Recorded Degree in Each City', 1),
+(2315, 'Count Asterisks', 0),
+(2316, 'Count Unreachable Pairs of Nodes in an Undirected Graph', 1),
+(2317, 'Maximum XOR After Operations', 1),
+(2318, 'Number of Distinct Roll Sequences', 2),
+(2319, 'Check if Matrix Is X-Matrix', 0),
+(2320, 'Count Number of Ways to Place Houses', 1),
+(2321, 'Maximum Score Of Spliced Array', 2),
+(2322, 'Minimum Score After Removals on a Tree', 2),
+(2323, 'Find Minimum Time to Finish All Jobs II', 1),
+(2324, 'Product Sales Analysis IV', 1),
+(2325, 'Decode the Message', 0),
+(2326, 'Spiral Matrix IV', 1),
+(2327, 'Number of People Aware of a Secret', 1),
+(2328, 'Number of Increasing Paths in a Grid', 2),
+(2329, 'Product Sales Analysis V', 0),
+(2330, 'Valid Palindrome IV', 1),
+(2331, 'Evaluate Boolean Binary Tree', 0),
+(2332, 'The Latest Time to Catch a Bus', 1),
+(2333, 'Minimum Sum of Squared Difference', 1),
+(2334, 'Subarray With Elements Greater Than Varying Threshold', 2),
+(2335, 'Minimum Amount of Time to Fill Cups', 0),
+(2336, 'Smallest Number in Infinite Set', 1),
+(2337, 'Move Pieces to Obtain a String', 1),
+(2338, 'Count the Number of Ideal Arrays', 2),
+(2339, 'All the Matches of the League', 0),
+(2340, 'Minimum Adjacent Swaps to Make a Valid Array', 1),
+(2341, 'Maximum Number of Pairs in Array', 0),
+(2342, 'Max Sum of a Pair With Equal Sum of Digits', 1),
+(2343, 'Query Kth Smallest Trimmed Number', 1),
+(2344, 'Minimum Deletions to Make Array Divisible', 2),
+(2345, 'Finding the Number of Visible Mountains', 1),
+(2346, 'Compute the Rank as a Percentage', 1),
+(2347, 'Best Poker Hand', 0),
+(2348, 'Number of Zero-Filled Subarrays', 1),
+(2349, 'Design a Number Container System', 1),
+(2350, 'Shortest Impossible Sequence of Rolls', 2),
+(2351, 'First Letter to Appear Twice', 0),
+(2352, 'Equal Row and Column Pairs', 1),
+(2353, 'Design a Food Rating System', 1),
+(2354, 'Number of Excellent Pairs', 2),
+(2355, 'Maximum Number of Books You Can Take', 2),
+(2356, 'Number of Unique Subjects Taught by Each Teacher', 0),
+(2357, 'Make Array Zero by Subtracting Equal Amounts', 0),
+(2358, 'Maximum Number of Groups Entering a Competition', 1),
+(2359, 'Find Closest Node to Given Two Nodes', 1),
+(2360, 'Longest Cycle in a Graph', 2),
+(2361, 'Minimum Costs Using the Train Line', 2),
+(2362, 'Generate the Invoice', 2),
+(2363, 'Merge Similar Items', 0),
+(2364, 'Count Number of Bad Pairs', 1),
+(2365, 'Task Scheduler II', 1),
+(2366, 'Minimum Replacements to Sort the Array', 2),
+(2367, 'Number of Arithmetic Triplets', 0),
+(2368, 'Reachable Nodes With Restrictions', 1),
+(2369, 'Check if There is a Valid Partition For The Array', 1),
+(2370, 'Longest Ideal Subsequence', 1),
+(2371, 'Minimize Maximum Value in a Grid', 2),
+(2372, 'Calculate the Influence of Each Salesperson', 1),
+(2373, 'Largest Local Values in a Matrix', 0),
+(2374, 'Node With Highest Edge Score', 1),
+(2375, 'Construct Smallest Number From DI String', 1),
+(2376, 'Count Special Integers', 2),
+(2377, 'Sort the Olympic Table', 0),
+(2378, 'Choose Edges to Maximize Score in a Tree', 1),
+(2379, 'Minimum Recolors to Get K Consecutive Black Blocks', 0),
+(2380, 'Time Needed to Rearrange a Binary String', 1),
+(2381, 'Shifting Letters II', 1),
+(2382, 'Maximum Segment Sum After Removals', 2),
+(2383, 'Minimum Hours of Training to Win a Competition', 0),
+(2384, 'Largest Palindromic Number', 1),
+(2385, 'Amount of Time for Binary Tree to Be Infected', 1),
+(2386, 'Find the K-Sum of an Array', 2),
+(2387, 'Median of a Row Wise Sorted Matrix', 1),
+(2388, 'Change Null Values in a Table to the Previous Value', 1),
+(2389, 'Longest Subsequence With Limited Sum', 0),
+(2390, 'Removing Stars From a String', 1),
+(2391, 'Minimum Amount of Time to Collect Garbage', 1),
+(2392, 'Build a Matrix With Conditions', 2),
+(2393, 'Count Strictly Increasing Subarrays', 1),
+(2394, 'Employees With Deductions', 1),
+(2395, 'Find Subarrays With Equal Sum', 0),
+(2396, 'Strictly Palindromic Number', 1),
+(2397, 'Maximum Rows Covered by Columns', 1),
+(2398, 'Maximum Number of Robots Within Budget', 2),
+(2399, 'Check Distances Between Same Letters', 0),
+(2400, 'Number of Ways to Reach a Position After Exactly k Steps', 1),
+(2401, 'Longest Nice Subarray', 1),
+(2402, 'Meeting Rooms III', 2),
+(2403, 'Minimum Time to Kill All Monsters', 2),
+(2404, 'Most Frequent Even Element', 0),
+(2405, 'Optimal Partition of String', 1),
+(2406, 'Divide Intervals Into Minimum Number of Groups', 1),
+(2407, 'Longest Increasing Subsequence II', 2),
+(2408, 'Design SQL', 1),
+(2409, 'Count Days Spent Together', 0),
+(2410, 'Maximum Matching of Players With Trainers', 1),
+(2411, 'Smallest Subarrays With Maximum Bitwise OR', 1),
+(2412, 'Minimum Money Required Before Transactions', 2),
+(2413, 'Smallest Even Multiple', 0),
+(2414, 'Length of the Longest Alphabetical Continuous Substring', 1),
+(2415, 'Reverse Odd Levels of Binary Tree', 1),
+(2416, 'Sum of Prefix Scores of Strings', 2),
+(2417, 'Closest Fair Integer', 1),
+(2418, 'Sort the People', 0),
+(2419, 'Longest Subarray With Maximum Bitwise AND', 1),
+(2420, 'Find All Good Indices', 1),
+(2421, 'Number of Good Paths', 2),
+(2422, 'Merge Operations to Turn Array Into a Palindrome', 1),
+(2423, 'Remove Letter To Equalize Frequency', 0),
+(2424, 'Longest Uploaded Prefix', 1),
+(2425, 'Bitwise XOR of All Pairings', 1),
+(2426, 'Number of Pairs Satisfying Inequality', 2),
+(2427, 'Number of Common Factors', 0),
+(2428, 'Maximum Sum of an Hourglass', 1),
+(2429, 'Minimize XOR', 1),
+(2430, 'Maximum Deletions on a String', 2),
+(2431, 'Maximize Total Tastiness of Purchased Fruits', 1),
+(2432, 'The Employee That Worked on the Longest Task', 0),
+(2433, 'Find The Original Array of Prefix Xor', 1),
+(2434, 'Using a Robot to Print the Lexicographically Smallest String', 1),
+(2435, 'Paths in Matrix Whose Sum Is Divisible by K', 2),
+(2436, 'Minimum Split Into Subarrays With GCD Greater Than One', 1),
+(2437, 'Number of Valid Clock Times', 0),
+(2438, 'Range Product Queries of Powers', 1),
+(2439, 'Minimize Maximum of Array', 1),
+(2440, 'Create Components With Same Value', 2),
+(2441, 'Largest Positive Integer That Exists With Its Negative', 0),
+(2442, 'Count Number of Distinct Integers After Reverse Operations', 1),
+(2443, 'Sum of Number and Its Reverse', 1),
+(2444, 'Count Subarrays With Fixed Bounds', 2),
+(2445, 'Number of Nodes With Value One', 1),
+(2446, 'Determine if Two Events Have Conflict', 0),
+(2447, 'Number of Subarrays With GCD Equal to K', 1),
+(2448, 'Minimum Cost to Make Array Equal', 2),
+(2449, 'Minimum Number of Operations to Make Arrays Similar', 2),
+(2450, 'Number of Distinct Binary Strings After Applying Operations', 1),
+(2451, 'Odd String Difference', 0),
+(2452, 'Words Within Two Edits of Dictionary', 1),
+(2453, 'Destroy Sequential Targets', 1),
+(2454, 'Next Greater Element IV', 2),
+(2455, 'Average Value of Even Numbers That Are Divisible by Three', 0),
+(2456, 'Most Popular Video Creator', 1),
+(2457, 'Minimum Addition to Make Integer Beautiful', 1),
+(2458, 'Height of Binary Tree After Subtree Removal Queries', 2),
+(2459, 'Sort Array by Moving Items to Empty Space', 2),
+(2460, 'Apply Operations to an Array', 0),
+(2461, 'Maximum Sum of Distinct Subarrays With Length K', 1),
+(2462, 'Total Cost to Hire K Workers', 1),
+(2463, 'Minimum Total Distance Traveled', 2),
+(2464, 'Minimum Subarrays in a Valid Split', 1),
+(2465, 'Number of Distinct Averages', 0),
+(2466, 'Count Ways To Build Good Strings', 1),
+(2467, 'Most Profitable Path in a Tree', 1),
+(2468, 'Split Message Based on Limit', 2),
+(2469, 'Convert the Temperature', 0),
+(2470, 'Number of Subarrays With LCM Equal to K', 1),
+(2471, 'Minimum Number of Operations to Sort a Binary Tree by Level', 1),
+(2472, 'Maximum Number of Non-overlapping Palindrome Substrings', 2),
+(2473, 'Minimum Cost to Buy Apples', 1),
+(2474, 'Customers With Strictly Increasing Purchases', 2),
+(2475, 'Number of Unequal Triplets in Array', 0),
+(2476, 'Closest Nodes Queries in a Binary Search Tree', 1),
+(2477, 'Minimum Fuel Cost to Report to the Capital', 1),
+(2478, 'Number of Beautiful Partitions', 2),
+(2479, 'Maximum XOR of Two Non-Overlapping Subtrees', 2),
+(2480, 'Form a Chemical Bond', 0),
+(2481, 'Minimum Cuts to Divide a Circle', 0),
+(2482, 'Difference Between Ones and Zeros in Row and Column', 1),
+(2483, 'Minimum Penalty for a Shop', 1),
+(2484, 'Count Palindromic Subsequences', 2),
+(2485, 'Find the Pivot Integer', 0),
+(2486, 'Append Characters to String to Make Subsequence', 1),
+(2487, 'Remove Nodes From Linked List', 1),
+(2488, 'Count Subarrays With Median K', 2),
+(2489, 'Number of Substrings With Fixed Ratio', 1),
+(2490, 'Circular Sentence', 0),
+(2491, 'Divide Players Into Teams of Equal Skill', 1),
+(2492, 'Minimum Score of a Path Between Two Cities', 1),
+(2493, 'Divide Nodes Into the Maximum Number of Groups', 2),
+(2494, 'Merge Overlapping Events in the Same Hall', 2),
+(2495, 'Number of Subarrays Having Even Product', 1),
+(2496, 'Maximum Value of a String in an Array', 0),
+(2497, 'Maximum Star Sum of a Graph', 1),
+(2498, 'Frog Jump II', 1),
+(2499, 'Minimum Total Cost to Make Arrays Unequal', 2),
+(2500, 'Delete Greatest Value in Each Row', 0);
+
+INSERT INTO Questions ([Number], [Title], [Difficulty])
+VALUES
+(2501, 'Longest Square Streak in an Array', 1),
+(2502, 'Design Memory Allocator', 1),
+(2503, 'Maximum Number of Points From Grid Queries', 2),
+(2504, 'Concatenate the Name and the Profession', 0),
+(2505, 'Bitwise OR of All Subsequence Sums', 1),
+(2506, 'Count Pairs Of Similar Strings', 0),
+(2507, 'Smallest Value After Replacing With Sum of Prime Factors', 1),
+(2508, 'Add Edges to Make Degrees of All Nodes Even', 2),
+(2509, 'Cycle Length Queries in a Tree', 2),
+(2510, 'Check if There is a Path With Equal Number of 0''s And 1''s', 1),
+(2511, 'Maximum Enemy Forts That Can Be Captured', 0),
+(2512, 'Reward Top K Students', 1),
+(2513, 'Minimize the Maximum of Two Arrays', 1),
+(2514, 'Count Anagrams', 2),
+(2515, 'Shortest Distance to Target String in a Circular Array', 0),
+(2516, 'Take K of Each Character From Left and Right', 1),
+(2517, 'Maximum Tastiness of Candy Basket', 1),
+(2518, 'Number of Great Partitions', 2),
+(2519, 'Count the Number of K-Big Indices', 2),
+(2520, 'Count the Digits That Divide a Number', 0),
+(2521, 'Distinct Prime Factors of Product of Array', 1),
+(2522, 'Partition String Into Substrings With Values at Most K', 1),
+(2523, 'Closest Prime Numbers in Range', 1),
+(2524, 'Maximum Frequency Score of a Subarray', 2),
+(2525, 'Categorize Box According to Criteria', 0),
+(2526, 'Find Consecutive Integers from a Data Stream', 1),
+(2527, 'Find Xor-Beauty of Array', 1),
+(2528, 'Maximize the Minimum Powered City', 2),
+(2529, 'Maximum Count of Positive Integer and Negative Integer', 0),
+(2530, 'Maximal Score After Applying K Operations', 1),
+(2531, 'Make Number of Distinct Characters Equal', 1),
+(2532, 'Time to Cross a Bridge', 2),
+(2533, 'Number of Good Binary Strings', 1),
+(2534, 'Time Taken to Cross the Door', 2),
+(2535, 'Difference Between Element Sum and Digit Sum of an Array', 0),
+(2536, 'Increment Submatrices by One', 1),
+(2537, 'Count the Number of Good Subarrays', 1),
+(2538, 'Difference Between Maximum and Minimum Price Sum', 2),
+(2539, 'Count the Number of Good Subsequences', 1),
+(2540, 'Minimum Common Value', 0),
+(2541, 'Minimum Operations to Make Array Equal II', 1),
+(2542, 'Maximum Subsequence Score', 1),
+(2543, 'Check if Point Is Reachable', 2),
+(2544, 'Alternating Digit Sum', 0),
+(2545, 'Sort the Students by Their Kth Score', 1),
+(2546, 'Apply Bitwise Operations to Make Strings Equal', 1),
+(2547, 'Minimum Cost to Split an Array', 2),
+(2548, 'Maximum Price to Fill a Bag', 1),
+(2549, 'Count Distinct Numbers on Board', 0),
+(2550, 'Count Collisions of Monkeys on a Polygon', 1),
+(2551, 'Put Marbles in Bags', 2),
+(2552, 'Count Increasing Quadruplets', 2),
+(2553, 'Separate the Digits in an Array', 0),
+(2554, 'Maximum Number of Integers to Choose From a Range I', 1),
+(2555, 'Maximize Win From Two Segments', 1),
+(2556, 'Disconnect Path in a Binary Matrix by at Most One Flip', 1),
+(2557, 'Maximum Number of Integers to Choose From a Range II', 1),
+(2558, 'Take Gifts From the Richest Pile', 0),
+(2559, 'Count Vowel Strings in Ranges', 1),
+(2560, 'House Robber IV', 1),
+(2561, 'Rearranging Fruits', 2),
+(2562, 'Find the Array Concatenation Value', 0),
+(2563, 'Count the Number of Fair Pairs', 1),
+(2564, 'Substring XOR Queries', 1),
+(2565, 'Subsequence With the Minimum Score', 2),
+(2566, 'Maximum Difference by Remapping a Digit', 0),
+(2567, 'Minimum Score by Changing Two Elements', 1),
+(2568, 'Minimum Impossible OR', 1),
+(2569, 'Handling Sum Queries After Update', 2),
+(2570, 'Merge Two 2D Arrays by Summing Values', 0),
+(2571, 'Minimum Operations to Reduce an Integer to 0', 1),
+(2572, 'Count the Number of Square-Free Subsets', 1),
+(2573, 'Find the String with LCP', 2),
+(2574, 'Left and Right Sum Differences', 0),
+(2575, 'Find the Divisibility Array of a String', 1),
+(2576, 'Find the Maximum Number of Marked Indices', 1),
+(2577, 'Minimum Time to Visit a Cell In a Grid', 2),
+(2578, 'Split With Minimum Sum', 0),
+(2579, 'Count Total Number of Colored Cells', 1),
+(2580, 'Count Ways to Group Overlapping Ranges', 1),
+(2581, 'Count Number of Possible Root Nodes', 2),
+(2582, 'Pass the Pillow', 0),
+(2583, 'Kth Largest Sum in a Binary Tree', 1),
+(2584, 'Split the Array to Make Coprime Products', 2),
+(2585, 'Number of Ways to Earn Points', 2),
+(2586, 'Count the Number of Vowel Strings in Range', 0),
+(2587, 'Rearrange Array to Maximize Prefix Score', 1),
+(2588, 'Count the Number of Beautiful Subarrays', 1),
+(2589, 'Minimum Time to Complete All Tasks', 2),
+(2590, 'Design a Todo List', 1),
+(2591, 'Distribute Money to Maximum Children', 0),
+(2592, 'Maximize Greatness of an Array', 1),
+(2593, 'Find Score of an Array After Marking All Elements', 1),
+(2594, 'Minimum Time to Repair Cars', 1),
+(2595, 'Number of Even and Odd Bits', 0),
+(2596, 'Check Knight Tour Configuration', 1),
+(2597, 'The Number of Beautiful Subsets', 1),
+(2598, 'Smallest Missing Non-negative Integer After Operations', 1),
+(2599, 'Make the Prefix Sum Non-negative', 1),
+(2600, 'K Items With the Maximum Sum', 0),
+(2601, 'Prime Subtraction Operation', 1),
+(2602, 'Minimum Operations to Make All Array Elements Equal', 1),
+(2603, 'Collect Coins in a Tree', 2),
+(2604, 'Minimum Time to Eat All Grains', 2),
+(2605, 'Form Smallest Number From Two Digit Arrays', 0),
+(2606, 'Find the Substring With Maximum Cost', 1),
+(2607, 'Make K-Subarray Sums Equal', 1),
+(2608, 'Shortest Cycle in a Graph', 2),
+(2609, 'Find the Longest Balanced Substring of a Binary String', 0),
+(2610, 'Convert an Array Into a 2D Array With Conditions', 1),
+(2611, 'Mice and Cheese', 1),
+(2612, 'Minimum Reverse Operations', 2),
+(2613, 'Beautiful Pairs', 2),
+(2614, 'Prime In Diagonal', 0),
+(2615, 'Sum of Distances', 1),
+(2616, 'Minimize the Maximum Difference of Pairs', 1),
+(2617, 'Minimum Number of Visited Cells in a Grid', 2),
+(2618, 'Check if Object Instance of Class', 1),
+(2619, 'Array Prototype Last', 0),
+(2620, 'Counter', 0),
+(2621, 'Sleep', 0),
+(2622, 'Cache With Time Limit', 1),
+(2623, 'Memoize', 1),
+(2624, 'Snail Traversal', 1),
+(2625, 'Flatten Deeply Nested Array', 1),
+(2626, 'Array Reduce Transformation', 0),
+(2627, 'Debounce', 1),
+(2628, 'JSON Deep Equal', 1),
+(2629, 'Function Composition', 0),
+(2630, 'Memoize II', 2),
+(2631, 'Group By', 1),
+(2632, 'Curry', 1),
+(2633, 'Convert Object to JSON String', 1),
+(2634, 'Filter Elements from Array', 0),
+(2635, 'Apply Transform Over Each Element in Array', 0),
+(2636, 'Promise Pool', 1),
+(2637, 'Promise Time Limit', 1),
+(2638, 'Count the Number of K-Free Subsets', 1),
+(2639, 'Find the Width of Columns of a Grid', 0),
+(2640, 'Find the Score of All Prefixes of an Array', 1),
+(2641, 'Cousins in Binary Tree II', 1),
+(2642, 'Design Graph With Shortest Path Calculator', 2),
+(2643, 'Row With Maximum Ones', 0),
+(2644, 'Find the Maximum Divisibility Score', 0),
+(2645, 'Minimum Additions to Make Valid String', 1),
+(2646, 'Minimize the Total Price of the Trips', 2),
+(2647, 'Color the Triangle Red', 2),
+(2648, 'Generate Fibonacci Sequence', 0),
+(2649, 'Nested Array Generator', 1),
+(2650, 'Design Cancellable Function', 2),
+(2651, 'Calculate Delayed Arrival Time', 0),
+(2652, 'Sum Multiples', 0),
+(2653, 'Sliding Subarray Beauty', 1),
+(2654, 'Minimum Number of Operations to Make All Array Elements Equal to 1', 1),
+(2655, 'Find Maximal Uncovered Ranges', 1),
+(2656, 'Maximum Sum With Exactly K Elements', 0),
+(2657, 'Find the Prefix Common Array of Two Arrays', 1),
+(2658, 'Maximum Number of Fish in a Grid', 1),
+(2659, 'Make Array Empty', 2),
+(2660, 'Determine the Winner of a Bowling Game', 0),
+(2661, 'First Completely Painted Row or Column', 1),
+(2662, 'Minimum Cost of a Path With Special Roads', 1),
+(2663, 'Lexicographically Smallest Beautiful String', 2),
+(2664, 'The Knight’s Tour', 1),
+(2665, 'Counter II', 0),
+(2666, 'Allow One Function Call', 0),
+(2667, 'Create Hello World Function', 0),
+(2668, 'Find Latest Salaries', 0),
+(2669, 'Count Artist Occurrences On Spotify Ranking List', 0),
+(2670, 'Find the Distinct Difference Array', 0),
+(2671, 'Frequency Tracker', 1),
+(2672, 'Number of Adjacent Elements With the Same Color', 1),
+(2673, 'Make Costs of Paths Equal in a Binary Tree', 1),
+(2674, 'Split a Circular Linked List', 1),
+(2675, 'Array of Objects to Matrix', 2),
+(2676, 'Throttle', 1),
+(2677, 'Chunk Array', 0),
+(2678, 'Number of Senior Citizens', 0),
+(2679, 'Sum in a Matrix', 1),
+(2680, 'Maximum OR', 1),
+(2681, 'Power of Heroes', 2),
+(2682, 'Find the Losers of the Circular Game', 0),
+(2683, 'Neighboring Bitwise XOR', 1),
+(2684, 'Maximum Number of Moves in a Grid', 1),
+(2685, 'Count the Number of Complete Components', 1),
+(2686, 'Immediate Food Delivery III', 1),
+(2687, 'Bikes Last Time Used', 0),
+(2688, 'Find Active Users', 1),
+(2689, 'Extract Kth Character From The Rope Tree', 0),
+(2690, 'Infinite Method Object', 0),
+(2691, 'Immutability Helper', 2),
+(2692, 'Make Object Immutable', 1),
+(2693, 'Call Function with Custom Context', 1),
+(2694, 'Event Emitter', 1),
+(2695, 'Array Wrapper', 0),
+(2696, 'Minimum String Length After Removing Substrings', 0),
+(2697, 'Lexicographically Smallest Palindrome', 0),
+(2698, 'Find the Punishment Number of an Integer', 1),
+(2699, 'Modify Graph Edge Weights', 2),
+(2700, 'Differences Between Two Objects', 1),
+(2701, 'Consecutive Transactions with Increasing Amounts', 2),
+(2702, 'Minimum Operations to Make Numbers Non-positive', 2),
+(2703, 'Return Length of Arguments Passed', 0),
+(2704, 'To Be Or Not To Be', 0),
+(2705, 'Compact Object', 1),
+(2706, 'Buy Two Chocolates', 0),
+(2707, 'Extra Characters in a String', 1),
+(2708, 'Maximum Strength of a Group', 1),
+(2709, 'Greatest Common Divisor Traversal', 2),
+(2710, 'Remove Trailing Zeros From a String', 0),
+(2711, 'Difference of Number of Distinct Values on Diagonals', 1),
+(2712, 'Minimum Cost to Make All Characters Equal', 1),
+(2713, 'Maximum Strictly Increasing Cells in a Matrix', 2),
+(2714, 'Find Shortest Path with K Hops', 2),
+(2715, 'Timeout Cancellation', 0),
+(2716, 'Minimize String Length', 0),
+(2717, 'Semi-Ordered Permutation', 0),
+(2718, 'Sum of Matrix After Queries', 1),
+(2719, 'Count of Integers', 2),
+(2720, 'Popularity Percentage', 2),
+(2721, 'Execute Asynchronous Functions in Parallel', 1),
+(2722, 'Join Two Arrays by ID', 1),
+(2723, 'Add Two Promises', 0),
+(2724, 'Sort By', 0),
+(2725, 'Interval Cancellation', 0),
+(2726, 'Calculator with Method Chaining', 0),
+(2727, 'Is Object Empty', 0),
+(2728, 'Count Houses in a Circular Street', 0),
+(2729, 'Check if The Number is Fascinating', 0),
+(2730, 'Find the Longest Semi-Repetitive Substring', 1),
+(2731, 'Movement of Robots', 1),
+(2732, 'Find a Good Subset of the Matrix', 2),
+(2733, 'Neither Minimum nor Maximum', 0),
+(2734, 'Lexicographically Smallest String After Substring Operation', 1),
+(2735, 'Collecting Chocolates', 1),
+(2736, 'Maximum Sum Queries', 2),
+(2737, 'Find the Closest Marked Node', 1),
+(2738, 'Count Occurrences in Text', 1),
+(2739, 'Total Distance Traveled', 0),
+(2740, 'Find the Value of the Partition', 1),
+(2741, 'Special Permutations', 1),
+(2742, 'Painting the Walls', 2),
+(2743, 'Count Substrings Without Repeating Character', 1),
+(2744, 'Find Maximum Number of String Pairs', 0),
+(2745, 'Construct the Longest New String', 1),
+(2746, 'Decremental String Concatenation', 1),
+(2747, 'Count Zero Request Servers', 1),
+(2748, 'Number of Beautiful Pairs', 0),
+(2749, 'Minimum Operations to Make the Integer Zero', 1),
+(2750, 'Ways to Split Array Into Good Subarrays', 1),
+(2751, 'Robot Collisions', 2),
+(2752, 'Customers with Maximum Number of Transactions on Consecutive Days', 2),
+(2753, 'Count Houses in a Circular Street II', 2),
+(2754, 'Bind Function to Context', 1),
+(2755, 'Deep Merge of Two Objects', 1),
+(2756, 'Query Batching', 2),
+(2757, 'Generate Circular Array Values', 1),
+(2758, 'Next Day', 0),
+(2759, 'Convert JSON String to Object', 2),
+(2760, 'Longest Even Odd Subarray With Threshold', 0),
+(2761, 'Prime Pairs With Target Sum', 1),
+(2762, 'Continuous Subarrays', 1),
+(2763, 'Sum of Imbalance Numbers of All Subarrays', 2),
+(2764, 'Is Array a Preorder of Some ‌Binary Tree', 1),
+(2765, 'Longest Alternating Subarray', 0),
+(2766, 'Relocate Marbles', 1),
+(2767, 'Partition String Into Minimum Beautiful Substrings', 1),
+(2768, 'Number of Black Blocks', 1),
+(2769, 'Find the Maximum Achievable Number', 0),
+(2770, 'Maximum Number of Jumps to Reach the Last Index', 1),
+(2771, 'Longest Non-decreasing Subarray From Two Arrays', 1),
+(2772, 'Apply Operations to Make All Array Elements Equal to Zero', 1),
+(2773, 'Height of Special Binary Tree', 1),
+(2774, 'Array Upper Bound', 0),
+(2775, 'Undefined to Null', 1),
+(2776, 'Convert Callback Based Function to Promise Based Function', 1),
+(2777, 'Date Range Generator', 1),
+(2778, 'Sum of Squares of Special Elements', 0),
+(2779, 'Maximum Beauty of an Array After Applying Operation', 1),
+(2780, 'Minimum Index of a Valid Split', 1),
+(2781, 'Length of the Longest Valid Substring', 2),
+(2782, 'Number of Unique Categories', 1),
+(2783, 'Flight Occupancy and Waitlist Analysis', 1),
+(2784, 'Check if Array is Good', 0),
+(2785, 'Sort Vowels in a String', 1),
+(2786, 'Visit Array Positions to Maximize Score', 1),
+(2787, 'Ways to Express an Integer as Sum of Powers', 1),
+(2788, 'Split Strings by Separator', 0),
+(2789, 'Largest Element in an Array after Merge Operations', 1),
+(2790, 'Maximum Number of Groups With Increasing Length', 2),
+(2791, 'Count Paths That Can Form a Palindrome in a Tree', 2),
+(2792, 'Count Nodes That Are Great Enough', 2),
+(2793, 'Status of Flight Tickets', 2),
+(2794, 'Create Object from Two Arrays', 0),
+(2795, 'Parallel Execution of Promises for Individual Results Retrieval', 1),
+(2796, 'Repeat String', 0),
+(2797, 'Partial Function with Placeholders', 0),
+(2798, 'Number of Employees Who Met the Target', 0),
+(2799, 'Count Complete Subarrays in an Array', 1),
+(2800, 'Shortest String That Contains Three Strings', 1),
+(2801, 'Count Stepping Numbers in Range', 2),
+(2802, 'Find The K-th Lucky Number', 1),
+(2803, 'Factorial Generator', 0),
+(2804, 'Array Prototype ForEach', 0),
+(2805, 'Custom Interval', 1),
+(2806, 'Account Balance After Rounded Purchase', 0),
+(2807, 'Insert Greatest Common Divisors in Linked List', 1),
+(2808, 'Minimum Seconds to Equalize a Circular Array', 1),
+(2809, 'Minimum Time to Make Array Sum At Most x', 2),
+(2810, 'Faulty Keyboard', 0),
+(2811, 'Check if it is Possible to Split Array', 1),
+(2812, 'Find the Safest Path in a Grid', 1),
+(2813, 'Maximum Elegance of a K-Length Subsequence', 2),
+(2814, 'Minimum Time Takes to Reach Destination Without Drowning', 2),
+(2815, 'Max Pair Sum in an Array', 0),
+(2816, 'Double a Number Represented as a Linked List', 1),
+(2817, 'Minimum Absolute Difference Between Elements With Constraint', 1),
+(2818, 'Apply Operations to Maximize Score', 2),
+(2819, 'Minimum Relative Loss After Buying Chocolates', 2),
+(2820, 'Election Results', 1),
+(2821, 'Delay the Resolution of Each Promise', 1),
+(2822, 'Inversion of Object', 0),
+(2823, 'Deep Object Filter', 1),
+(2824, 'Count Pairs Whose Sum is Less than Target', 0),
+(2825, 'Make String a Subsequence Using Cyclic Increments', 1),
+(2826, 'Sorting Three Groups', 1),
+(2827, 'Number of Beautiful Integers in the Range', 2),
+(2828, 'Check if a String Is an Acronym of Words', 0),
+(2829, 'Determine the Minimum Sum of a k-avoiding Array', 1),
+(2830, 'Maximize the Profit as the Salesman', 1),
+(2831, 'Find the Longest Equal Subarray', 1),
+(2832, 'Maximal Range That Each Element Is Maximum in It', 1),
+(2833, 'Furthest Point From Origin', 0),
+(2834, 'Find the Minimum Possible Sum of a Beautiful Array', 1),
+(2835, 'Minimum Operations to Form Subsequence With Target Sum', 2),
+(2836, 'Maximize Value of Function in a Ball Passing Game', 2),
+(2837, 'Total Traveled Distance', 0),
+(2838, 'Maximum Coins Heroes Can Collect', 1),
+(2839, 'Check if Strings Can be Made Equal With Operations I', 0),
+(2840, 'Check if Strings Can be Made Equal With Operations II', 1),
+(2841, 'Maximum Sum of Almost Unique Subarray', 1),
+(2842, 'Count K-Subsequences of a String With Maximum Beauty', 2),
+(2843, 'Count Symmetric Integers', 0),
+(2844, 'Minimum Operations to Make a Special Number', 1),
+(2845, 'Count of Interesting Subarrays', 1),
+(2846, 'Minimum Edge Weight Equilibrium Queries in a Tree', 2),
+(2847, 'Smallest Number With Given Digit Product', 1),
+(2848, 'Points That Intersect With Cars', 0),
+(2849, 'Determine if a Cell Is Reachable at a Given Time', 1),
+(2850, 'Minimum Moves to Spread Stones Over Grid', 1),
+(2851, 'String Transformation', 2),
+(2852, 'Sum of Remoteness of All Cells', 1),
+(2853, 'Highest Salaries Difference', 0),
+(2854, 'Rolling Average Steps', 1),
+(2855, 'Minimum Right Shifts to Sort the Array', 0),
+(2856, 'Minimum Array Length After Pair Removals', 1),
+(2857, 'Count Pairs of Points With Distance k', 1),
+(2858, 'Minimum Edge Reversals So Every Node Is Reachable', 2),
+(2859, 'Sum of Values at Indices With K Set Bits', 0),
+(2860, 'Happy Students', 1),
+(2861, 'Maximum Number of Alloys', 1),
+(2862, 'Maximum Element-Sum of a Complete Subset of Indices', 2),
+(2863, 'Maximum Length of Semi-Decreasing Subarrays', 1),
+(2864, 'Maximum Odd Binary Number', 0),
+(2865, 'Beautiful Towers I', 1),
+(2866, 'Beautiful Towers II', 1),
+(2867, 'Count Valid Paths in a Tree', 2),
+(2868, 'The Wording Game', 2),
+(2869, 'Minimum Operations to Collect Elements', 0),
+(2870, 'Minimum Number of Operations to Make Array Empty', 1),
+(2871, 'Split Array Into Maximum Number of Subarrays', 1),
+(2872, 'Maximum Number of K-Divisible Components', 2),
+(2873, 'Maximum Value of an Ordered Triplet I', 0),
+(2874, 'Maximum Value of an Ordered Triplet II', 1),
+(2875, 'Minimum Size Subarray in Infinite Array', 1),
+(2876, 'Count Visited Nodes in a Directed Graph', 2),
+(2877, 'Create a DataFrame from List', 0),
+(2878, 'Get the Size of a DataFrame', 0),
+(2879, 'Display the First Three Rows', 0),
+(2880, 'Select Data', 0),
+(2881, 'Create a New Column', 0),
+(2882, 'Drop Duplicate Rows', 0),
+(2883, 'Drop Missing Data', 0),
+(2884, 'Modify Columns', 0),
+(2885, 'Rename Columns', 0),
+(2886, 'Change Data Type', 0),
+(2887, 'Fill Missing Data', 0),
+(2888, 'Reshape Data: Concatenate', 0),
+(2889, 'Reshape Data: Pivot', 0),
+(2890, 'Reshape Data: Melt', 0),
+(2891, 'Method Chaining', 0),
+(2892, 'Minimizing Array After Replacing Pairs With Their Product', 1),
+(2893, 'Calculate Orders Within Each Interval', 1),
+(2894, 'Divisible and Non-divisible Sums Difference', 0),
+(2895, 'Minimum Processing Time', 1),
+(2896, 'Apply Operations to Make Two Strings Equal', 1),
+(2897, 'Apply Operations on Array to Maximize Sum of Squares', 2),
+(2898, 'Maximum Linear Stock Score', 1),
+(2899, 'Last Visited Integers', 0),
+(2900, 'Longest Unequal Adjacent Groups Subsequence I', 0),
+(2901, 'Longest Unequal Adjacent Groups Subsequence II', 1),
+(2902, 'Count of Sub-Multisets With Bounded Sum', 2),
+(2903, 'Find Indices With Index and Value Difference I', 0),
+(2904, 'Shortest and Lexicographically Smallest Beautiful String', 1),
+(2905, 'Find Indices With Index and Value Difference II', 1),
+(2906, 'Construct Product Matrix', 1),
+(2907, 'Maximum Profitable Triplets With Increasing Prices I', 1),
+(2908, 'Minimum Sum of Mountain Triplets I', 0),
+(2909, 'Minimum Sum of Mountain Triplets II', 1),
+(2910, 'Minimum Number of Groups to Create a Valid Assignment', 1),
+(2911, 'Minimum Changes to Make K Semi-palindromes', 2),
+(2912, 'Number of Ways to Reach Destination in the Grid', 2),
+(2913, 'Subarrays Distinct Element Sum of Squares I', 0),
+(2914, 'Minimum Number of Changes to Make Binary String Beautiful', 1),
+(2915, 'Length of the Longest Subsequence That Sums to Target', 1),
+(2916, 'Subarrays Distinct Element Sum of Squares II', 2),
+(2917, 'Find the K-or of an Array', 0),
+(2918, 'Minimum Equal Sum of Two Arrays After Replacing Zeros', 1),
+(2919, 'Minimum Increment Operations to Make Array Beautiful', 1),
+(2920, 'Maximum Points After Collecting Coins From All Nodes', 2),
+(2921, 'Maximum Profitable Triplets With Increasing Prices II', 2),
+(2922, 'Market Analysis III', 1),
+(2923, 'Find Champion I', 0),
+(2924, 'Find Champion II', 1),
+(2925, 'Maximum Score After Applying Operations on a Tree', 1),
+(2926, 'Maximum Balanced Subsequence Sum', 2),
+(2927, 'Distribute Candies Among Children III', 2),
+(2928, 'Distribute Candies Among Children I', 0),
+(2929, 'Distribute Candies Among Children II', 1),
+(2930, 'Number of Strings Which Can Be Rearranged to Contain Substring', 1),
+(2931, 'Maximum Spending After Buying Items', 2),
+(2932, 'Maximum Strong Pair XOR I', 0),
+(2933, 'High-Access Employees', 1),
+(2934, 'Minimum Operations to Maximize Last Elements in Arrays', 1),
+(2935, 'Maximum Strong Pair XOR II', 2),
+(2936, 'Number of Equal Numbers Blocks', 1),
+(2937, 'Make Three Strings Equal', 0),
+(2938, 'Separate Black and White Balls', 1),
+(2939, 'Maximum Xor Product', 1),
+(2940, 'Find Building Where Alice and Bob Can Meet', 2),
+(2941, 'Maximum GCD-Sum of a Subarray', 2),
+(2942, 'Find Words Containing Character', 0),
+(2943, 'Maximize Area of Square Hole in Grid', 1),
+(2944, 'Minimum Number of Coins for Fruits', 1),
+(2945, 'Find Maximum Non-decreasing Array Length', 2),
+(2946, 'Matrix Similarity After Cyclic Shifts', 0),
+(2947, 'Count Beautiful Substrings I', 1),
+(2948, 'Make Lexicographically Smallest Array by Swapping Elements', 1),
+(2949, 'Count Beautiful Substrings II', 2),
+(2950, 'Number of Divisible Substrings', 1),
+(2951, 'Find the Peaks', 0),
+(2952, 'Minimum Number of Coins to be Added', 1),
+(2953, 'Count Complete Substrings', 2),
+(2954, 'Count the Number of Infection Sequences', 2),
+(2955, 'Number of Same-End Substrings', 1),
+(2956, 'Find Common Elements Between Two Arrays', 0),
+(2957, 'Remove Adjacent Almost-Equal Characters', 1),
+(2958, 'Length of Longest Subarray With at Most K Frequency', 1),
+(2959, 'Number of Possible Sets of Closing Branches', 2),
+(2960, 'Count Tested Devices After Test Operations', 0),
+(2961, 'Double Modular Exponentiation', 1),
+(2962, 'Count Subarrays Where Max Element Appears at Least K Times', 1),
+(2963, 'Count the Number of Good Partitions', 2),
+(2964, 'Number of Divisible Triplet Sums', 1),
+(2965, 'Find Missing and Repeated Values', 0),
+(2966, 'Divide Array Into Arrays With Max Difference', 1),
+(2967, 'Minimum Cost to Make Array Equalindromic', 1),
+(2968, 'Apply Operations to Maximize Frequency Score', 2),
+(2969, 'Minimum Number of Coins for Fruits II', 2),
+(2970, 'Count the Number of Incremovable Subarrays I', 0),
+(2971, 'Find Polygon With the Largest Perimeter', 1),
+(2972, 'Count the Number of Incremovable Subarrays II', 2),
+(2973, 'Find Number of Coins to Place in Tree Nodes', 2),
+(2974, 'Minimum Number Game', 0),
+(2975, 'Maximum Square Area by Removing Fences From a Field', 1),
+(2976, 'Minimum Cost to Convert String I', 1),
+(2977, 'Minimum Cost to Convert String II', 2),
+(2978, 'Symmetric Coordinates', 1),
+(2979, 'Most Expensive Item That Can Not Be Bought', 1),
+(2980, 'Check if Bitwise OR Has Trailing Zeros', 0),
+(2981, 'Find Longest Special Substring That Occurs Thrice I', 1),
+(2982, 'Find Longest Special Substring That Occurs Thrice II', 1),
+(2983, 'Palindrome Rearrangement Queries', 2),
+(2984, 'Find Peak Calling Hours for Each City', 1),
+(2985, 'Calculate Compressed Mean', 0),
+(2986, 'Find Third Transaction', 1),
+(2987, 'Find Expensive Cities', 0),
+(2988, 'Manager of the Largest Department', 1),
+(2989, 'Class Performance', 1),
+(2990, 'Loan Types', 0),
+(2991, 'Top Three Wineries', 2),
+(2992, 'Number of Self-Divisible Permutations', 1),
+(2993, 'Friday Purchases I', 1),
+(2994, 'Friday Purchases II', 2),
+(2995, 'Viewers Turned Streamers', 2),
+(2996, 'Smallest Missing Integer Greater Than Sequential Prefix Sum', 0),
+(2997, 'Minimum Number of Operations to Make Array XOR Equal to K', 1),
+(2998, 'Minimum Number of Operations to Make X and Y Equal', 1),
+(2999, 'Count the Number of Powerful Integers', 2),
+(3000, 'Maximum Area of Longest Diagonal Rectangle', 0);
+
+INSERT INTO Questions ([Number], [Title], [Difficulty])
+VALUES
+(3001, 'Minimum Moves to Capture The Queen', 1),
+(3002, 'Maximum Size of a Set After Removals', 1),
+(3003, 'Maximize the Number of Partitions After Operations', 2),
+(3004, 'Maximum Subtree of the Same Color', 1),
+(3005, 'Count Elements With Maximum Frequency', 0),
+(3006, 'Find Beautiful Indices in the Given Array I', 1),
+(3007, 'Maximum Number That Sum of the Prices Is Less Than or Equal to K', 1),
+(3008, 'Find Beautiful Indices in the Given Array II', 2),
+(3009, 'Maximum Number of Intersections on the Chart', 2),
+(3010, 'Divide an Array Into Subarrays With Minimum Cost I', 0),
+(3011, 'Find if Array Can Be Sorted', 1),
+(3012, 'Minimize Length of Array Using Operations', 1),
+(3013, 'Divide an Array Into Subarrays With Minimum Cost II', 2),
+(3014, 'Minimum Number of Pushes to Type Word I', 0),
+(3015, 'Count the Number of Houses at a Certain Distance I', 1),
+(3016, 'Minimum Number of Pushes to Type Word II', 1),
+(3017, 'Count the Number of Houses at a Certain Distance II', 2),
+(3018, 'Maximum Number of Removal Queries That Can Be Processed I', 2),
+(3019, 'Number of Changing Keys', 0),
+(3020, 'Find the Maximum Number of Elements in Subset', 1),
+(3021, 'Alice and Bob Playing Flower Game', 1),
+(3022, 'Minimize OR of Remaining Elements Using Operations', 2),
+(3023, 'Find Pattern in Infinite Stream I', 1),
+(3024, 'Type of Triangle', 0),
+(3025, 'Find the Number of Ways to Place People I', 1),
+(3026, 'Maximum Good Subarray Sum', 1),
+(3027, 'Find the Number of Ways to Place People II', 2),
+(3028, 'Ant on the Boundary', 0),
+(3029, 'Minimum Time to Revert Word to Initial State I', 1),
+(3030, 'Find the Grid of Region Average', 1),
+(3031, 'Minimum Time to Revert Word to Initial State II', 2),
+(3032, 'Count Numbers With Unique Digits II', 0),
+(3033, 'Modify the Matrix', 0),
+(3034, 'Number of Subarrays That Match a Pattern I', 1),
+(3035, 'Maximum Palindromes After Operations', 1),
+(3036, 'Number of Subarrays That Match a Pattern II', 2),
+(3037, 'Find Pattern in Infinite Stream II', 2),
+(3038, 'Maximum Number of Operations With the Same Score I', 0),
+(3039, 'Apply Operations to Make String Empty', 1),
+(3040, 'Maximum Number of Operations With the Same Score II', 1),
+(3041, 'Maximize Consecutive Elements in an Array After Modification', 2),
+(3042, 'Count Prefix and Suffix Pairs I', 0),
+(3043, 'Find the Length of the Longest Common Prefix', 1),
+(3044, 'Most Frequent Prime', 1),
+(3045, 'Count Prefix and Suffix Pairs II', 2),
+(3046, 'Split the Array', 0),
+(3047, 'Find the Largest Area of Square Inside Two Rectangles', 1),
+(3048, 'Earliest Second to Mark Indices I', 1),
+(3049, 'Earliest Second to Mark Indices II', 2),
+(3050, 'Pizza Toppings Cost Analysis', 1),
+(3051, 'Find Candidates for Data Scientist Position', 0),
+(3052, 'Maximize Items', 2),
+(3053, 'Classifying Triangles by Lengths', 0),
+(3054, 'Binary Tree Nodes', 1),
+(3055, 'Top Percentile Fraud', 1),
+(3056, 'Snaps Analysis', 1),
+(3057, 'Employees Project Allocation', 2),
+(3058, 'Friends With No Mutual Friends', 1),
+(3059, 'Find All Unique Email Domains', 0),
+(3060, 'User Activities within Time Bounds', 2),
+(3061, 'Calculate Trapping Rain Water', 2),
+(3062, 'Winner of the Linked List Game', 0),
+(3063, 'Linked List Frequency', 0),
+(3064, 'Guess the Number Using Bitwise Questions I', 1),
+(3065, 'Minimum Operations to Exceed Threshold Value I', 0),
+(3066, 'Minimum Operations to Exceed Threshold Value II', 1),
+(3067, 'Count Pairs of Connectable Servers in a Weighted Tree Network', 1),
+(3068, 'Find the Maximum Sum of Node Values', 2),
+(3069, 'Distribute Elements Into Two Arrays I', 0),
+(3070, 'Count Submatrices with Top-Left Element and Sum Less Than k', 1),
+(3071, 'Minimum Operations to Write the Letter Y on a Grid', 1),
+(3072, 'Distribute Elements Into Two Arrays II', 2),
+(3073, 'Maximum Increasing Triplet Value', 1),
+(3074, 'Apple Redistribution into Boxes', 0),
+(3075, 'Maximize Happiness of Selected Children', 1),
+(3076, 'Shortest Uncommon Substring in an Array', 1),
+(3077, 'Maximum Strength of K Disjoint Subarrays', 2),
+(3078, 'Match Alphanumerical Pattern in Matrix I', 1),
+(3079, 'Find the Sum of Encrypted Integers', 0),
+(3080, 'Mark Elements on Array by Performing Queries', 1),
+(3081, 'Replace Question Marks in String to Minimize Its Value', 1),
+(3082, 'Find the Sum of the Power of All Subsequences', 2),
+(3083, 'Existence of a Substring in a String and Its Reverse', 0),
+(3084, 'Count Substrings Starting and Ending with Given Character', 1),
+(3085, 'Minimum Deletions to Make String K-Special', 1),
+(3086, 'Minimum Moves to Pick K Ones', 2),
+(3087, 'Find Trending Hashtags', 1),
+(3088, 'Make String Anti-palindrome', 2),
+(3089, 'Find Bursty Behavior', 1),
+(3090, 'Maximum Length Substring With Two Occurrences', 0),
+(3091, 'Apply Operations to Make Sum of Array Greater Than or Equal to k', 1),
+(3092, 'Most Frequent IDs', 1),
+(3093, 'Longest Common Suffix Queries', 2),
+(3094, 'Guess the Number Using Bitwise Questions II', 1),
+(3095, 'Shortest Subarray With OR at Least K I', 0),
+(3096, 'Minimum Levels to Gain More Points', 1),
+(3097, 'Shortest Subarray With OR at Least K II', 1),
+(3098, 'Find the Sum of Subsequence Powers', 2),
+(3099, 'Harshad Number', 0),
+(3100, 'Water Bottles II', 1),
+(3101, 'Count Alternating Subarrays', 1),
+(3102, 'Minimize Manhattan Distances', 2),
+(3103, 'Find Trending Hashtags II', 2),
+(3104, 'Find Longest Self-Contained Substring', 2),
+(3105, 'Longest Strictly Increasing or Strictly Decreasing Subarray', 0),
+(3106, 'Lexicographically Smallest String After Operations With Constraint', 1),
+(3107, 'Minimum Operations to Make Median of Array Equal to K', 1),
+(3108, 'Minimum Cost Walk in Weighted Graph', 2),
+(3109, 'Find the Index of Permutation', 1),
+(3110, 'Score of a String', 0),
+(3111, 'Minimum Rectangles to Cover Points', 1),
+(3112, 'Minimum Time to Visit Disappearing Nodes', 1),
+(3113, 'Find the Number of Subarrays Where Boundary Elements Are Maximum', 2),
+(3114, 'Latest Time You Can Obtain After Replacing Characters', 0),
+(3115, 'Maximum Prime Difference', 1),
+(3116, 'Kth Smallest Amount With Single Denomination Combination', 2),
+(3117, 'Minimum Sum of Values by Dividing Array', 2),
+(3118, 'Friday Purchase III', 1),
+(3119, 'Maximum Number of Potholes That Can Be Fixed', 1),
+(3120, 'Count the Number of Special Characters I', 0),
+(3121, 'Count the Number of Special Characters II', 1),
+(3122, 'Minimum Number of Operations to Satisfy Conditions', 1),
+(3123, 'Find Edges in Shortest Paths', 2),
+(3124, 'Find Longest Calls', 1),
+(3125, 'Maximum Number That Makes Result of Bitwise AND Zero', 1),
+(3126, 'Server Utilization Time', 1),
+(3127, 'Make a Square with the Same Color', 0),
+(3128, 'Right Triangles', 1),
+(3129, 'Find All Possible Stable Binary Arrays I', 1),
+(3130, 'Find All Possible Stable Binary Arrays II', 2),
+(3131, 'Find the Integer Added to Array I', 0),
+(3132, 'Find the Integer Added to Array II', 1),
+(3133, 'Minimum Array End', 1),
+(3134, 'Find the Median of the Uniqueness Array', 2),
+(3135, 'Equalize Strings by Adding or Removing Characters at Ends', 1),
+(3136, 'Valid Word', 0),
+(3137, 'Minimum Number of Operations to Make Word K-Periodic', 1),
+(3138, 'Minimum Length of Anagram Concatenation', 1),
+(3139, 'Minimum Cost to Equalize Array', 2),
+(3140, 'Consecutive Available Seats II', 1),
+(3141, 'Maximum Hamming Distances', 2),
+(3142, 'Check if Grid Satisfies Conditions', 0),
+(3143, 'Maximum Points Inside the Square', 1),
+(3144, 'Minimum Substring Partition of Equal Character Frequency', 1),
+(3145, 'Find Products of Elements of Big Array', 2),
+(3146, 'Permutation Difference between Two Strings', 0),
+(3147, 'Taking Maximum Energy From the Mystic Dungeon', 1),
+(3148, 'Maximum Difference Score in a Grid', 1),
+(3149, 'Find the Minimum Cost Array Permutation', 2),
+(3150, 'Invalid Tweets II', 0),
+(3151, 'Special Array I', 0),
+(3152, 'Special Array II', 1),
+(3153, 'Sum of Digit Differences of All Pairs', 1),
+(3154, 'Find Number of Ways to Reach the K-th Stair', 2),
+(3155, 'Maximum Number of Upgradable Servers', 1),
+(3156, 'Employee Task Duration and Concurrent Tasks', 2),
+(3157, 'Find the Level of Tree with Minimum Sum', 1),
+(3158, 'Find the XOR of Numbers Which Appear Twice', 0),
+(3159, 'Find Occurrences of an Element in an Array', 1),
+(3160, 'Find the Number of Distinct Colors Among the Balls', 1),
+(3161, 'Block Placement Queries', 2),
+(3162, 'Find the Number of Good Pairs I', 0),
+(3163, 'String Compression III', 1),
+(3164, 'Find the Number of Good Pairs II', 1),
+(3165, 'Maximum Sum of Subsequence With Non-adjacent Elements', 2),
+(3166, 'Calculate Parking Fees and Duration', 1),
+(3167, 'Better Compression of String', 1),
+(3168, 'Minimum Number of Chairs in a Waiting Room', 0),
+(3169, 'Count Days Without Meetings', 1),
+(3170, 'Lexicographically Minimum String After Removing Stars', 1),
+(3171, 'Find Subarray With Bitwise OR Closest to K', 2),
+(3172, 'Second Day Verification', 0),
+(3173, 'Bitwise OR of Adjacent Elements', 0),
+(3174, 'Clear Digits', 0),
+(3175, 'Find The First Player to win K Games in a Row', 1),
+(3176, 'Find the Maximum Length of a Good Subsequence I', 1),
+(3177, 'Find the Maximum Length of a Good Subsequence II', 2),
+(3178, 'Find the Child Who Has the Ball After K Seconds', 0),
+(3179, 'Find the N-th Value After K Seconds', 1),
+(3180, 'Maximum Total Reward Using Operations I', 1),
+(3181, 'Maximum Total Reward Using Operations II', 2),
+(3182, 'Find Top Scoring Students', 1),
+(3183, 'The Number of Ways to Make the Sum', 1),
+(3184, 'Count Pairs That Form a Complete Day I', 0),
+(3185, 'Count Pairs That Form a Complete Day II', 1),
+(3186, 'Maximum Total Damage With Spell Casting', 1),
+(3187, 'Peaks in Array', 2),
+(3188, 'Find Top Scoring Students II', 2),
+(3189, 'Minimum Moves to Get a Peaceful Board', 1),
+(3190, 'Find Minimum Operations to Make All Elements Divisible by Three', 0),
+(3191, 'Minimum Operations to Make Binary Array Elements Equal to One I', 1),
+(3192, 'Minimum Operations to Make Binary Array Elements Equal to One II', 1),
+(3193, 'Count the Number of Inversions', 2),
+(3194, 'Minimum Average of Smallest and Largest Elements', 0),
+(3195, 'Find the Minimum Area to Cover All Ones I', 1),
+(3196, 'Maximize Total Cost of Alternating Subarrays', 1),
+(3197, 'Find the Minimum Area to Cover All Ones II', 2),
+(3198, 'Find Cities in Each State', 0),
+(3199, 'Count Triplets with Even XOR Set Bits I', 0),
+(3200, 'Maximum Height of a Triangle', 0),
+(3201, 'Find the Maximum Length of Valid Subsequence I', 1),
+(3202, 'Find the Maximum Length of Valid Subsequence II', 1),
+(3203, 'Find Minimum Diameter After Merging Two Trees', 2),
+(3204, 'Bitwise User Permissions Analysis', 1),
+(3205, 'Maximum Array Hopping Score I', 1),
+(3206, 'Alternating Groups I', 0),
+(3207, 'Maximum Points After Enemy Battles', 1),
+(3208, 'Alternating Groups II', 1),
+(3209, 'Number of Subarrays With AND Value of K', 2),
+(3210, 'Find the Encrypted String', 0),
+(3211, 'Generate Binary Strings Without Adjacent Zeros', 1),
+(3212, 'Count Submatrices With Equal Frequency of X and Y', 1),
+(3213, 'Construct String with Minimum Cost', 2),
+(3214, 'Year on Year Growth Rate', 2),
+(3215, 'Count Triplets with Even XOR Set Bits II', 1),
+(3216, 'Lexicographically Smallest String After a Swap', 0),
+(3217, 'Delete Nodes From Linked List Present in Array', 1),
+(3218, 'Minimum Cost for Cutting Cake I', 1),
+(3219, 'Minimum Cost for Cutting Cake II', 2),
+(3220, 'Odd and Even Transactions', 1),
+(3221, 'Maximum Array Hopping Score II', 1),
+(3222, 'Find the Winning Player in Coin Game', 0),
+(3223, 'Minimum Length of String After Operations', 1),
+(3224, 'Minimum Array Changes to Make Differences Equal', 1),
+(3225, 'Maximum Score From Grid Operations', 2),
+(3226, 'Number of Bit Changes to Make Two Integers Equal', 0),
+(3227, 'Vowels Game in a String', 1),
+(3228, 'Maximum Number of Operations to Move Ones to the End', 1),
+(3229, 'Minimum Operations to Make Array Equal to Target', 2),
+(3230, 'Customer Purchasing Behavior Analysis', 1),
+(3231, 'Minimum Number of Increasing Subsequence to Be Removed', 2),
+(3232, 'Find if Digit Game Can Be Won', 0),
+(3233, 'Find the Count of Numbers Which Are Not Special', 1),
+(3234, 'Count the Number of Substrings With Dominant Ones', 1),
+(3235, 'Check if the Rectangle Corner Is Reachable', 2),
+(3236, 'CEO Subordinate Hierarchy', 2),
+(3237, 'Alt and Tab Simulation', 1),
+(3238, 'Find the Number of Winning Players', 0),
+(3239, 'Minimum Number of Flips to Make Binary Grid Palindromic I', 1),
+(3240, 'Minimum Number of Flips to Make Binary Grid Palindromic II', 1),
+(3241, 'Time Taken to Mark All Nodes', 2),
+(3242, 'Design Neighbor Sum Service', 0),
+(3243, 'Shortest Distance After Road Addition Queries I', 1),
+(3244, 'Shortest Distance After Road Addition Queries II', 2),
+(3245, 'Alternating Groups III', 2),
+(3246, 'Premier League Table Ranking', 0),
+(3247, 'Number of Subsequences with Odd Sum', 1),
+(3248, 'Snake in Matrix', 0),
+(3249, 'Count the Number of Good Nodes', 1),
+(3250, 'Find the Count of Monotonic Pairs I', 2),
+(3251, 'Find the Count of Monotonic Pairs II', 2),
+(3252, 'Premier League Table Ranking II', 1),
+(3253, 'Construct String with Minimum Cost (Easy)', 1),
+(3254, 'Find the Power of K-Size Subarrays I', 1),
+(3255, 'Find the Power of K-Size Subarrays II', 1),
+(3256, 'Maximum Value Sum by Placing Three Rooks I', 2),
+(3257, 'Maximum Value Sum by Placing Three Rooks II', 2),
+(3258, 'Count Substrings That Satisfy K-Constraint I', 0),
+(3259, 'Maximum Energy Boost From Two Drinks', 1),
+(3260, 'Find the Largest Palindrome Divisible by K', 2),
+(3261, 'Count Substrings That Satisfy K-Constraint II', 2),
+(3262, 'Find Overlapping Shifts', 1),
+(3263, 'Convert Doubly Linked List to Array I', 0);
