@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AraratianApexSolutions.LeetCodeTracker.Migrations
 {
-    [DbContext(typeof(LeetCodeTrackerContext))]
+    [DbContext(typeof(LeetCodeTrackerDbContext))]
     [Migration("20240823181431_InitialCreate")]
     partial class InitialCreate
     {

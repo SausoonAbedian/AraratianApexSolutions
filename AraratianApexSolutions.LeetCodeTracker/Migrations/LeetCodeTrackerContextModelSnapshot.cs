@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AraratianApexSolutions.LeetCodeTracker.Migrations
 {
-    [DbContext(typeof(LeetCodeTrackerContext))]
+    [DbContext(typeof(LeetCodeTrackerDbContext))]
     partial class LeetCodeTrackerContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
