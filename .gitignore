@@ -391,3 +391,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/AraratianApexSolutions.LeetCodeTracker/Database/LeetCodeTrackerDb.mdf
+/AraratianApexSolutions.LeetCodeTracker/Database/LeetCodeTrackerDb_log.ldf
+/AraratianApexSolutions.LeetCodeTracker/Database/LeetCodeTrackerDb.mdf
+/AraratianApexSolutions.LeetCodeTracker/Database/LeetCodeTrackerDb_log.ldf
