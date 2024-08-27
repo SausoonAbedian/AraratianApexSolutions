@@ -1,0 +1,27 @@
+﻿@import "../shared/main_layout.scss";
+
+@media (min-width: 1001px) and (max-width: 1300px) {
+    body {
+        @include body-shared;
+        background-color: rgb(255, 155, 155);
+        grid-template-columns: 1300px;
+    }
+
+    #application-left-padding {
+        @include application-shared;
+        display: none;
+        grid-column: 1;
+    }
+
+    #application {
+        @include application-shared;
+        grid-column: 2;
+        background-color: rgb(200, 100, 100);
+    }
+
+    #application-right-padding {
+        @include application-shared;
+        display: none;
+        grid-column: 3;
+    }
+}

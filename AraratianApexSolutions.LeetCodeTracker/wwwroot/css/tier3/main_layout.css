@@ -1,0 +1,43 @@
+﻿@media (min-width: 801px) and (max-width: 1000px) {
+  body {
+    font-family: Helvetica;
+    margin: 0px;
+    display: grid;
+    grid-template-rows: 1fr;
+    background-color: rgb(155, 255, 155);
+    grid-template-columns: 1fr;
+  }
+  #application-left-padding {
+    grid-row: 1;
+    color: black;
+    font-size: 15em;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: auto;
+    display: none;
+    grid-column: 1;
+  }
+  #application {
+    grid-row: 1;
+    color: black;
+    font-size: 15em;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: auto;
+    grid-column: 2;
+    background-color: rgb(100, 200, 100);
+  }
+  #application-right-padding {
+    grid-row: 1;
+    color: black;
+    font-size: 15em;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: auto;
+    display: none;
+    grid-column: 3;
+  }
+}

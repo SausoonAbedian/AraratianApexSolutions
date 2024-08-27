@@ -18,5 +18,33 @@
   {
     "outputFile": "wwwroot/questions.css",
     "inputFile": "wwwroot/questions.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/shared/main_layout.css",
+    "inputFile": "wwwroot/css/shared/main_layout.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/shared/navbar.css",
+    "inputFile": "wwwroot/css/shared/navbar.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/shared/questions.css",
+    "inputFile": "wwwroot/css/shared/questions.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/tier1/main_layout.css",
+    "inputFile": "wwwroot/css/tier1/main_layout.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/tier2/main_layout.css",
+    "inputFile": "wwwroot/css/tier2/main_layout.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/tier3/main_layout.css",
+    "inputFile": "wwwroot/css/tier3/main_layout.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/tier4/main_layout.css",
+    "inputFile": "wwwroot/css/tier4/main_layout.scss"
   }
 ]
