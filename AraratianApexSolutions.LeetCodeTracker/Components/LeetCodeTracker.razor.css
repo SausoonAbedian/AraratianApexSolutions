@@ -1,0 +1,136 @@
+.leet-code-tracker {
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    font-family: 'Noto Sans';
+    grid-template-columns: 1fr 1300px 1fr;
+    grid-template-rows: 1fr;
+}
+
+.leet-code-tracker__left-padding {
+    align-items: center;
+    background-color: rgb(230, 230, 230);
+    color: black;
+    font-size: 15em;
+    grid-column: 1;
+    grid-row: 1;
+    height: auto;
+    justify-content: center;
+    min-height: 100vh;
+    width: auto;
+}
+
+.leet-code-tracker__content {
+    background-color: rgb(200, 200, 200);
+    color: black;
+    display: grid;
+    font-size: 15em;
+    grid-column: 2;
+    grid-row: 1;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: 1fr;
+    height: auto;
+    justify-content: center;
+    min-height: 100vh;
+    width: auto;
+}
+
+.leet-code-tracker__right-padding {
+    align-items: center;
+    background-color: rgb(230, 230, 230);
+    color: black;
+    font-size: 15em;
+    grid-column: 3;
+    grid-row: 1;
+    height: auto;
+    justify-content: center;
+    min-height: 100vh;
+    width: auto;
+}
+
+#nav-bar {
+    align-items: center;
+    background-color: rgb(170, 170, 170);
+    border-right: 1px solid rgb(30, 30, 30);
+    color: black;
+    display: grid;
+    font-size: 15em;
+    grid-column: 1;
+    grid-row: 1;
+    grid-template-columns: 1fr;
+    grid-template-rows: 8vh 5vh 1fr;
+    height: auto;
+    justify-content: center;
+    min-height: 100vh;
+    width: auto;
+}
+
+#nav-bar-item-container {
+    align-items: center;
+    background-color: rgb(140, 140, 140);
+    color: black;
+    font-size: 15em;
+    grid-column: 1;
+    grid-row: 2;
+    height: 5vh;
+    justify-content: center;
+    width: auto;
+}
+
+#nav-bar-item-container-bottom-padding {
+    align-items: center;
+    background: repeating-linear-gradient(45deg, rgb(170, 170, 170), rgb(170, 170, 170) 10px, rgb(140, 140, 140) 10px, rgb(140, 140, 140) 20px);
+    color: black;
+    font-size: 15em;
+    grid-column: 1;
+    grid-row: 3;
+    height: auto;
+    justify-content: center;
+    min-height: 87vh;
+    width: auto;
+}
+
+#nav-bar-item-container-top-padding {
+    align-items: center;
+    background: repeating-linear-gradient(45deg, rgb(170, 170, 170), rgb(170, 170, 170) 10px, rgb(140, 140, 140) 10px, rgb(140, 140, 140) 20px);
+    color: black;
+    font-size: 15em;
+    grid-column: 1;
+    grid-row: 1;
+    height: 8vh;
+    justify-content: center;
+    width: auto;
+}
+
+#page {
+    align-items: center;
+    background-color: rgb(170, 170, 170);
+    color: black;
+    font-size: 15em;
+    grid-column: 2;
+    grid-row: 1;
+    height: auto;
+    justify-content: center;
+    margin: 3vh 0 0 1vw;
+    min-height: 97vh;
+    width: auto;
+}
+
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
