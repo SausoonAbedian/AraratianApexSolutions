@@ -1,0 +1,53 @@
+﻿@page "/"
+@page "/Questions"
+
+@using AraratianApexSolutions.LeetCodeTracker.Models
+@using AraratianApexSolutions.LeetCodeTracker.Services
+
+@inject DataAccessService DataAccessService
+
+<PageTitle>Questions</PageTitle>
+
+<div class="questions">
+    <table class="questions__table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Title</th>
+                <th>Difficulty</th>
+                <th>Create Question</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (questions != null)
+            {
+                @foreach (Question question in questions)
+                {
+                    <tr>
+                        <td>
+                            @(question.Number.ToString().PadLeft(4, '0'))
+                        </td>
+                        <td>
+                            @question.Title
+                        </td>
+                        <td>
+                            @((QuestionDifficultyEnum)question.Difficulty)
+                        </td>
+                        <td>
+                            Edit - Delete
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+@code {
+    private List<Question> questions;
+
+    protected override async Task OnInitializedAsync()
+    {
+        questions = await DataAccessService.GetQuestionsAsync();
+    }
+}

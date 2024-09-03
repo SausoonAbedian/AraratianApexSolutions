@@ -1,0 +1,47 @@
+﻿@inject NavigationManager NavigationManager
+
+<div class="navigation">
+    <div class="navigation__logo">
+        <a href="/" class="navigation__logo__image-link" />
+    </div>
+    <div class="navigation__menu-container">
+        <a href="/Questions" class="navigation__menu-container__questions-item">
+            <div class="@GetClassName("Questions", true)" />
+            <div class="@GetClassName("Questions", false)">Questions</div>
+        </a>
+    </div>
+</div>
+
+@* <div class="navbar">
+    <NavLink href="/Questions" class="@GetClassName("Questions")" Match="NavLinkMatch.All">Questions</NavLink>
+    <NavLink href="/Groups" class="@GetClassName("Groups")")" Match="NavLinkMatch.All">Groups</NavLink>
+    <NavLink href="/Categories" class="@GetClassName("Categories")" Match="NavLinkMatch.All">Categories</NavLink>
+</div> *@
+
+@code {
+    string GetClassName(string linkName, bool isLogo)
+    {
+        if (isLogo)
+        {
+            if (NavigationManager.Uri.Contains(linkName) || NavigationManager.Uri == NavigationManager.BaseUri)
+            {
+                return "navigation__menu-container__questions-item__icon--active";
+            }
+            else
+            {
+                return "navigation__menu-container__questions-item__icon";
+            }
+        }
+        else
+        {
+            if (NavigationManager.Uri.Contains(linkName) || NavigationManager.Uri == NavigationManager.BaseUri)
+            {
+                return "navigation__menu-container__questions-item__text--active";
+            }
+            else
+            {
+                return "navigation__menu-container__questions-item__text";
+            }
+        }
+    }
+}

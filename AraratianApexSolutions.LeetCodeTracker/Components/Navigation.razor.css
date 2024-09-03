@@ -1,0 +1,89 @@
+﻿.navigation {
+    background-color: rgb(255, 255, 255);
+    border-right: 1px solid rgb(30, 30, 30);
+    display: grid;
+    grid-column: 1;
+    grid-row: 1;
+    grid-template-columns: 1fr 10px;
+    grid-template-rows: 10px auto 30px auto 1fr;
+}
+.navigation__logo {
+    background-color: inherit;
+    display: grid;
+    grid-column: 1;
+    grid-row: 2;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: 100%;
+}
+
+.navigation__logo__image-link {
+    background-image: url('/img/Icon.svg');
+    background-size: cover;
+    background-position: center;
+    width: 160px;
+    height: 70px;
+    display: block;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.navigation__logo__image-link:hover {
+    background-image: url('/img/IconHover.svg');
+    cursor: pointer;
+}
+
+.navigation__menu-container {
+    background-color: inherit;
+    display: grid;
+    grid-column: 1;
+    grid-row: 4;
+    grid-template-columns: 100%;
+    grid-template-rows: 100%;
+}
+
+.navigation__menu-container__questions-item {
+    font-weight: 600;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    display: grid;
+    grid-column: 1;
+    grid-row: 1;
+    grid-template-columns: 30px 5px 1fr;
+    grid-template-rows: 30px;
+}
+
+.navigation__menu-container__questions-item:hover {
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.navigation__menu-container__questions-item__icon {
+    background-image: url('/img/Icon1.svg');
+    background-size: cover;
+    background-position: center;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.navigation__menu-container__questions-item__text {
+    align-content: center;
+    justify-content: center;
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.navigation__menu-container__questions-item__icon--active {
+    background-image: url('/img/Icon1Hover.svg');
+    cursor: pointer;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.navigation__menu-container__questions-item__text--active {
+    align-content: center;
+    justify-content: center;
+    font-weight: 900;
+    grid-column: 3;
+    grid-row: 1;
+}
