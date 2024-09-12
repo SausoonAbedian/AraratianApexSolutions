@@ -2,14 +2,25 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using AraratianApexSolutions.LeetCodeTracker.Models;
-using Microsoft.EntityFrameworkCore;
 
 public class DataAccessService(LeetCodeTrackerDbContext context)
 {
-    public async Task<List<Question>> GetQuestionsAsync()
+    public List<Question> GetQuestions(int pageNumber, int howMany)
     {
-        return await context.Questions.OrderBy(a => a.Number).ToListAsync();
+        return [.. context.Questions.OrderBy(a => a.Number).Skip((pageNumber - 1) * howMany).Take(howMany)];
+    }
+
+    public int GetQuestionsPageCount(int howMany)
+    {
+        int rowCount = context.Questions.Count();
+        int pageCount = (rowCount / howMany) + 1;
+
+        if (rowCount % howMany == 0)
+        {
+            pageCount--;
+        }
+
+        return pageCount;
     }
 }

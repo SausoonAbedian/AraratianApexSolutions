@@ -15,13 +15,12 @@
                 <th>#</th>
                 <th>Title</th>
                 <th>Difficulty</th>
-                <th>Create Question</th>
             </tr>
         </thead>
         <tbody>
-            @if (questions != null)
+            @if (this._questions != null)
             {
-                @foreach (Question question in questions)
+                @foreach (Question question in this._questions)
                 {
                     <tr>
                         <td>
@@ -33,21 +32,17 @@
                         <td>
                             @((QuestionDifficultyEnum)question.Difficulty)
                         </td>
-                        <td>
-                            Edit - Delete
-                        </td>
                     </tr>
                 }
             }
         </tbody>
     </table>
+    <div class="questions__table-controls-container">
+        <div class="questions__table-controls">
+            <InputNumber @bind-Value="this._pageNumber" @oninput="@(e => this.ListChange(e.Value.ToString()))" min="1" max="@this._maxPageNumber" TValue="int" />
+            <span>page of @(this._maxPageNumber) pages. </span>
+            <InputNumber @bind-Value="this._howMany" @oninput="@(e => this.SelectChange(e.Value.ToString()))" min="1" max="250" TValue="int" />
+            <span> records per page.</span>
+        </div>
+    </div>
 </div>
-
-@code {
-    private List<Question> questions;
-
-    protected override async Task OnInitializedAsync()
-    {
-        questions = await DataAccessService.GetQuestionsAsync();
-    }
-}
