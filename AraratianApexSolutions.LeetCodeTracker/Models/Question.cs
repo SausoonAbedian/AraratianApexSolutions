@@ -1,5 +1,6 @@
 ﻿namespace AraratianApexSolutions.LeetCodeTracker.Models;
 
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -14,4 +15,6 @@ public class Question
 
     [Required]
     public QuestionDifficultyEnum Difficulty { get; set; }
+
+    public List<QuestionDescription> Description { get; set; }
 }

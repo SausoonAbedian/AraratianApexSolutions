@@ -1,0 +1,12 @@
+﻿@page "/QuestionDescriptions/{Id:int}"
+
+@using AraratianApexSolutions.LeetCodeTracker.Models
+@using AraratianApexSolutions.LeetCodeTracker.Services
+
+@inject DataAccessService DataAccessService
+
+<PageTitle>Question Description</PageTitle>
+
+<div class="question-descriptions">
+    @this.Id
+</div>

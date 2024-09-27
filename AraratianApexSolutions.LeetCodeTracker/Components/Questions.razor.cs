@@ -1,6 +1,10 @@
 ﻿namespace AraratianApexSolutions.LeetCodeTracker.Components;
 
 using AraratianApexSolutions.LeetCodeTracker.Models;
+
+using Microsoft.AspNetCore.Components;
+
+using System;
 using System.Collections.Generic;
 
 public partial class Questions
@@ -14,6 +18,11 @@ public partial class Questions
     {
         this._questions = DataAccessService.GetQuestions(this._pageNumber, this._howMany);
         this._maxPageNumber = DataAccessService.GetQuestionsPageCount(this._howMany);
+    }
+
+    private void QuestionsTableRowClick(int number)
+    {
+        Navigation.NavigateTo($"/QuestionDescriptions/{number}");
     }
 
     private void ListChange(string input)

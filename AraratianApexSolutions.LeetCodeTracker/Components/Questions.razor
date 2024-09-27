@@ -4,6 +4,7 @@
 @using AraratianApexSolutions.LeetCodeTracker.Models
 @using AraratianApexSolutions.LeetCodeTracker.Services
 
+@inject NavigationManager Navigation
 @inject DataAccessService DataAccessService
 
 <PageTitle>Questions</PageTitle>
@@ -22,7 +23,7 @@
             {
                 @foreach (Question question in this._questions)
                 {
-                    <tr>
+                    <tr @onclick="() => QuestionsTableRowClick(question.Number)">
                         <td>
                             @(question.Number.ToString().PadLeft(4, '0'))
                         </td>
